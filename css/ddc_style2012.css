@@ -1,0 +1,764 @@
+/***********************************************/
+/* DDC-layout.css                              */
+/* Default format for the IPCC DDC web site    */
+/* Matt Livermore (31/05/2004)                 */
+/***********************************************/ 
+
+/***********************************************/ 
+/* HTML tag styles                             */
+/***********************************************/ 
+
+/* General Content Formatting                  */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+}	 
+	 
+body {
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+        margin-left: 3px;
+    }
+
+a:link {
+	color: #4f96ff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #2848ff;
+	text-decoration: none;
+}
+
+a:visited:hover {
+	color: #2848ff;
+	text-decoration: underline;
+}
+
+a:link:hover {
+	color: #4f96ff;
+	text-decoration: underline;
+}
+
+#hdr-c a:visited {
+	color: #284800;
+	text-decoration: none;
+}
+
+a.extern:link {
+	color: #964fff;
+	text-decoration: none;
+}
+
+a.extern:visited {
+	color: #880048;
+	text-decoration: none;
+}
+
+a.extern:visited:hover {
+	color: #ff4000;
+	text-decoration: underline;
+}
+
+a.extern:link:hover {
+	color: #ff9640;
+	text-decoration: underline;
+}
+
+#content {
+	margin-left:20px;
+	margin-right:10px;
+}
+
+p {
+	padding: 0px 10px 0px 10px;
+}
+
+#hdr-c a {font-size: large; }
+
+#hdr-c a:link {
+	color: #222244;
+	text-decoration: none;
+}
+#hdr-c a:link:visited {
+	color: #225522;
+	text-decoration: none;
+}
+#hdr-c a:link:hover {
+	color: #882222;
+	text-decoration: underline;
+}
+
+span.sr { 
+   color: #0000dd;
+   text-decoration: none;
+   }
+
+h1 {
+  font-family: Verdana,Arial,sans-serif;
+  font-size: 140%;
+  color: #ffffff;
+  padding: 0px 0px 5px 0pt;
+  margin: 00px 0px 0px 0px;
+}
+
+h2 {
+  font-family: Arial,sans-serif;
+  font-size: 130%;
+  color: #ffffff;
+  margin: 00px 50px 0px 10px;
+  color: #ffffff;
+}
+
+h3 {
+	font-size: 110%;
+        font-weight: bold; 
+        margin-left: 20px;
+}
+
+h4 {
+	font-size: 90%;
+	padding: 0px 0px 0px 0px;
+}
+
+/***********************************************/
+/* Layout Div Properties                       */
+/***********************************************/
+
+.odd-table-column { background-color: #ccffcc }
+.even-table-column { background-color: #ccccff }
+
+
+/* #relatedinks styles */
+#relatedlinks {
+		position: relative;
+		width: 212px;
+		margin: 3px 5px 20px 0px;
+		padding: 5px 0px 10px 5px;
+		border: 0px solid #999999;
+	}
+	
+#relatedlinks h3 {
+		border: 1px solid #000000;
+		padding: 0px 5px 0px 5px;
+		margin: 6px 9px 0px 4px;
+	}
+	
+#relatedlinks a:link, #relatedlinks a:visited {
+		display: block; 
+	}
+#relatedlinks a:link { color:#ffffff; }
+
+#relatedlinks ul a:link, #navBar ul a:visited {display: block;}
+#relatedlinks ul {
+		list-style: none; 
+		margin: 0; 
+		padding: 5px 0px 2px 0px;
+	}
+	
+/* hack to fix IE/Win's broken rendering of block-level anchors in lists */
+#relatedlinks li {
+		padding: 0px 0px 2px 0px;
+		border-bottom: 1px solid #ffffff;
+	}
+	
+/* fix for browsers that don't need the hack */
+html>body #relatedlinks li {border-bottom: none;}
+
+/* #search box layout */
+#search {
+		width: 140px;
+		height: 132px;
+		padding: 2px 0px 2px 2px;
+		font-size: 90%;
+		color: #ffffff;
+		border: 1px solid #000000;
+		background-color: #999999;
+	}
+
+#search form {
+			margin: 0px;
+			padding: 0px;
+}
+		
+#search label {
+			display: block;
+			margin: 0px;
+			padding: 0px;
+		}
+
+		
+#search a:link {
+			color: #ffffff;
+			text-decoration: none;
+		}
+		
+#search a:visited {
+			color: #ffffff;
+			text-decoration: none;
+		}
+		
+#search a:hover {
+			color: #ffffff;
+			text-decoration: underline;
+		}
+
+	/* #latestnews box layout */
+#latestnews {
+		width: 215px;
+		padding: 5px 5px 5px 5px;
+		font-size: 100%;
+		color: #000000;
+		background-color: #e5e5e5;
+		border: 1px solid #999999;
+	}
+		
+#latestnews p {
+		padding: 0px 2px 0px 2px;
+		font-size: 90%;
+		}
+		
+#latestnews h3 {
+		border: 1px solid #000000;
+		padding: 0px 5px 0px 5px;
+		margin: 2px 4px 0px 0px;
+		}
+
+	/* #addinfo box layout */
+		
+#addinfo {
+		width: 210px;
+		height: 20em;
+		padding: 5px 0px 0px 5px;
+		margin: 0px 0px 0px 5px;
+		font-size: 100%;
+		color: #000000;
+		background-color: #e5e5e5;
+		border: 1px solid #999999;
+	}
+		
+#addinfo p {
+			padding: 0px 2px 0px 2px;
+			font-size: 90%;
+		}
+		
+		#addinfo h3 {
+		border: 1px solid #000000;
+		padding: 0px 5px 0px 5px;
+		margin: 2px 4px 0px 0px;
+		}
+
+#addinfo a:link,
+#addinfo a:visited {
+			display: block; 
+		}
+	
+#addinfo ul a:link, #navBar ul a:visited {display: block;}
+#addinfo ul {
+			list-style: none; 
+			margin: 0; 
+			padding: 0px 0px 2px 0px;
+		}
+		
+/* hack to fix IE/Win's broken rendering of block-level anchors in lists */
+#addinfo li {
+			padding: 0px 0px 2px 0px;
+			border-bottom: 1px solid #ffffff;
+	}
+		
+/* fix for browsers that don't need the hack */
+html>body #addinfo li {border-bottom: none;}
+		
+/* Centre Column Layout */
+/* #c-block (content box) layout */
+#c-block {
+	height: 90%;
+	width: 100%;
+	z-index: 1;
+	background: #ffffff;
+}
+
+#contentxx{ overflow: auto;
+          width: 80%;
+          margin: 0 0 0 222px; }
+	
+#c-col {
+		height: 615px;
+		margin: 0 222px 0px 222px;
+		overflow: auto;
+		position: relative;
+		background: #ffffff;
+		z-index: 2;
+		border-top: solid #4242ff 1px;
+		/*border-left: solid #4242ff 1px;
+		border-right: solid #4242ff 1px;
+		border-bottom: solid #4242ff 1px;*/
+	}
+	
+#c-col li {
+		margin: 0px 0px 0px 0px;
+		padding: 0px 10px 10px 0px;
+	}
+		
+#pagetitle {
+		padding: 5px 5px 0px 5px;
+		margin: 0px 20px 0px 20px;
+		}
+
+#subtitle {
+		padding: 5px 5px 0px 5px;
+		margin: 0px 5px 0px 80px;
+		}
+
+#pagetitle-ln {
+		padding: 5px 5px 0px 5px;
+		margin: 0px 140px 0px 80px;
+		}
+		
+#breadcrumb1 {
+		padding: 0px;
+		font-size: 80%;
+                width: 400pt;
+		margin: 2px 5px 0px 5px;
+		border-top: 1px solid #d3e5fa;
+		border-bottom: 1px solid #d3e5fa;
+		}
+		
+#breadcrumb1 a {
+			color: #4f96ff;
+			text-decoration: none;
+			padding: 0px 5px 0px 5px;
+			}
+			
+#breadcrumb1 a:link {
+				color: #4f96ff;
+				text-decoration: none;
+			}
+			
+#breadcrumb1 a:visited {
+				color: #4f96ff;
+				text-decoration: none;
+			}
+			
+#breadcrumb1 a:hover {
+			color: #4f96ff;
+			text-decoration: underline;
+			}
+
+#breadcrumb2 {
+		margin: 0 222px 0 222px;
+		padding: 0px;
+		font-size: 80%;
+		margin: 2px 5px 2px 5px;
+		border-top: 1px solid #d3e5fa;
+		border-bottom: 1px solid #d3e5fa;
+		}
+		
+#breadcrumb2 a {
+			color: #4f96ff;
+			text-decoration: none;
+			padding: 0px 5px 0px 5px;
+			}
+			
+#breadcrumb2 a:link {
+				color: #4f96ff;
+				text-decoration: none;
+			}
+			
+#breadcrumb2 a:visited {
+				color: #4f96ff;
+				text-decoration: none;
+			}
+			
+#breadcrumb2 a:hover {
+			color: #4f96ff;
+			text-decoration: underline;
+			}
+
+/* Header Column Layout */
+#qhdr {
+	height: 118px; 
+	width: 100%; 
+	z-index: 4;
+	background: #4242ff;
+	margin: 0;
+	color: #ffffff;
+}
+
+/* new version of header for floating style */
+
+#hdr-b {
+    width: 100%;
+    z-index: 4;
+    background: #4242ff;
+    margin: 0;
+    color: #ffffff;
+    }
+
+#hdr-c {
+    width: 100%;
+    z-index: 4;
+    background: #9999aa;
+    margin: 0;
+    color: #ffffff;
+    }
+
+#hdr-b a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0px 5px 0px 5px;
+    }
+
+#hdr-b a:link {
+    color: #ffffff;
+    text-decoration: none;
+    }
+
+#hdr-b a:visited {
+    color: #ffffff;
+    text-decoration: none;
+    }
+
+#hdr-b a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    }
+
+/* Footer Layout */
+/* Modifications to footer formatting
+	position: absolute;
+	top: 850px; */
+	
+#ftr {
+	position: relative;
+	bottom: 0px;
+	width: 100%;
+	height: 40px;
+	margin: 0px;
+	border: 1px solid;
+	border-color: #000000;
+	
+}
+
+#ftr p {
+		margin: 0px 0px 0px 0px;
+		padding: 0px 0px 0px 0px;
+		color: #ffffff;
+	}
+
+SPAN.bl { position: absolute; top: 100%; left: 0px; z-index: 10;}
+SPAN.br { position: absolute; top: 100%; right: 0px; z-index: 10;}
+
+
+table.check {
+       border: solid;
+       border-color: blue;
+       background-color: white;
+       padding: 5px;
+             }
+
+table.dataToBeCollectedxx {
+    border-color: #0000ff;
+    border-width: 6px;
+    width:100%;
+    padding: 0px;
+    background-color: #eeffee;
+    }
+
+table.dataToBeCollectedxx tr { border-color: #0000ff; border: solid; border-width: 6px; }
+
+table.formxx {
+    border-color: #bbbbbb;
+    cellspacing: 3px;
+    width:100%;
+    padding: 3px;
+    background-color: #0000ff;
+    }
+
+table.form {
+    border-color: #bbbbbb;
+    background-color: white;
+    padding: 5px;
+    width:75%;
+    padding: 1px;
+    background-color: #f8f8ff;
+    }
+
+table.form td { border-color: #bbbbbb; border-width: 3px; }
+
+table.display {
+    border-color: #bbbbbb; border-width: 5px; background: #ccccff;
+    width: 75%
+    }
+
+table.reflist {
+    border-color: #bbbbbb; border-width: 5px;
+    width: 75%
+    }
+
+table.reflist p {
+   padding: 0;
+   text-align: left;
+   margin-top: 0;
+   margin-right: 0;
+   margin-left: 6em; text-indent: -6em;}
+
+table.figure { background: #c2c2ff;
+   width: 75%;
+   margin-left: auto;
+   margin-right: auto;
+   }
+
+.odd-ctable-column { background-color: #ccffcc; border: solid; border-color: #99aa99; padding: 5px; }
+.even-ctable-column { background-color: #ccccff; border: solid; border-color: #99aa99; padding: 5px; }
+
+td.checkCol { text-align: center; border: 5px; }
+
+tr.checkRow { margin: 15px; }
+
+td.frame {background: #5492CD; }
+table.menumain  {background: #5492CD; }
+
+
+table.menumain a { color: #ffffff; font-weight: bold; }
+
+table.menumain a:hover { color: #ffffff; 
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+/* Centre column */
+
+#center-col {
+    color: #333333;
+    border-right: 5px solid #f40000;
+    border-left: 5px solid #f40000;
+    padding-left: 5px;
+    margin-left: 5px;
+   }
+
+/* Left-hand Column Layout (floating) */
+#lh-col2 {
+   position:relative;
+   float:left;
+   width:222px;
+   color: #333333;
+   background: #ffffff;
+   margin-right: 4px;
+   }
+
+#lh-col3 {
+   width:222px;
+   color: #333333;
+   background: #ffffff;
+   }
+
+#lh-col-data {
+   position:relative;
+   float:left;
+   width:13em;
+   color: #006600;
+   background: #dddddd;
+   }
+
+/* Right-hand Column Layout (floating) */
+#rh-col2 {
+   position:relative;
+   float:right;
+   width:222px;
+   color: #333333;
+   background: #ffffff;
+   }
+
+/* Right-hand Column Layout (floating) */
+#rh-col3 {
+   position:relative;
+   float:right;
+   width:222px;
+   color: #333333;
+   background: #0000ff;
+   border-left: 3px solid #ffffff;
+   }
+
+
+/* this has to match colour of corner gifs */
+#latestNewsTitle td.f { background: #999902; }
+#latestNewsTitle td.t { background: #cccc02; }
+#latestNewsTitle td.u { background: #aaaa02; }
+#latestNewsTitle td.c { background: #888802; }
+#latestNewsTitle td.b { background: #777702; }
+#latestNewsTitleText { font-weight: bold; font-size: large; color: #ffffff; }
+	font-size: small;
+
+/* label.radio { color:#000088 } */
+label.radio:hover { color:#660022 }
+
+td.menunav { width: 9px; }
+td.menuql { width: 9px; 
+        background: #fecb00;
+       }
+
+table.menumain { border:2px; }
+
+#lh-col2 a, td.nav a, td.navsub a, td.navsubsub a, td.navo a { color:#ffffff; }
+#lh-col2 a, td.nav a:hover, td.navsub a:hover, td.navsubsub a:hover, td.navo a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    margin:0px; 
+    padding: 0px;
+    }
+
+td.navsub { background:#64a2DD; 
+     text-indent:9pt; }
+td.navsubsub { background:#64c2cD; 
+     text-indent:18pt; }
+td.menunavsub { background:#64a2DD text-indent:33pt; }
+td.menunavsubsub { background:#64c2cD; }
+
+/* deleted because it messes up header: tr { border:2px; padding: 2px; margin:2px; } */
+
+table.menumain td {
+	BORDER-BOTTOM: #93b7da 1px solid
+}
+
+/* section styling -- generated by ddc_menu_tree.py*/
+#menuipcc { background: #ff0000; }
+#menuddchome { background: #ffaa66; }
+#menuddc { background: #c22009; }
+#menuguide { background: #20c209; }
+#menuar5p { background: #006000; }
+#menuenvir { background: #fecb00; }
+#menudata { background: #2009c2; }
+
+#menumodel { background: #0920c2; }
+#menuobs { background: #9999ff; }
+#menusim { background: #99ff99; }
+#menusca { background: #ff9999; }
+#menuvis { background: #c2c209; }
+#menusocio-economic { background: #00ff66; }
+<!-- #menuglossary { background: #000080; } Going to use menuddc instead-->
+
+/* background for active menu item */
+body.ddchome td.navo, body.ddchome h2, body.ddchome h1 {background:#ffaa66; }
+
+body.ddc td.navo, body.ddc h2, body.ddc h1 {background:#c22009; }
+body.ddcsca td.navo, body.ddcsca h2, body.ddcsca h1 {background:#ff9999; }
+body.ddcsyn td.navo, body.ddcsyn h2, body.ddcsyn h1 {background:#ff9999; }
+body.ddcsim td.navo, body.ddcsim h2, body.ddcsim h1 {background:#99ff99; }
+
+body.ddcdata td.navo, body.ddcdata h2, body.ddcdata h1 {background:#2009c2; }
+body.envir td.navo, body.envir h2, body.envir h1 {background:#fecb00; }
+body.guide td.navo, body.guide h2, body.guide h1 {background:#20c209; }
+body.model td.navo, body.model h2, body.model h1 {background:#0920c2; }
+body.obs td.navo, body.obs h2, body.obs h1 {background:#c2c209; }
+body.ddcobs td.navo, body.ddcobs h2, body.ddcobs h1 {background:#9999ff; }
+body.socio-economic td.navo, body.socio-economic h2, body.socio-economic h1 {background:#00ff66; }
+body.ddc_gui td.navo, body.ddc_gui h2, body.ddc_gui h1 {background:#20c209; }
+<!-- body.glossary td.navo, body.glossary h2, body.glossary h1 {background:#000080} will use body.ddc instead -->
+
+/* end of section styling */
+
+/* style for menu elements of active sub-section */
+/* created by ddc_menu_tree.py*/
+body.ddcsca tr.ddcsca td.nav { background:#ff9999; }
+body.ddc tr.ddc td.nav { background:#c22009; }
+body.ddchome tr.ddchome td.nav { background:#ffaa66; }
+body.ddcsim tr.ddcsim td.nav { background:#99ff99; }
+body.ddcsyn tr.ddcsyn td.nav { background:#ff9999; }
+body.ddcobs tr.ddcobs td.nav { background:#9999ff; }
+body.ddc_gui tr.ddc_gui td.nav { background:#9999ff; }
+
+div.ar4_clim tr.ar4_clim td.navsub { background:#ff0000; }
+div.ar4_clim tr.ar4_clim td.navsubsub { background:#ff0000; }
+div.ar5_mon tr.ar5_mon td.navsub { background:#ff0000; }
+div.ar5_mon tr.ar5_mon td.navsubsub { background:#ff0000; }
+div.ar4_mon tr.ar4_mon td.navsub { background:#ff0000; }
+div.ar4_mon tr.ar4_mon td.navsubsub { background:#ff0000; }
+div.ar4_obs tr.ar4_obs td.navsub { background:#ff0000; }
+div.ar4_obs tr.ar4_obs td.navsubsub { background:#ff0000; }
+div.baseline tr.baseline td.navsub { background:#ff0000; }
+div.baseline tr.baseline td.navsubsub { background:#ff0000; }
+div.cru_climatologies tr.cru_climatologies td.navsub { background:#ff0000; }
+div.cru_climatologies tr.cru_climatologies td.navsubsub { background:#ff0000; }
+div.cru_ts2_1 tr.cru_ts2_1 td.navsub { background:#ff0000; }
+div.cru_ts2_1 tr.cru_ts2_1 td.navsubsub { background:#ff0000; }
+div.ddc_climscen tr.ddc_climscen td.navsub { background:#ff0000; }
+div.ddc_climscen tr.ddc_climscen td.navsubsub { background:#ff0000; }
+div.ddc_exist tr.ddc_exist td.navsub { background:#ff0000; }
+div.ddc_exist tr.ddc_exist td.navsubsub { background:#ff0000; }
+div.ddc_gcmdata tr.ddc_gcmdata td.navsub { background:#ff0000; }
+div.ddc_gcmdata tr.ddc_gcmdata td.navsubsub { background:#ff0000; }
+div.ddc_provides tr.ddc_provides td.navsub { background:#ff0000; }
+div.ddc_provides tr.ddc_provides td.navsubsub { background:#ff0000; }
+div.ddc_runs tr.ddc_runs td.navsub { background:#ff0000; }
+div.ddcsyn tr.ddcsyn td.navsubsub { background:#ff9999; }
+div.ddcsyn tr.ddcsyn td.navsub { background:#ff9999; }
+div.ddc_runs tr.ddc_runs td.navsubsub { background:#ff0000; }
+div.obs_clim tr.obs_clim td.navsub { background:#ff0000; }
+div.obs_clim tr.obs_clim td.navsubsub { background:#ff0000; }
+div.obs_co2 tr.obs_co2 td.navsub { background:#ff0000; }
+div.obs_co2 tr.obs_co2 td.navsubsub { background:#ff0000; }
+div.obs_envdata tr.obs_envdata td.navsub { background:#ff0000; }
+div.obs_envdata tr.obs_envdata td.navsubsub { background:#ff0000; }
+div.ddc_survey tr.ddc_survey td.navsub { background:#ff0000; }
+div.ddc_survey tr.ddc_survey td.navsubsub { background:#ff0000; }
+div.ddc_layout tr.ddc_layout td.navsub { background:#ff0000; }
+div.ddc_layout tr.ddc_layout td.navsubsub { background:#ff0000; }
+div.get_10yr_means tr.get_10yr_means td.navsub { background:#ff0000; }
+div.get_10yr_means tr.get_10yr_means td.navsubsub { background:#ff0000; }
+div.get_30yr_means tr.get_30yr_means td.navsub { background:#ff0000; }
+div.get_30yr_means tr.get_30yr_means td.navsubsub { background:#ff0000; }
+div.impacts tr.impacts td.navsub { background:#ff0000; }
+div.impacts tr.impacts td.navsubsub { background:#ff0000; }
+div.is92 tr.is92 td.navsub { background:#ff0000; }
+div.is92 tr.is92 td.navsubsub { background:#ff0000; }
+div.sar_clim tr.sar_clim td.navsub { background:#ff0000; }
+div.sar_clim tr.sar_clim td.navsubsub { background:#ff0000; }
+div.sar_mon tr.sar_mon td.navsub { background:#ff0000; }
+div.sar_mon tr.sar_mon td.navsubsub { background:#ff0000; }
+div.far_mon tr.far_mon td.navsub { background:#ff0000; }
+div.far_mon tr.far_mon td.navsubsub { background:#ff0000; }
+div.gcm_mon tr.gcm_mon td.navsub { background:#ff0000; }
+div.gcm_mon tr.gcm_mon td.navsubsub { background:#ff0000; }
+div.gcm_clim tr.gcm_clim td.navsub { background:#ff0000; }
+div.gcm_clim tr.gcm_clim td.navsubsub { background:#ff0000; }
+div.gcm_global tr.gcm_global td.navsub { background:#ff0000; }
+div.gcm_global tr.gcm_global td.navsubsub { background:#ff0000; }
+div.ar5_tab tr.ar5_tab td.navsub { background:#ff0000; }
+div.ar5_tab tr.ar5_tab td.navsubsub { background:#ff0000; }
+div.ar4_clim tr.ar4_clim td.navsub { background:#ff0000; }
+div.ar4_clim tr.ar4_clim td.navsubsub { background:#ff0000; }
+div.tar_clim tr.tar_clim td.navsub { background:#ff0000; }
+div.tar_clim tr.tar_clim td.navsubsub { background:#ff0000; }
+div.sar_clim tr.sar_clim td.navsub { background:#ff0000; }
+div.sar_clim tr.sar_clim td.navsubsub { background:#ff0000; }
+div.sres tr.sres td.navsub { background:#ff0000; }
+div.sres tr.sres td.navsubsub { background:#ff0000; }
+div.tar_clim tr.tar_clim td.navsub { background:#ff0000; }
+div.tar_clim tr.tar_clim td.navsubsub { background:#ff0000; }
+div.gl_dlink tr.gl_dlink td.navsub { background:#ff0000; }
+div.gl_dlink tr.gl_dlink td.navsubsub { background:#ff0000; }
+div.gl_def tr.gl_def td.navsub { background:#ff0000; }
+div.gl_def tr.gl_def td.navsubsub { background:#ff0000; }
+div.gl_gcm tr.gl_gcm td.navsub { background:#ff0000; }
+div.gl_gcm tr.gl_gcm td.navsubsub { background:#ff0000; }
+div.gl_scen tr.gl_scen td.navsub { background:#ff0000; }
+div.gl_scen tr.gl_scen td.navsubsub { background:#ff0000; }
+div.gl_ar5regions tr.gl_ar5regions td.navsub { background:#ff0000; }
+div.gl_ar5regions tr.gl_ar5regions td.navsubsub { background:#ff0000; }
+div.gl_change tr.gl_change td.navsub { background:#ff0000; }
+div.gl_change tr.gl_change td.navsubsub { background:#ff0000; }
+div.gl_rep tr.gl_rep td.navsub { background:#ff0000; }
+div.gl_rep tr.gl_rep td.navsubsub { background:#ff0000; }
+div.gl_wg tr.gl_wg td.navsub { background:#ff0000; }
+div.gl_wg tr.gl_wg td.navsubsub { background:#ff0000; }
+div.tar_mon tr.tar_mon td.navsub { background:#ff0000; }
+div.tar_mon tr.tar_mon td.navsubsub { background:#ff0000; }
+div.vis tr.vis td.navsub { background:#ff0000; }
+div.vis tr.vis td.navsubsub { background:#ff0000; }
+/* end of sub-section menu element styling  */
+
