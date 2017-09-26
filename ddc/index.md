@@ -6,9 +6,7 @@ banner: ssi/header/Header2012.html
 menuclass: sim
 menu: ssi12/menu1/Menu_gui.html
 links: ssi12/links/observ.html
-preContentExtras: <b>Random extra text </b>
 logos: ssi12/logos/All.html
-
 ---
 
 <div id="pagetitle">
