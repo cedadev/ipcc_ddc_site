@@ -1,7 +1,7 @@
 ---
 layout: ddc02
 title: About the IPCC Data Distribution Centre
-bodyclass: test
+bodyclass: ddc
 banner: ssi/header/Header2012.html
 menuclass: sim
 menu: ssi/menu1/Menu_gui.html
