@@ -6,7 +6,9 @@ banner: ssi/header/Header2012.html
 menuclass: sim
 menu: ssi12/menu1/Menu_gui.html
 links: ssi12/links/observ.html
+preContentExtras: <b>Random extra text </b>
 logos: ssi12/logos/All.html
+
 ---
 
 <div id="pagetitle">
@@ -18,7 +20,7 @@ logos: ssi12/logos/All.html
 
   <p></p>
 
-  <h2> Creation of the IPCC Data Distribution Centre aa</h2>
+  <h2> Creation of the IPCC Data Distribution Centre</h2>
 
   <p>   The DDC has been established to facilitate the timely distribution of a consistent set of
   up-to-date scenarios of changes in climate and related environmental and socio-economic factors for
