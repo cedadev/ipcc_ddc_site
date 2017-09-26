@@ -18,7 +18,7 @@ logos: ssi12/logos/All.html
 
   <p></p>
 
-  <h2> Creation of the IPCC Data Distribution Centre</h2>
+  <h2> Creation  of the IPCC Data Distribution Centre</h2>
 
   <p>   The DDC has been established to facilitate the timely distribution of a consistent set of
   up-to-date scenarios of changes in climate and related environmental and socio-economic factors for
