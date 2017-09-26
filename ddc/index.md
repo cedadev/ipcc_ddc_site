@@ -1,3 +1,12 @@
+---
+layout: ddc02
+title: About the IPCC Data Distribution Centre
+bodyclass: test
+banner: 
+menu: sim
+menufile: menu/Menu_gui.html
+---
+
 <div id="pagetitle">
   <h1 align="center">About the IPCC Data Distribution Centre</h1>
 </div>
