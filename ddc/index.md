@@ -10,7 +10,7 @@ logos: ssi12/logos/All.html
 ---
 
 <div id="pagetitle">
-  <h1 align="center">About the IPCC Data Distribution Centre x</h1>
+  <h1 align="center">About the IPCC Data Distribution Centre</h1>
 </div>
   <!-- End of Page Title Block -->
  
