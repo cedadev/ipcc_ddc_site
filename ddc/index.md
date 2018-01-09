@@ -4,13 +4,13 @@ title: About the IPCC Data Distribution Centre
 bodyclass: ddc
 banner: ssi/header/Header2012.html
 menuclass: sim
-menu: ssi/menu1/Menu_gui.html
+menu: ssi12/menu1/Menu_gui.html
 links: ssi12/links/observ.html
 logos: ssi12/logos/All.html
 ---
 
 <div id="pagetitle">
-  <h1 align="center">About the IPCC Data Distribution Centre x</h1>
+  <h1 align="center">About the IPCC Data Distribution Centre</h1>
 </div>
   <!-- End of Page Title Block -->
  
@@ -18,7 +18,7 @@ logos: ssi12/logos/All.html
 
   <p></p>
 
-  <h2> Creation  of the IPCC Data Distribution Centre</h2>
+  <h2> Creation of the IPCC Data Distribution Centre</h2>
 
   <p>   The DDC has been established to facilitate the timely distribution of a consistent set of
   up-to-date scenarios of changes in climate and related environmental and socio-economic factors for
