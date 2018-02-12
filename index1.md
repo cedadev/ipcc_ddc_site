@@ -44,20 +44,7 @@ logos: ssi12/logos/All.html
   </tr>
   <tr>
    <td colspan="2" style="height:200px;background:#ffffff;" valign="top" >
-   <script>
- 	$(function() {
-                $( "#tabs" ).tabs({cookie: { expires: 1 } });
-    $("a[href=#about]").click(function() {
-        $("#tabs").tabs("option", "active", 0);
-    });
-    $("a[href=#guide]").click(function() {
-        $("#tabs").tabs("option", "active", 1);
-    });
-    $("a[href=#data]").click(function() {
-        $("#tabs").tabs("option", "active", 2);
-    });
- 	});
- </script>
+ 
 
  
  <div class="demo">
