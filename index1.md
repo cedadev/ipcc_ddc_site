@@ -130,9 +130,3 @@ logos: ssi12/logos/All.html
 
  
  
-
-     </td>
-     </tr>
-   </table>
-   
-   <!-- end of center column -->
