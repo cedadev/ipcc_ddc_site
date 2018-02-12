@@ -8,6 +8,10 @@ menu: ssi12/menu1/Menu.html
 links: ssi12/links/home.html
 logos: ssi12/logos/All.html
 ---
+
+<table style="width:100%;">
+ <tr>
+  <td style="height:1pt;" valign="top">
  <div id="pagetit">
    <h1 align="center">Welcome to the IPCC Data Distribution Centre</h1>
  </div>
@@ -22,54 +26,39 @@ logos: ssi12/logos/All.html
  
  </div>
 
-     </td>
-     <td style="width:215px;height:1px;" valign="top">
-       	<div id="latestnews" align="left">
- <table style="width: 215px; height: 38px;" cellpadding="0" cellspacing="0">
- <tbody>
- 	<tr>
- 	<td align="left" bgcolor="#990002" valign="top"><img src="/sketches/Home_files/CornerTopLeftRed.gif" border="0" height="6" width="7"/></td>
- 	<td style="text-align: center;" bgcolor="#990002">&nbsp;</td>
- 	<td align="right" bgcolor="#990002" valign="top"><img src="/sketches/Home_files/CornerTopRightRed.gif" border="0" height="6" width="7"/></td>
- 	</tr>
- 	<tr>
- 		<td bgcolor="#990002" width="7"><img src="/sketches/Home_files/pixel.gif" height="1" width="1"/></td>
- 		<td class="highlightlightWhite" align="center" bgcolor="#990002">
- 			<font color="#ffffff">News</font>
- 		</td>
- 		<td bgcolor="#990002" width="7"><img src="/sketches/Home_files/pixel.gif" height="1" width="1"/></td>
- 	</tr>
- 	<tr>
- 		<td bgcolor="#990002" valign="bottom"><img src="/sketches/Home_files/CornerBottomLeftRed.gif" border="0" height="9" width="7"/></td>
- 		<td bgcolor="#990002">&nbsp;</td>
- 		<td bgcolor="#990002" valign="bottom"><img src="/sketches/Home_files/CornerBottomRightRed.gif" border="0" height="9" width="7"/></td>
- 	</tr>
- </tbody>
- </table>
-                 <p><a href="/ddc_about.html">TGICA members</a> for the 5th Assessment Round appointed.
-                         <font size="-3">(08/06/2010)</font>
-                 <p>User survey results 
-                 <a href="ddc_survey_results_2009.html">available</a>.
- 		        <font size="-3">(20/07/2009)</font>
- 		        <p>Data in spreadsheet format now available:
- 		        <a href="/cgi-bin/ddc_nav/dataset=cru21"> observed
-                 </a> and 
- 		        <a href="/cgi-bin/ddc_nav/dataset=ar4_gcm"> projected
-                 </a> climatologies.
-                 <br/>
- 		<font size="-3">(15/04/2009)</font>
- 		</p>
-         </div>
+ </td>
 
-     </td>
-     </tr>
-     <tr >
-     <td colspan="2" style="height:200px;background:#ffffff;" valign="top" >
-       <script>
+<td style="width:215px;height:1px;" valign="top">
+<div id="latestnews" align="left">
+ <h2 align="center">Highlights</h2>
+   <p>
+   <a href="docs/factsheets/TGICA_Fact_Sheet_CMIP5_data_provided_at_the_IPCC_DDC_Ver_1_2016.pdf">Factsheet</a> on CMIP5 data in the DDC. 
+   </p>
+   <p>
+   <a href="ddc/user_surveys.html">Results</a> from the 2015 user survey.
+   </p>
+</div>
+
+
+  </td>
+  </tr>
+  <tr>
+   <td colspan="2" style="height:200px;background:#ffffff;" valign="top" >
+   <script>
  	$(function() {
- 		$( "#tabs" ).tabs();
+                $( "#tabs" ).tabs({cookie: { expires: 1 } });
+    $("a[href=#about]").click(function() {
+        $("#tabs").tabs("option", "active", 0);
+    });
+    $("a[href=#guide]").click(function() {
+        $("#tabs").tabs("option", "active", 1);
+    });
+    $("a[href=#data]").click(function() {
+        $("#tabs").tabs("option", "active", 2);
+    });
  	});
  </script>
+
  
  <div class="demo">
  <div id="tabs">
@@ -101,6 +90,7 @@ logos: ssi12/logos/All.html
 <h2>Guidance on the use  and interpretation of data and on use of the site</h2>
 <p>
  Several documents providing technical guidance or summarising information held on the DDC are downloadable from this site. They constitute IPCC "Supporting Material" and have been prepared at the request of the Task Group on Data and Scenario Support for Impacts and Climate Analysis (TGICA). 
+</p>
 <h3> In this section:</h3>
 <ul class="lx" style="background:#ffffff;">
   <li class="lx"> <a class="lx" href="/guidelines/index.html">Technical Guidelines, Fact Sheets and other Supporting Material</a></li>

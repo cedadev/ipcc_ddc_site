@@ -165,6 +165,3 @@ Notes for authors preparing Fact Sheets for the IPCC Task Group on Data and Scen
 </p>
  
 <hr align="left" width="100"/>
- 
-</div>
- <!-- end of center column -->

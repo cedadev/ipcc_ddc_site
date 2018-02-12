@@ -1,6 +1,6 @@
 ---
 layout: ddc02
-title: GCM data archive: IPCC AR4 climatologies
+title: "GCM data archive: IPCC AR4 climatologies"
 bodyclass: ddcsim
 banner: ssi/header/Header2012.html
 menuclass: ar4_clim

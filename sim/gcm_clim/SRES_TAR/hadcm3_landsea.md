@@ -1,6 +1,6 @@
 ---
 layout: ddc02
-title: HadCM3: Land mask
+title: "HadCM3: Land mask"
 bodyclass: ddcsim
 banner: ssi/header/Header2012.html
 menuclass: tar_clim

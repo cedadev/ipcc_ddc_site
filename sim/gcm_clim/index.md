@@ -1,6 +1,6 @@
 ---
 layout: ddc02
-title: GCM data archive: climatologies
+title: "GCM data archive: climatologies"
 bodyclass: ddcsim
 banner: ssi/header/Header2012.html
 menuclass: gcm_clim

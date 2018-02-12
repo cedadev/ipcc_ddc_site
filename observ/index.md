@@ -39,9 +39,3 @@ The IPCC Data Distribution Centre provides access to observed data covering the 
 </ul>
  
  </div><!-- End demo -->
- 
-     </td>
-     </tr>
-   </table>
-</div>   
-   <!-- end of center column -->
