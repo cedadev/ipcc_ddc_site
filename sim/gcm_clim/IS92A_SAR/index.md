@@ -1,6 +1,6 @@
 ---
 layout: ddc02
-title: GCM data archive: IPCC SAR climatologies
+title: "GCM data archive: IPCC SAR climatologies"
 bodyclass: ddcsim
 banner: ssi/header/Header2012.html
 menuclass: sar_clim
