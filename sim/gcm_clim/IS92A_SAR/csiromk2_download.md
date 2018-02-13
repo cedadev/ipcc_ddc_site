@@ -50,10 +50,10 @@ logos: ssi12/logos/badc.html
  <TR>
  <TD HEIGHT="30"><B>Greenhouse Gas 1% pa - CSIRO Grid</B></TD>
  <TD>&nbsp;</TD>
- <TD>&nbsp;.</TD>
- <TD>&nbsp;.</TD>
- <TD>&nbsp;.</TD>
- <TD>.</TD>
+ <TD>&nbsp;</TD>
+ <TD>&nbsp;</TD>
+ <TD>&nbsp;</TD>
+ <TD></TD>
  </TR>
  <TR>
  <TD HEIGHT="30">CSIROMK2GGA1</TD>
@@ -66,11 +66,11 @@ logos: ssi12/logos/badc.html
  <TR>
  <TD HEIGHT="30"><B>Greenhouse Gas and Sulphate Aerosol 1% pa
  CSIRO Grid</B></TD>
- <TD>.</TD>
- <TD>.</TD>
- <TD>.</TD>
- <TD>.</TD>
- <TD>.</TD>
+ <TD></TD>
+ <TD></TD>
+ <TD></TD>
+ <TD></TD>
+ <TD></TD>
  </TR>
  <TR>
  <TD HEIGHT="30">CSIROMK2GSA1</TD>
