@@ -19,26 +19,15 @@ menuclass: ddc_help
  
  <p>&nbsp;</p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1029710">Data
- Download and Availability</A></font></p>
- 
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1031507"
- TARGET="frame256263">GCMs</A></font></p>
- 
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1031891"
- TARGET="frame256263">Climate Change Scenarios</A></font></p>
- 
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1032161"
- TARGET="frame256263">Observed Climate Data</A></font></p>
- 
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#emissions"
- TARGET="frame256263">Observed Emissions Data</A></font></p>
- 
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1032433"
- TARGET="frame256263">Non-Climatic Scenarios</A></font></p>
- 
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1032752"
- TARGET="frame256263">Miscellaneous</A></font></p>
+<ul>
+ <li FACE="Geneva"><a HREF="#anchor1029710">Data Download and Availability</a></li>
+ <li FACE="Geneva"><A HREF="#anchor1031507" TARGET="frame256263">GCMs</A></li>
+ <li FACE="Geneva"><A HREF="#anchor1031891" TARGET="frame256263">Climate Change Scenarios</A></li>
+ <li FACE="Geneva"><A HREF="#anchor1032161" TARGET="frame256263">Observed Climate Data</A></li>
+ <li FACE="Geneva"><A HREF="#emissions" TARGET="frame256263">Observed Emissions Data</A></li>
+ <li FACE="Geneva"><A HREF="#anchor1032433" TARGET="frame256263">Non-Climatic Scenarios</A></li>
+ <li FACE="Geneva"><A HREF="#anchor1032752" TARGET="frame256263">Miscellaneous</A></li>
+</ul>
  
  <p>&nbsp;</p>
  
@@ -297,16 +286,16 @@ menuclass: ddc_help
  are a number of ways GCM changes and observed data may be combined:</p>
  
  <UL>
- <LI>The same GCM change value may be added to each observational
+ <li>The same GCM change value may be added to each observational
  data point or grid cell that exists within the respective GCM
- gridbox.
- <LI>GCM change values may be interpolated to the appropriate
+ gridbox.</li>
+ <li>GCM change values may be interpolated to the appropriate
  observed resolution using a variety of simple spatial interpolation
- methods (e.g. linear interpolation or gaussian space-filtering).
- <LI>GCM change values may be 'downscaled' to the appropriate
+ methods (e.g. linear interpolation or gaussian space-filtering).</li>
+ <li>GCM change values may be 'downscaled' to the appropriate
  observed resolution using a variety of dynamical or empirical
  techniques (see <A HREF="#anchor1173464" TARGET="frame256263">Question
- below)</A>.
+ below)</A>.</li>
  </UL>
  
  <p>Whatever method is used, be careful to combine variables that
@@ -567,12 +556,16 @@ menuclass: ddc_help
  information regarding the IPCC, COP3 and the Kyoto Protocol or the UN FCCC you
  should visit the following sites:</p>
  
- <UL> <LI>for the IPCC home page: <A HREF="http://www.ipcc.ch/"
- TARGET="frame256263">http://www.ipcc.ch</A> <LI>for details regarding COP3 and
+ <UL>
+  <li>for the IPCC home page: <A HREF="http://www.ipcc.ch/"
+ TARGET="frame256263">http://www.ipcc.ch</A></li>
+  <li>for details regarding COP3 and
  Kyoto Protocol: <A HREF="http://unfccc.int/cop3/resource/protintr.html"
- TARGET="frame256263">http://unfccc.int/cop3/home.html</A> <LI>for details
+ TARGET="frame256263">http://unfccc.int/cop3/home.html</A></li>
+  <li>for details
  regarding all other aspects of the UNFCCC see their <A
- HREF="http://unfccc.int/" TARGET="frame256263">home page</A> </UL>
+ HREF="http://unfccc.int/" TARGET="frame256263">home page</A></li>
+</UL>
  
  <p><A HREF="#anchor559935" TARGET="gwp">Back to Top</A></p>
  
