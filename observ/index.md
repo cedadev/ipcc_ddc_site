@@ -19,22 +19,22 @@ The IPCC Data Distribution Centre provides access to observed data covering the 
 </p>
 
 <ul class="lx" style="background:#ffffff;">
-  <li class="lx"> <a class="lx" href="http://www.climatechange2013.org/images/report/WG1AR5_AIISM_Datafiles.xlsx">Climate System Scenario Tables (Annex II of IPCC 5th Assessment Report, WG1 -- as Excel workbook</a>
+  <li class="lx"> <a class="lx" href="http://www.climatechange2013.org/images/report/WG1AR5_AIISM_Datafiles.xlsx">Climate System Scenario Tables (Annex II of IPCC 5th Assessment Report, WG1 -- as Excel workbook</a></li>
   <li class="lx"> <a class="lx" href="/observ/clim/index.html">Observations of the climate</a>
-<ul>
- <li><a href="clim/ar4_global.html">Global mean temperature data used in the AR4 assessment report;</a></li>
- <li><a href="clim/cru_ts2_1.html">High resolution climatology</a> prepared by the Climatic Research Unit (CRU) of the University of East Anglia (UEA).</li>
- <li><a href="clim/cru_climatologies.html">Previous version of CRU data</a> preserved for reference.</li>
+ <ul>
+   <li><a href="clim/ar4_global.html">Global mean temperature data used in the AR4 assessment report;</a></li>
+   <li><a href="clim/cru_ts2_1.html">High resolution climatology</a> prepared by the Climatic Research Unit (CRU) of the University of East Anglia (UEA).</li>
+   <li><a href="clim/cru_climatologies.html">Previous version of CRU data</a> preserved for reference.</li>
  </ul>
-</li>
+  </li>
   <li class="lx"> <a class="lx" href="ddc_co2.html">Carbon Dioxide: observed atmospheric concentrations</a></li>
   <li class="lx"> <a class="lx" href="http://sedac.ipcc-data.org/ddc/baseline/index.html">Socio-Economic Baseline Dataset</a></li>
-   <li class="lx">Observed Climate Change Impacts:
+  <li class="lx">Observed Climate Change Impacts:
    <ul>
-  <li class="lx"> <a class="lx" href="http://sedac.ipcc-data.org/ddc/observed_ar5/index.html">IPCC AR5 Observed Climate Change Impacts</a></li>
-  <li class="lx"> <a class="lx" href="http://sedac.ipcc-data.org/ddc/observed/index.html">IPCC AR4 Observed Climate Change Impacts</a></li>
+     <li class="lx"> <a class="lx" href="http://sedac.ipcc-data.org/ddc/observed_ar5/index.html">IPCC AR5 Observed Climate Change Impacts</a></li>
+     <li class="lx"> <a class="lx" href="http://sedac.ipcc-data.org/ddc/observed/index.html">IPCC AR4 Observed Climate Change Impacts</a></li>
    </ul>
-   </li>
+  </li>
   <li class="lx"> <a class="lx" href="ddc_envdata.html">Environmental Data and Scenarios</a></li>
 </ul>
  
