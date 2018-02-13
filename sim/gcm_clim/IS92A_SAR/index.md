@@ -30,7 +30,11 @@ logos: ssi12/logos/All.html
  <li>Integrations without/with aerosol forcing and up to 2100 for greenhouse gas only</li>
  <li>Integrations with results available now and with data lodged in the public domain</li>
  <li>Documented models</li>
- <li>Models that have participated in <a href="http://www-pcmdi.llnl.gov/projects/model_intercomparison.php">AMIP/CMIP</a></li>
+ <li>Models that have participated in
+<!-- <a href="http://www-pcmdi.llnl.gov/projects/model_intercomparison.php">AMIP/CMIP</a> -->
+<a href="https://www.wcrp-climate.org/modelling-wgcm-mip-catalogue/modelling-wgcm-mips-2/240-modelling-wgcm-catalogue-amip">AMIP</a>/
+<a href="https://www.wcrp-climate.org/wgcm-cmip">CMIP</a>
+</li>
  </ul>
  </td></tr>
  </table>
