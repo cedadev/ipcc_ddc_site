@@ -581,7 +581,7 @@ menuclass: ddc_help
  <p><A NAME="anchormisc"></A><b><font SIZE="+1"
  FACE="Helvetica,Geneva,Arial">Miscellaneous</font></b></p>
  
- <h5><font FACE="Geneva">Q. Can you provide a sample URL for an image from the DDC WMS?</h5>
+ <h5><font FACE="Geneva">Q. Can you provide a sample URL for an image from the DDC WMS?</font></h5>
  
  <a href="/maps/wms/tar?FORMAT=image%2Fgif&VERSION=1.3.0&CRS=CRS%3A84&SERVICE=WMS&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&LAYERS=nies99%3Aa1%2Ftmp200&TIME=1984-1-15T0%3A0%3A0.0Z&SRS=EPSG%3A4326&BBOX=-180,-90,180,90&WIDTH=256&HEIGHT=256">Example WMS image request</a>
  
