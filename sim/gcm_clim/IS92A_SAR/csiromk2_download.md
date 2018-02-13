@@ -7,12 +7,11 @@ menuclass: sar_clim
 menu: ssi12/menu1/Menu_sim_gcmc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/badc.html
-preContentExtra: %(csiromk2)s---
+---
  <div id="pagetitle">
  <h1 align="center">CSIRO-Mk2 Climate Scenario Data </h1>
  </div>
  <!-- End of Page Title Block -->
- 
  
  <P> For all of the integrations that have been performed using CSIROmk2 - go to the Data
  Description Pages - GCM Experiments - <A HREF="csiromk2_info.html">CSIROmk2 Information.</A></P>

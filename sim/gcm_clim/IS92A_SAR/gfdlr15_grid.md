@@ -7,7 +7,7 @@ menuclass: sar_clim
 menu: ssi12/menu1/Menu_sim_gcmc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/badc.html
-preContentExtra: %(gfdlr15)s---
+---
  <div id="pagetitle">
  <h1 align="center">GFDL-R15 GCM Grid Co-ordinates </h1>
  </div>

@@ -7,7 +7,7 @@ menuclass: sar_clim
 menu: ssi12/menu1/Menu_sim_gcmc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/badc.html
-preContentExtra: %(hadcm2)s---
+---
  <div id="pagetitle">
  <h1 align="center">HadCM2 GCM Grid Co-ordinates </h1>
  </div>
