@@ -46,13 +46,13 @@ logos: ssi12/logos/All.html
        <script>
         $(function() {
                 $( "#tabs" ).tabs({cookie: { expires: 1 } });
-    $("a[href=#about]").click(function() {
+    $("a[href='#about']").click(function() {
         $("#tabs").tabs("option", "active", 0);
     });
-    $("a[href=#guide]").click(function() {
+    $("a[href='#guide']").click(function() {
         $("#tabs").tabs("option", "active", 1);
     });
-    $("a[href=#data]").click(function() {
+    $("a[href='#data']").click(function() {
         $("#tabs").tabs("option", "active", 2);
     });
         });
@@ -60,16 +60,14 @@ logos: ssi12/logos/All.html
 <!-- how to make tab selection stick: http://stackoverflow.com/questions/5066581/jquery-ui-tabs-wont-save-selected-tab-index-upon-page-reload  expiry time in days-->
                 <!-- $( "#tabs" ).tabs({ cookie: { expires: 1 } }); -->
 
-
- 
  <div class="demo">
  <div id="tabs">
  	<ul>
- 		<li><a href="#tabs-1">About the DDC</a></li>
- 		<li><a href="#tabs-2">Guidance on use of data</a></li>
- 		<li><a href="#tabs-3">Discover, view and download data</a></li>
+ 		<li><a href="#about">About the DDC</a></li>
+ 		<li><a href="#guide">Guidance on use of data</a></li>
+ 		<li><a href="#data">Discover, view and download data</a></li>
  	</ul>
- <div id="tabs-1">
+ <div id="about">
 <h2>Introduction to the IPCC Data Distribution Centre (<a href="/ddc_about.html">Full page</a>)</h2>
 
   <p>   The DDC has been established to facilitate the timely distribution of a consistent set of
@@ -88,7 +86,7 @@ logos: ssi12/logos/All.html
 </ul>
 
  </div>
- <div id="tabs-2">
+ <div id="guide">
 <h2>Guidance on the use  and interpretation of data and on use of the site</h2>
 <p>
  Several documents providing technical guidance or summarising information held on the DDC are downloadable from this site. They constitute IPCC "Supporting Material" and have been prepared at the request of the Task Group on Data and Scenario Support for Impacts and Climate Analysis (TGICA). 
@@ -106,7 +104,7 @@ logos: ssi12/logos/All.html
   <li class="lx"><a class="lx" href="ddc_weather_generators.html">Stochastic weather generators</a></li> 
 </ul>
  </div>
- <div id="tabs-3">
+ <div id="data">
 <h2>Discover and download data from the DDC</h2>
  The data holdings of the IPCC Data Distribution Centre span the entire range of IPCC activities, ranging across disciplines from social-economic to the physical climate. The site is organised around three categories: observations; computer simulations; and analyses combining the first two.
  The DDC provides access to observations of the physical climate, socio-economic parameters and environmental parameters.
