@@ -35,18 +35,18 @@ logos: ssi12/logos/badc.html
  
  <UL>
  <LI>Meehl and Washington (1995) for sensitivity aspects of the
- cloud albedo feedback scheme <BR>
+ cloud albedo feedback scheme </LI>
  <LI>Meehl (1997) for details on the spin-up and systematic errors
- <BR>
+ </LI>
  <LI>Washington and Meehl (1996) for basic description of a 1%
  per year CO2 increase experiment and features of the high latitude
- response in the northern Hemisphere <BR>
+ response in the northern Hemisphere </LI>
  <LI>Meehl and Washington (1996) for description of the ``El Nino-like&quot;
- pattern in the 1% CO2 increase sensitivity experiment<BR>
+ pattern in the 1% CO2 increase sensitivity experiment</LI>
  <LI>Meehl et al. (1996) for results from a set of sensitivity
  experiments including the 1% per year CO2 increase experiment
  compared to experiments that include direct and indirect effects
- of sulphate aerosols.
+ of sulphate aerosols.</LI>
  </UL>
  
  <P><BR>
