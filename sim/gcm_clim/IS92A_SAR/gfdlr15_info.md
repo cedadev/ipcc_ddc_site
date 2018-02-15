@@ -67,84 +67,48 @@ logos: ssi12/logos/badc.html
  <td COLSPAN="4" align="center">2080s</TD>
  </TR>
  <TR>
- <td ALIGN="CENTER" HEIGHT="17" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T
- <BR CLEAR="ALL"/>(&deg;C)</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR
- CLEAR="ALL"/>(%)</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL"/>(cm)</td>
- <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR
- CLEAR="ALL"/>(ppmv) *</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR
- CLEAR="ALL"/>(&deg;C)</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P <BR
- CLEAR="ALL"/>(%)</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL"/>(cm)</td>
- <td ALIGN="CENTER" WIDTH="10%">CO<FONT SIZE="-2">2</FONT><BR
- CLEAR="ALL"/>(ppmv) */td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR
- CLEAR="ALL"/>(&deg;C)</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR
- CLEAR="ALL"/>(%)</td>
- <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL"/>(cm)</td>
- <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2</FONT><BR
- CLEAR="ALL"/>(ppmv) *</td>
+ <td ALIGN="CENTER" HEIGHT="17" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T <BR CLEAR="ALL">(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR CLEAR="ALL">(%)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR CLEAR="ALL">(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR CLEAR="ALL">(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P <BR CLEAR="ALL">(%)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR CLEAR="ALL">(cm)</td>
+ <td ALIGN="CENTER" WIDTH="10%">CO<FONT SIZE="-2">2</FONT><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR CLEAR="ALL">(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR CLEAR="ALL">(%)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR CLEAR="ALL">(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2</FONT><BR CLEAR="ALL">(ppmv) *</td>
  </TR>
  <TR>
  <td WIDTH="8%">GGa</TD>
- <td WIDTH="8%">
- <p align="right">1.71</p></td>
- <td WIDTH="8%">
- <p align="right">3.4</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">447</p></td>
- <td WIDTH="8%">
- <p align="right">2.67</p></td>
- <td WIDTH="8%">
- <p align="right">5.7</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="10%">
- <p align="right">554</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">1.71</p></td>
+ <td WIDTH="8%"> <p align="right">3.4</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">447</p></td>
+ <td WIDTH="8%"> <p align="right">2.67</p></td>
+ <td WIDTH="8%"> <p align="right">5.7</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="10%"> <p align="right">554</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
  </TR>
  <TR>
  <td WIDTH="8%">GSa</TD>
- <td WIDTH="8%">
- <p align="right">1.35</p></td>
- <td WIDTH="8%">
- <p align="right">2.7</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">447</p></td>
- <td WIDTH="8%">
- <p align="right">2.21</p></td>
- <td WIDTH="8%">
- <p align="right">4.2</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="10%">
- <p align="right">554</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
- <td WIDTH="8%">
- <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">1.35</p></td>
+ <td WIDTH="8%"> <p align="right">2.7</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">447</p></td>
+ <td WIDTH="8%"> <p align="right">2.21</p></td>
+ <td WIDTH="8%"> <p align="right">4.2</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="10%"> <p align="right">554</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
+ <td WIDTH="8%"> <p align="right">NA</p></td>
  </TR>
  </TABLE>
  
