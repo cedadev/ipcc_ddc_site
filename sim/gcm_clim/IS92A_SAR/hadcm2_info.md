@@ -135,621 +135,621 @@ logos: ssi12/logos/badc.html
  
  <TABLE WIDTH="95%" BORDER="1" align="center" CELLPADDING="0" CELLSPACING="2">
  <TR>
- <TD ROWSPAN="2" ></TD>
- <TD COLSPAN="4" align="center">2020s</TD>
- <TD COLSPAN="4" align="center">2050s</TD>
- <TD COLSPAN="4" align="center">2080s</TD>
+ <td ROWSPAN="2" ></TD>
+ <td COLSPAN="4" align="center">2020s</TD>
+ <td COLSPAN="4" align="center">2050s</TD>
+ <td COLSPAN="4" align="center">2080s</TD>
  </TR>
  <TR>
- <TD ALIGN="CENTER" HEIGHT="34" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T
- <BR CLEAR="ALL">(&deg;C)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>P<BR
- CLEAR="ALL">(%)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL">(cm)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34">CO<FONT SIZE="-2">2
- </FONT><BR CLEAR="ALL">(ppmv) *</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>T<BR
- CLEAR="ALL">(&deg;C)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>P<BR
- CLEAR="ALL">(%)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>SL
- <BR CLEAR="ALL">(cm)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34">CO<FONT SIZE="-2">2
- </FONT><BR CLEAR="ALL">(ppmv) *</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>T
- <BR CLEAR="ALL">(&deg;C)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>P
- <BR CLEAR="ALL">(%)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>SL
- <BR CLEAR="ALL">(cm)</TD>
- <TD ALIGN="CENTER" WIDTH="8%" HEIGHT="34">CO<FONT SIZE="-2">2
- </FONT><BR CLEAR="ALL">(ppmv) *</TD>
+ <td ALIGN="CENTER" HEIGHT="34" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T
+ <BR CLEAR="ALL">(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>P<BR
+ CLEAR="ALL">(%)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>SL<BR
+ CLEAR="ALL">(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34">CO<FONT SIZE="-2">2
+ </FONT><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>T<BR
+ CLEAR="ALL">(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>P<BR
+ CLEAR="ALL">(%)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>SL
+ <BR CLEAR="ALL">(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34">CO<FONT SIZE="-2">2
+ </FONT><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>T
+ <BR CLEAR="ALL">(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>P
+ <BR CLEAR="ALL">(%)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34"><FONT FACE="Symbol">D</FONT>SL
+ <BR CLEAR="ALL">(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="34">CO<FONT SIZE="-2">2
+ </FONT><BR CLEAR="ALL">(ppmv) *</td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGa1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.21</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>12.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.10</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>24.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.17</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>5.18</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>41.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GGa1</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.21</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">12.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.10</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">24.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.17</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">5.18</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">41.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGa2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.20</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>12.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.02</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>24.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.03</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>4.77</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>40.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GGa2</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.20</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">12.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.02</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">24.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.03</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">4.77</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">40.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGa3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.16</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>13.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.06</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>25.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.07</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>4.80</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>41.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GGa3</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.16</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">13.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.06</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">25.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.07</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">4.80</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">41.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGa4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.20</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>12.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.03</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>25.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.01</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>4.74</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>41.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GGa4</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.20</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">12.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.03</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">25.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.01</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">4.74</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">41.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGaX</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.19</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;2.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;12.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;2.05</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;3.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;25.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;3.01</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>4.87</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;41.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GGaX</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.19</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;2.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;12.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;2.05</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;3.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;25.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;3.01</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">4.87</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;41.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSa1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.94</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>8.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.58</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>16.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.58</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.87</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>29.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GSa1</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.94</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">8.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.58</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">16.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.58</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.87</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">29.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSa2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.93</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>8.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.54</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>17.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.47</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.70</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>30.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GSa2</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.93</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">8.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.54</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">17.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.47</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.70</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">30.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSa3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.94</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>8.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.61</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>17.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.49</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.64</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>29.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GSa3</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.94</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">8.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.61</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">17.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.49</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.64</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">29.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSa4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.91</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>8.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.50</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>17.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.51</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.71</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>30.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GSa4</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.91</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">8.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.50</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">17.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.51</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.71</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">30.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSaX</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;0.92</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>8.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;447</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.56</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;2.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;17.1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;554</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;2.51</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;3.73</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;29.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>697</TD>
+ <td HEIGHT="17" WIDTH="8%">GSaX</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;0.92</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">8.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;447</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.56</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;2.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;17.1</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;554</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;2.51</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;3.73</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;29.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">697</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGd1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.98</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>11.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.53</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>21.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.95</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.53</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>33.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GGd1</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.98</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">11.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.53</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">21.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.95</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.53</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">33.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGd2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.84</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>9.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.38</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>18.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.92</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.36</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>29.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GGd2</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.84</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">9.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.38</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">18.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.92</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.36</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">29.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGd3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.88</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>7.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.43</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>17.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.97</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.45</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>29.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GGd3</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.88</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">7.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.43</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">17.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.97</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.45</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">29.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGd4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.98</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>6.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.50</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>15.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.94</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.48</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>27.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GGd4</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.98</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">6.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.50</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">15.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.94</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.48</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">27.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GGdX</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;0.92</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;6.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.46</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;2.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;18.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.94</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;3.46</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;29.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;498</TD>
+ <td HEIGHT="17" WIDTH="8%">GGdX</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;0.92</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;6.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.46</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;2.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;18.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.94</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;3.46</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;29.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
- <TD HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
+ <td HEIGHT="17" WIDTH="8%">&nbsp;</TD>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSd1</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.74</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.0</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>7.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.40</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>15.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.84</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.23</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>25.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GSd1</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.74</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.0</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">7.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.40</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">15.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.84</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.23</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">25.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSd2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.76</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>8.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.29</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>16.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.77</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.16</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>25.7</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GSd2</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.76</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">8.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.29</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">16.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.77</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.16</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">25.7</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSd3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.84</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>9.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.34</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>17.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.81</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.17</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>26.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GSd3</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.84</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">9.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.34</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">17.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.81</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.17</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">26.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSd4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>0.81</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>9.5</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.37</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>2.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>17.6</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>1.87</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>3.37</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>27.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>498</TD>
+ <td HEIGHT="17" WIDTH="8%">GSd4</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">0.81</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">9.5</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.37</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">2.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">17.6</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">1.87</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">3.37</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">27.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">498</p></td>
  </TR>
  <TR>
- <TD HEIGHT="17" WIDTH="8%">GSdX</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;0.79</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.3</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;8.9</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;398</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.35</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;2.4</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;16.8</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;443</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;1.82</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;3.23</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;26.2</TD>
- <TD HEIGHT="17" WIDTH="8%">
- <P ALIGN=RIGHT>&nbsp;498</TD>
+ <td HEIGHT="17" WIDTH="8%">GSdX</TD>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;0.79</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.3</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;8.9</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;398</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.35</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;2.4</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;16.8</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;443</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;1.82</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;3.23</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;26.2</p></td>
+ <td HEIGHT="17" WIDTH="8%">
+ <p align="right">&nbsp;498</p></td>
  </TR>
  </TABLE>
  

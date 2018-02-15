@@ -60,136 +60,136 @@ logos: ssi12/logos/badc.html
  
  <TABLE WIDTH="95%" BORDER="1" align="center" CELLPADDING="0" CELLSPACING="2">
  <TR>
- <TD ROWSPAN="2" ></TD>
- <TD COLSPAN="4" align="center">2020s</TD>
- <TD COLSPAN="4" align="center">2050s</TD>
- <TD COLSPAN="4" align="center">2080s</TD>
+ <td ROWSPAN="2" ></TD>
+ <td COLSPAN="4" align="center">2020s</TD>
+ <td COLSPAN="4" align="center">2050s</TD>
+ <td COLSPAN="4" align="center">2080s</TD>
  </TR>
  <TR>
- <TD ALIGN="CENTER" HEIGHT="17" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T
- <BR>(&deg;C)</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR>(%)</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR>(cm)</TD>
- <TD ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2</FONT><BR
- CLEAR="ALL">(ppmv)*</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR>(&deg;C)</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P <BR>(%)</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL
- <BR>(cm)</TD>
- <TD ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR>(ppmv) *</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T <BR>(&deg;C)</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR>(%)</TD>
- <TD ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL
- <BR>(cm)</TD>
- <TD ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR>(ppmv)*</TD>
+ <td ALIGN="CENTER" HEIGHT="17" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T
+ <BR>(&deg;C)</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR>(%)</TD>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR>(cm)</TD>
+ <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2</FONT><BR
+ CLEAR="ALL">(ppmv)*</td>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR>(&deg;C)</TD>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P <BR>(%)</TD>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL
+ <BR>(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR>(ppmv) *</TD>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T <BR>(&deg;C)</TD>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR>(%)</TD>
+ <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL
+ <BR>(cm)</td>
+ <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR>(ppmv)*</TD>
  </TR>
  <TR>
- <TD WIDTH="8%">GGa</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.46</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.1</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.00</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>2.9</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>4.91</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>5.7</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>687</TD>
+ <td WIDTH="8%">GGa</TD>
+ <td WIDTH="8%">
+ <p align="right">1.46</p></td>
+ <td WIDTH="8%">
+ <p align="right">1.1</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">447</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.00</p></td>
+ <td WIDTH="8%">
+ <p align="right">2.9</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">554</p></td>
+ <td WIDTH="8%">
+ <p align="right">4.91</p></td>
+ <td WIDTH="8%">
+ <p align="right">5.7</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">687</p></td>
  </TR>
  <TR>
- <TD WIDTH="8%">GSa1</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.15</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>0.4</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>2.23</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.81</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.2</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>687</TD>
+ <td WIDTH="8%">GSa1</TD>
+ <td WIDTH="8%">
+ <p align="right">1.15</p></td>
+ <td WIDTH="8%">
+ <p align="right">0.4</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">447</p></td>
+ <td WIDTH="8%">
+ <p align="right">2.23</p></td>
+ <td WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">554</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.81</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.2</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">687</p></td>
  </TR>
  <TR>
- <TD WIDTH="8%">GSa2</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.15</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>0.4</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>2.22</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.85</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.2</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>687</TD>
+ <td WIDTH="8%">GSa2</TD>
+ <td WIDTH="8%">
+ <p align="right">1.15</p></td>
+ <td WIDTH="8%">
+ <p align="right">0.4</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">447</p></td>
+ <td WIDTH="8%">
+ <p align="right">2.22</p></td>
+ <td WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">554</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.85</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.2</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">687</p></td>
  </TR>
  <TR>
- <TD WIDTH="8%">GSa3</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.17</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>0.4</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>447</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>2.18</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>1.4</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>554</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.75</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>3.2</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>NA</TD>
- <TD WIDTH="8%">
- <P ALIGN=RIGHT>687</TD>
+ <td WIDTH="8%">GSa3</TD>
+ <td WIDTH="8%">
+ <p align="right">1.17</p></td>
+ <td WIDTH="8%">
+ <p align="right">0.4</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">447</p></td>
+ <td WIDTH="8%">
+ <p align="right">2.18</p></td>
+ <td WIDTH="8%">
+ <p align="right">1.4</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">554</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.75</p></td>
+ <td WIDTH="8%">
+ <p align="right">3.2</p></td>
+ <td WIDTH="8%">
+ <p align="right">NA</p></td>
+ <td WIDTH="8%">
+ <p align="right">687</p></td>
  </TR>
  </TABLE>
  
