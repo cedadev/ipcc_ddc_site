@@ -49,7 +49,7 @@ logos: ssi12/logos/All.html
 <a name="tideGuage"></a> 
 <h3>Tide Guage</h3><p>A device at a coastal location or deep-sea location that continuously measures the level of the sea with respect to the adjacent land. Time averaging of the sea level so recorded gives the observed secular changes of the relative sea level. <b>WGI</b></p>
 <a name="transientClimateExperiment"></a> 
-<h3>Transient Climate Experiment</h3>See <a href="glossary_e.html#equilibriumAndTransientClimateExperiment">Equilibrium and Transient Climate Experiments</a></p>
+<h3>Transient Climate Experiment</h3><p>See <a href="glossary_e.html#equilibriumAndTransientClimateExperiment">Equilibrium and Transient Climate Experiments</a></p>
 <a name="trend"></a> 
 <h3>Trend</h3><p>In the AR4 and AR5 WGI reports, the word trend designates a change, generally monotonic in time, in the value of a variable. <b>WGI</b></p>
 <a name="tropopause"></a>

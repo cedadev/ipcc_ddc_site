@@ -56,7 +56,7 @@ atmosphere for at least several hours. For convenience the term aerosol, which i
 <h3>AR4</h3><p><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml#1" target="_blank">Fourth IPCC Assessment Report</a></p>
 <a name="ascii"></a>
 <h3>ASCII</h3><p>American Standard Code for Information Interchange. ASCII is a character encoding scheme</p>
-</p>
+
 <a name="atmosphere"></a>
 <h3>Atmosphere</h3><p>The gaseous envelope surrounding the Earth. The dry atmosphere consists almost entirely of nitrogen (78.1% volume mixing ratio) and oxygen (20.9% volume mixing ratio), together with a number of trace gases, such as argon (0.93% volume mixing ratio), helium and addiatively active greenhouse gases such as carbon dioxide (0.035% volume mixing ratio) and ozone. In addition, the atmosphere contains the greenhouse gas water vapour, whose amounts are highly variable but typically around 1% volume mixing ratio. the atmoshere also contains clouds and aerosols. <b>WGI</b></p>
  </div><!-- End demo -->
