@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p> 
+
 <!--<h3>SA90</h3>??-->
 <a name="sar"></a>
 <h3>SAR</h3><p><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml#1" target="_blank">IPCC Second Assessment Report </a></p>
@@ -50,7 +50,7 @@ logos: ssi12/logos/All.html
 <a name="ssp"></a>
 <h3>Shared socio-economic pathways (SSPs)</h3><p>Currently, the idea of shared socio-economic pathways (SSPs) is developed as a basis for new emissions and socio-economic scenarios. An SSP is one of a collection of pathways that describe alternative futures of socio-economic development in the absense of <a href="glossary_pq.html#policies">climate policy</a> intervention. The combination of SSP-based socio-economic scenarios and <a href="glossary_r.html#rcp">Representative Concentration Pathway (RCP)</a>-based <a href="glossary_c.html#climateProjection">climate projections</a> should provide a useful integrative frame for <a href="glossary_c.html#climateImpact">climate impact</a> and policy analysis. <b>WGIII</b></p>
 <a name="socioEconomicScenario"></a>
-<h3>Socio-Econonmic Scenario</h3><p>A scenario that describes a possible future in terms of population, gross domestic product (GDP), and other socio-economic factors relevant to understanding the implications of <a href="glossary_c.html#climateChange"">climate change</a>. concerning future conditions in terms of population, Gross Domestic Product and other socio-economic factors relevant to understanding the implications of climate change.  <b>WGIII</b></p>
+<h3>Socio-Econonmic Scenario</h3><p>A scenario that describes a possible future in terms of population, gross domestic product (GDP), and other socio-economic factors relevant to understanding the implications of <a href="glossary_c.html#climateChange">climate change</a>. concerning future conditions in terms of population, Gross Domestic Product and other socio-economic factors relevant to understanding the implications of climate change.  <b>WGIII</b></p>
 <a name="sres"></a>
 <h3>SRES</h3><p>Special Report on Emission Scenarios (<a href="http://sres.ciesin.columbia.edu/">SRES</a>).</p>
 <a name="sresScenarios"></a>
@@ -67,7 +67,7 @@ logos: ssi12/logos/All.html
 <h3>Stratosphere</h3><p>The highly stratified region of the <a href="glossary_a.html#atmosphere">atmosphere</a> above the <a href="glossary_t.html#troposphere">troposphere</a> extending from about 10 km (ranging from 9 km at high latitudes to 16 km in the tropics on average) to about 50 km altitude. <b>WGI</b></p>
 <a name="stratosphericOzone"></a>
 <h3>Stratospheric Ozone</h3><p>See <a href="glossary_no.html#ozone">Ozone</a></p>
-</p>
+
  </div><!-- End demo -->
 
    

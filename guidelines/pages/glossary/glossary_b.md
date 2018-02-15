@@ -38,7 +38,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="b1"></a>
 <h3>B1 and B2</h3><p>See <a href="glossary_s.html#sresScenarios">SRES scenarios</a>. </p>
 <a name="badc"></a>
@@ -53,6 +53,5 @@ logos: ssi12/logos/All.html
 <h3>Black Carbon (BC)</h3><p>Operationally defined <a href="glossary_a.html#aerosols">aerosol</a> species based on measurement of light absorption and chemical reactivity and/or thermal stability. It is sometimes referred to as soot. BC is mostly formed by the incomplete combustion of <a href="glossary_fg.html#fossilFuels">fossil fuels</a>, biofuels, and biomass but it also occurs naturally. It stays in the <a href="glossary_a.html#atmosphere">atmosphere</a> only for days or weeks. It is the most strongly light-absorbing component of <a href="glossary_pq.html#particulateMatter">particulate matter (PM)</a> and has a warming effect by absorbing heat into the atmosphere and reducing the <a href="glossary_a.html#albedo">albedo</a> when deposited on ice or snow. <b>WGIII</b></p>
 <a name="bmbf"></a>
 <h3>BMBF</h3><p> <a href="http://www.bmbf.de/en/" target="_blank">Bundesminesterium f&uuml;r Bildung und Forschung / Federal Ministry of Education and Research</a></p>
-</p>
 
  </div>

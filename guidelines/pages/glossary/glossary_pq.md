@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="particulateMatter"></a> 
 <h3>Particulate matter (PM)</h3><p>Very small solid particles emitted during the combustion of biomass and <a href="glossary_fg.html#fossilFuels">fossil fuels</a>. PM may consist of a wide variety of substances. Of greatest concern for health are particulates of diameter less than or equal to 10 nanometers, usually designated as PM10.  See also <a href="glossary_a.html#aerosols">Aerosol</a>. <b>WGIII</b></p>
 <a name="pcmdi"></a> 
@@ -57,7 +57,7 @@ A mix of oxidizing air pollutants produced by the reaction of sunlight with prim
 <h3>Pre-Industrial</h3><p>See <a href="glossary_hi.html#industrialRevolution">Industrial Revolution</a></p>
 <a name="provia"></a> 
 <h3>PROVIA</h3><p><a href="http://www.provia-climatechange.org/" target="_blank">Programme of Research on Climate Change Vulnerability, Impacts and Adaptation </a></p>
-</p>
+
  </div><!-- End demo -->
 
    

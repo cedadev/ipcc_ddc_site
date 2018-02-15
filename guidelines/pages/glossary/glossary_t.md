@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="tar"></a> 
 <h3>TAR</h3><p><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml#1">IPCC Third Assessment Report </a></p>
 <a name="temperatureAnomaly"></a> 
@@ -60,5 +60,5 @@ logos: ssi12/logos/All.html
 <h3>TSU</h3><p><a href="http://www.ipcc.ch/organization/organization_secretariat.shtml#2" target="_blank">Technical Support Unit (IPCC) </a></p>
 <a name="troposphericOzone"></a> 
 <h3>Tropospheric Ozone</h3><p>See <a href="glossary_no.html#ozone">Ozone</a></p>
-</p>
+
  </div><!-- End demo -->

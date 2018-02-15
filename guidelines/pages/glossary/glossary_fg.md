@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="factSheet"></a>
 <!-- <h3>Fact Sheet</h3><p>Need some text about fact sheets</p> -->
 <a name="fao"></a>
@@ -67,7 +67,7 @@ logos: ssi12/logos/All.html
 <!--<h3>Guidelines</h3><p>Need some text about guidelines</p>-->
 <a name="gzip"></a>
 <h3>GZIP</h3><p>GNU zip. GZIP is used for file compression and decompression. </p>
-</p>
+
  </div><!-- End demo -->
 
    

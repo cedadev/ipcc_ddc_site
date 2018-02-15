@@ -36,7 +36,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="capacityBuilding"></a>
 <h3>Capacity Building</h3><p>The practice of enhancing the strengths and attributes of, and resources available to, an individual, community, society, or organisation to respond to change. <b>WGII</b></p>
 <a name="co2"></a>
@@ -50,7 +50,8 @@ logos: ssi12/logos/All.html
 <a name="climate"></a>
 <h3>Climate</h3><p>Climate in a narrow sense is usually defined as the average weather, or more rigorously, as the statistical description in terms of the mean and variability of relevant quantities over a period of time ranging from months to thousands or millions of years. The classical period for averaging these variables is 30 years, as defined by the World Meteorological Organization. The relevant quantities are most often surface variables such as temperature, precipitation and wind. Climate in a wider sense is the state, including a statistical description, of the climate system. <b>WGIII</b></p>
 <a name="climateChange"></a>
-<h3>Climate Change</h3><p>Climate change refers to a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties, and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent <a href="glossary_a.html#anthropogenic">anthropogenic</a> changes in the composition of the <a href="glossary_a.html#atmosphere>atmosphere</a> or in <a href="glossary_lm.html#landUse">land use</a>. Note that the United Nations Framework Convention on Climate Change (UNFCCC), in its Article 1, defines climate change as: 'a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods'. The UNFCCC thus makes a distinction between climate change attributable to human activities altering the atmospheric composition, and climate variability attributable to natural causes. <b>WGIII</b></p>
+<h3>Climate Change</h3><p>Climate change refers to a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties, and that persists for an extended period, typically decades or longer. Climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent <a href="glossary_a.html#anthropogenic">anthropogenic</a> changes in the composition of the <a href="glossary_a.html#atmosphere">atmosphere</a>
+or in <a href="glossary_lm.html#landUse">land use</a>. Note that the United Nations Framework Convention on Climate Change (UNFCCC), in its Article 1, defines climate change as: 'a change of climate which is attributed directly or indirectly to human activity that alters the composition of the global atmosphere and which is in addition to natural climate variability observed over comparable time periods'. The UNFCCC thus makes a distinction between climate change attributable to human activities altering the atmospheric composition, and climate variability attributable to natural causes. <b>WGIII</b></p>
 <a name="climateChangeCommitment"></a>
 <h3>Climate Change Commitment</h3><p>Due to the thermal inertia of the ocean and slow processes in the cryosphere and land surfaces, the climate would continue to change even if the atmospheric composition were held fixed at today's values. Past change in atmospheric composition leads to a committed climate change, which continues for as long as a radiative imbalance persists and until all components of the climate system have adjusted to a new state.
 The further change in temperature after the composition of the <a href="glossary_a.html#atmosphere">atmosphere</a> is held constant is referred to as the constant composition temperature commitment or simply committed warming or warming commitment.
@@ -80,7 +81,4 @@ Climate change commitment includes other future changes, for example in the hydr
 <!--<h3>CSU</h3><p> </p>-->
 <a name="csv"></a>
 <h3>CSV</h3><p>Comma Separated Values. CSV files store tabular data in plain-text form.</p>
-</p>
  </div><!-- End demo -->
-
-   

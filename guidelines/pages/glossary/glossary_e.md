@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="emissionScenario"></a>
 <h3>Emission Scenario</h3><p>A plausible representation of the future development of emissions of substances that are potentially radiatively active (e.g., greenhouse gases, aerosols), based on a coherent and internally consistent set of assumptions about driving forces (such as demographic and socioeconomic development, technological change, energy and land use) and their key relationships. Concentration scenarios, derived from emission scenarios, are used as input to a climate model to compute climate projections. In IPCC (1992) a set of emission scenarios was presented which were used as a basis for the climate projections in IPCC (1996). These emission scenarios are referred to as the IS92 scenarios. In the IPCC Special Report on Emission Scenarios (Nakicenovic and Swart, 2000) a new set of emission scenarios, the so-called <a href="glossary_s.html#sresScenarios">SRES scenarios</a>, were published, some of which were used, among others, as a basis for the climate projections presented in Chapters 9 to 11 of IPCC (2001) and Chapters 10 and 11 of IPCC (2007). New emission scenarios for climate change, the four <a href="glossary_r.html#rcp">Representative Concentration Pathways (RCPs)</a>, were developed for, but independently of, the fifth IPCC assessment. <b>WGIII</b></p>
 <a name="ensemble"></a>
@@ -55,7 +55,6 @@ Such experiments provide information on the difference between the initial and f
 <h3>Extreme Climate Event</h3><p>See Extreme Weather Event.</p>
 <a name="extremeWeather"</a>
 <h3>Extreme Weather Event</h3><p>An extreme weather event is an event that is rare at a particular place and time of year. Definitions of rare vary, but an extreme weather event would normally be as rare as or rarer than the 10th or 90th percentile of a probability density function estimated from observations. By definition, the characteristics of what is called extreme weather may vary from place to place in an absolute sense. When a pattern of extreme weather persists for some time, such as a season, it may be classed as an extreme climate event, especially if it yields an average or total that is itself extreme (e.g., drought or heavy rainfall over a season). <b>WG II</b></p>
-</p>
 
  </div><!-- End demo -->
 

@@ -37,12 +37,12 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="jiic"></a>
 <h3>JIIC</h3><p><a href="http://www.isp.ucar.edu/joint-iav-iam-committee" target="_blank">Joint IAV IAM Committee </a>. See also definitions for <a href="glossary_hi.html#iam">IAM</a> and <a href="glossary_hi.html#iav">IAV</a>.</p>
 <a name="kyotoProtocol"></a>
 <h3>Kyoto Protocol</h3><p>The Kyoto Protocol to the United Nations Framework Convention on Climate Change <a href="glossary_uv.html#unfccc">(UNFCCC)</a> was adopted in 1997 in Kyoto, Japan, at the Third Session of the Conference of the Parties (COP) to the UNFCCC. It contains legally binding commitments, in addition to those included in the UNFCCC. Countries included in Annex B of the Protocol (most Organisation for Economic Cooperation and Development (OECD) countries and countries with economies in transition) agreed to reduce their <a href="glossary_a.html#anthropogenic">anthropogenic</a> <a href="glossary_fg.html#greenhouseGas">greenhouse gas (GHG)</a> emissions (<a href="glossary_c.html#co2">carbon dioxide (CO<sub>2</sub>)</a>, methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>)) by at least 5% below 1990 levels in the commitment period 2008 to 2012. The Kyoto Protocol entered into force on 16 February 2005. <b>WGIII</b></p>
-</p>
+
  </div><!-- End demo -->
 
    

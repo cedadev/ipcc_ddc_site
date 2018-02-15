@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p> 
+
 <a name="nasa"></a>
 <h3>NASA</h3><p><a href="http://www.nasa.gov" target="_blank">National Aeronautics and Space Administration</a></p>
 <a name="ncar"></a>
@@ -56,7 +56,7 @@ logos: ssi12/logos/All.html
 <h3>Ozone Hole</h3><p>See Ozone Layer</p>
 <a name="ozoneLayer"></a>
 <h3>Ozone Layer</h3><p>The <a href="glossary_a.html#atmosphere">stratosphere</a> contains a layer in which the concentration of ozone is greatest, the so-called ozone layer. The layer extends from about 12 to 40 km above the Earth's surface. The ozone concentration reaches a maximum between about 20 and 25 km. This layer has been depleted by human emissions of chlorine and bromine compounds. Every year, during the Southern Hemisphere spring, a very strong depletion of the ozone layer takes place over the Antarctic, caused by <a href="glossary_a.html#anthropogenic">anthropogenic</a> chlorine and bromine compounds in combination with the specific meteorological conditions of that region. This phenomenon is called the ozone hole. <b>WGI</b></p>
-</p>
+
  </div><!-- End demo -->
 
    

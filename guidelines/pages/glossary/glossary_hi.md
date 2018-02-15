@@ -38,7 +38,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="hadcrut3"></a>
 <h3>HadCRUT3</h3><p><a href="http://www.metoffice.gov.uk/hadobs/hadcrut3/" target="_blank">Hadley Centre/Climatic Research Unit gridded surface temperature data set version 3</a></p>
 <a name="html"></a>
@@ -48,7 +48,7 @@ logos: ssi12/logos/All.html
 <a name="iamc"></a>
 <h3>IAMC</h3><p><a href="http://iamconsortium.org/" target="_blank">Integrated Assessment Modelling Consortium</a></p>
 <a name="iav"></a>
-<h3>IAV</h3><p>Impacts <a href="glossary_a.html#adaptation">Adaptation</a> and <a href="glossary_uv.html#vulnerability>Vulnerability</a>.</p>
+<h3>IAV</h3><p>Impacts <a href="glossary_a.html#adaptation">Adaptation</a> and <a href="glossary_uv.html#vulnerability">Vulnerability</a>.</p>
 <a name="igbp"></a>
 <h3>IGBP</h3><p><a href="http://www.igbp.net/" target="_blank">International Geosphere-Biosphere Programme</a></p>
 <a name="ihdp"></a>
@@ -68,7 +68,6 @@ logos: ssi12/logos/All.html
 <a name="is92"></a>
 <h3>IS92</h3><p>Illustrative Scenarios 1992, see <a href="glossary_s.html#sresScenarios">SRES scenarios</a>.</p>
 <h3>IS92</h3><p>IPCC Scenarios 1992, see <a href="glossary_s.html#sresScenarios">SRES scenarios</a>.</p>
-</p>
  </div><!-- End demo -->
 
    

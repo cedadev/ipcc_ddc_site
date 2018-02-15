@@ -36,7 +36,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
  <a name="a1"></a>
 <h3>A1, A1F1, A1T, A1B and A2</h3><p> See <a href="glossary_s.html#sresScenarios">SRES scenarios</a>.</p>
 <a name="adaptation"></a>

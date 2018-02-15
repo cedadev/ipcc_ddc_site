@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="data"></a>
 <h3>Data</h3><p>Data on the DDC is provided to facilitate the timely distribution of a consistent set of up-to-date <a href="glossary_s.html#scenario">scenarios</a> of changes in <a href="glossary_c.html#climate">climate</a> and related environmental and socio-economic factors for use in <a href="glossary_hi.html#impactAssessment">climate impacts assessments</a>. The climate data availabe on the DDC includes climate observation data, climate simulation data and synthesised climate data that combines both climate observation and climate simulation data.</p> 
 <a name="decc"></a>
@@ -52,7 +52,6 @@ logos: ssi12/logos/All.html
 <h3>DKRZ</h3><p><a href="http://www.dkrz.de/" target="_blank">Deutsches Klimarechensentrum / German Climate Computing Centre </a></p>
 <a name="drs"></a>
 <h3>DRS</h3><p>Data Reference Syntax. DRS is a commmon naming system used in the CMIP5 archive to identify datasets. <a href="http://cmip-pcmdi.llnl.gov/cmip5/docs/cmip5_data_reference_syntax.pdf" target="_blank">More about DRS.</a></p>
-</p>
 
  </div><!-- End demo -->
 

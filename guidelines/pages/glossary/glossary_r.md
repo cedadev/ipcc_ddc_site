@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
  
 </p>
-<p> 
+
 <a name="radiativeForcing"></a>
 <h3>Radiative Forcing</h3><p>Radiative forcing is the change in the net, downward minus upward, radiative flux (expressed in Watts per square metre; W m<sup>-2</sup>) at the <a href="glossary_t.html#tropopause">tropopause</a> or top of <a href="glossary_a.html#atmosphere">atmosphere</a> due to a change in an external driver of <a href="glossary_c.html#climateChange">climate change</a>, such as, for example, a change in the concentration of <a href="glossary_c.html#co2">carbon dioxide (CO<sub>2</sub>)</a> or the output of the Sun. <b>WGIII</b></p>
 <p>Sometimes internal drivers are still treated as forcings even though they result from the alteration in climate, for example aerosol or greenhouse gas changes in paleoclimates. The traditional radiative forcing is computed with all <a href="glossary_t.html#troposphere">tropospheric</a> properties held fixed at their unperturbed values, and after allowing for <a href="glossary_s.html#stratosphere">stratospheric</a> termperature, if perturbed, to readjust to radiative-dynamical equilibrium.  Radiative forcing is called <i>instantaneous</i> if no change in stratospheric temperature is accounted for. The radiative forcing once rapid adjustments are accounted for is termed the <i>effective radiative forcing</i>. For the purposes of the WG1 AR5 report, radiative forcing is further defined as the change relative to the year 1750 and, unless otherwise noted, refers to a global and annual average value.  Radiative forcing is not to be confused with <i>cloud radiative forcing</i>, which describes an unrelated measure of the impact of clouds on the radiative flux at the top of the atmosphere. <b>WGI</b></p>
@@ -55,6 +55,6 @@ logos: ssi12/logos/All.html
 <p><b>RCP8.5</b> One high pathway for which radiative forcing reaches greater than 8.5 W m<sup>-2</sup> by 2100 and continues to rise for some amount of time (the corresponding ECP assuming constant emissions after 2100 and constant concentrations after 2250).</p>
 
 <h3>Resolution</h3><p>In <a href="glossary_c.html#climateModel">climate models</a>, this term refers to the physical distance (meters or degrees) between each point on the grid used to compute the equations. Temporal resolution refers to the time step or time elapsed between each model computation of  the equations. <b>WGI</b></p>
-</p>
+
 
 </div>

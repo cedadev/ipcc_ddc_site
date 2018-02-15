@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p> 
+
 
 <a name="landUse"></a><a name="landUseChange"></a>
 <h3>Land use and Land use change</h3><p>Land use refers to the total arrangements, activities and inputs undertaken in a certain land cover type (a set of human actions). The term land use is also used in the sense of the social and economic purposes for which land is managed (e.g., grazing, timber extraction and conservation).</p>
@@ -58,7 +58,7 @@ logos: ssi12/logos/All.html
 <h3>Montreal Protocol</h3><p>The Montreal Protocol on Substances that Deplete the <a href="glossary_no.html#ozoneLayer">Ozone Layer</a> was adapted in Montreal in 1987, and subsequently adjusted and amended in London (1990), Copenhagen (1992), Vienna (1995), Montreal (1997) and Beijing (1999).  It controls the consumption and production of chlorine- and bromine-containing chemicals that destroy <a href="glossary_s.html#stratosphericOzone">stratospheric ozone</a>, such as chlorofluorocarbons, methyl chloroform, carbon tetrachloride and many others. <b>WGI</b></p>
 <a name="mpim"></a>
 <h3>MPI-M</h3><p> <a href="http://www.mpimet.mpg.de" target="_blank">Max Planck Institute for Meteorology</a></p>
-</p>
+
  </div><!-- End demo -->
 
    

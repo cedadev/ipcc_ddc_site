@@ -37,7 +37,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="un"></a>
 <h3>UN</h3><p><a href="http://www.un.org/" target="_blank">United Nations </a></p>
 <a name="unep"></a>
@@ -50,6 +50,6 @@ logos: ssi12/logos/All.html
 <h3>Volatile Organic Compounds (VOCs)</h3><p>Important class of organic chemical air pollutants that are volatile at ambient aire conditions. Other terms used to represent VOCs are hydrocarbons (HCs), reactive organic gases (ROGs) and non-methane volatile organic compounds (NMVOCs). NMVOCs are major contributors - together with nitrogen oxides (NO<sub>x</sub>), and carbon monoxide (CO) - to the formation of <a href="glossary_pq.html#photochemSmog">photochemical</a> oxidants such as <a href="glossary_no.html#ozone">ozone (O<sub>3</sub>)</a>. <b>WGIII</b></p>
 <a name="vulnerability"></a>
 <h3>Vulnerability</h3><p>The propensity or predisposition to be adversely affected. Vulnerability encompasses a variety of concepts including <a href="glossary_s.html#sensitivity">sensitivity</a> or susceptibility to harm and lack of <a href="glossary_c.html#capacityBuilding">capacity</a> to cope and <a href="glossary_a.html#adaptation">adapt</a>. <b>WGII</b></p>  
-</p>
+
 
  </div>

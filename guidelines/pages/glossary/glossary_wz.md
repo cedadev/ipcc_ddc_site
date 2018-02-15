@@ -38,7 +38,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_wz.html">W-Z</a>
 
 </p>
-<p>
+
 <a name="wcrp"></a>
 <h3>WCRP</h3><p><a href="http://www.wcrp-climate.org/" target="_blank">World Climate Research Programme </a></p>
 <a name="wdcc"></a>
@@ -55,5 +55,5 @@ logos: ssi12/logos/All.html
 <h3>WMO</h3><p><a href="http://www.wmo.int/" target="_blank">World Meteorological Organisation </a></p>
 <a name="www"></a>
 <h3>WWW</h3><p>World Wide Web</p><br/>
-</p>
- </div>
+
+</div>
