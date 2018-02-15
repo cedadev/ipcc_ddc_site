@@ -60,7 +60,7 @@ logos: ssi12/logos/badc.html
  
  <p>&nbsp;</p>
  
- <P><B>Global-Mean Temperature, Precipitation and CO<FONT SIZE="-2">2</FONT> Changes
+ <P><B>Global-Mean Temperature, Precipitation and CO<font size="-2">2</font> Changes
  (w.r.t. 1961 - 1990) for the CSIRO-Mk2 Integrations</B></P>
  
  <TABLE WIDTH="95%" BORDER="1" align="center" CELLPADDING="0" CELLSPACING="2">
@@ -70,31 +70,31 @@ logos: ssi12/logos/badc.html
  <td COLSPAN="4" align="center">2050s</TD>
  <td COLSPAN="4" align="center">2080s</TD>
  </TR>
- 
- <td ALIGN="CENTER" HEIGHT="30" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR
+ <TR>
+ <td ALIGN="CENTER" HEIGHT="30" WIDTH="8%"><font FACE="Symbol">D</font>T<BR
  CLEAR="ALL">(&deg;C)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>P<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>P<BR
  CLEAR="ALL">(%)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>SL<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>SL<BR
  CLEAR="ALL">(cm)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30">CO<FONT SIZE="-2">2
- </FONT><BR CLEAR="ALL">(ppmv) *</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>T<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30">CO<font size="-2">2
+ </font><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>T<BR
  CLEAR="ALL">(&deg;C)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>P<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>P<BR
  CLEAR="ALL">(%)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>SL<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>SL<BR
  CLEAR="ALL">(cm)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30">CO<FONT SIZE="-2">2
- </FONT><BR CLEAR="ALL">(ppmv) *</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>T
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30">CO<font size="-2">2
+ </font><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>T
  <BR CLEAR="ALL">(&deg;C)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>P<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>P<BR
  CLEAR="ALL">(%)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><FONT FACE="Symbol">D</FONT>SL<BR
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30"><font FACE="Symbol">D</font>SL<BR
  CLEAR="ALL">(cm)</td>
- <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30">CO<FONT SIZE="-2">2
- </FONT><BR CLEAR="ALL">(ppmv) *</td>
+ <td ALIGN="CENTER" WIDTH="8%" HEIGHT="30">CO<font size="-2">2
+ </font><BR CLEAR="ALL">(ppmv) *</td>
  </TR>
  <TR>
  <td WIDTH="8%" HEIGHT="18">GGa</TD>
@@ -155,7 +155,7 @@ logos: ssi12/logos/badc.html
  <P><B>Notes</B></P>
  <P>The climate sensitivity of CSIRO-Mk2 is about 4.3&ordm;C (Watterson<I>
  et al</I>.,1997).</P>
- <P>* The CO<FONT SIZE="-2">2</FONT> concentration has been estimated
+ <P>* The CO<font size="-2">2</font> concentration has been estimated
  assuming an IS92a mix of greenhouse gases and concentration /
  forcing relationships reported in the IPCC Second Assessment Report.</P>
  

@@ -68,29 +68,29 @@ logos: ssi12/logos/badc.html
  </TR>
  <TR>
  <td ALIGN="CENTER" HEIGHT="17" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T
- <BR CLEAR="ALL">(&deg;C)</td>
+ <BR CLEAR="ALL"/>(&deg;C)</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR
- CLEAR="ALL">(%)</td>
+ CLEAR="ALL"/>(%)</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL">(cm)</td>
+ CLEAR="ALL"/>(cm)</td>
  <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2 </FONT><BR
- CLEAR="ALL">(ppmv) SELECTION--> /SELECTION-->*</td>
+ CLEAR="ALL"/>(ppmv) *</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR
- CLEAR="ALL">(&deg;C)</td>
+ CLEAR="ALL"/>(&deg;C)</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P <BR
- CLEAR="ALL">(%)</td>
+ CLEAR="ALL"/>(%)</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL">(cm)</td>
+ CLEAR="ALL"/>(cm)</td>
  <td ALIGN="CENTER" WIDTH="10%">CO<FONT SIZE="-2">2</FONT><BR
- CLEAR="ALL">(ppmv) *</td>
+ CLEAR="ALL"/>(ppmv) */td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>T<BR
- CLEAR="ALL">(&deg;C)</td>
+ CLEAR="ALL"/>(&deg;C)</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>P<BR
- CLEAR="ALL">(%)</td>
+ CLEAR="ALL"/>(%)</td>
  <td ALIGN="CENTER" WIDTH="8%"><FONT FACE="Symbol">D</FONT>SL<BR
- CLEAR="ALL">(cm)</td>
+ CLEAR="ALL"/>(cm)</td>
  <td ALIGN="CENTER" WIDTH="8%">CO<FONT SIZE="-2">2</FONT><BR
- CLEAR="ALL">(ppmv) *</td>
+ CLEAR="ALL"/>(ppmv) *</td>
  </TR>
  <TR>
  <td WIDTH="8%">GGa</TD>
@@ -151,6 +151,7 @@ logos: ssi12/logos/badc.html
  
  <P><B>Notes</B></P>
  <P>The model's climate sensitivity is about 3.7&ordm;C.</P>
+<p>* The CO2 concentration has been estimated assuming an IS92a mix of greenhouse gases and concentration / forcing relationships reported in the IPCC Second Assessment Report.</p>
  
  <p>&nbsp;</p>
  
