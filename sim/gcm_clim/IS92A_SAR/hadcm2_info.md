@@ -89,46 +89,48 @@ logos: ssi12/logos/badc.html
  <LI>HadCM2GGa1, to 4: an ensemble of Greenhouse Gas Integrations
  (historic equivalent GG 1860 - 1989, 1% compound increase GG
  1990 - 2099).<br/>
- The different members of the ensembles are:<BR>
- HadCM2GGa1 Greenhouse gas 1% forcing Member1 (the original HadCM2GG);<BR>
- HadCM2GGa2 Greenhouse gas 1% forcing Member2;<BR>
- HadCM2GGa3 Greenhouse gas 1% forcing Member3;<BR>
+ The different members of the ensembles are:<br/>
+ HadCM2GGa1 Greenhouse gas 1% forcing Member1 (the original HadCM2GG);<br/>
+ HadCM2GGa2 Greenhouse gas 1% forcing Member2;<br/>
+ HadCM2GGa3 Greenhouse gas 1% forcing Member3;<br/>
  HadCM2GGa4 Greenhouse gas 1% forcing Member4.</LI>
  
  <LI>HadCM2GGd1 to 4, an ensemble of Greenhouse Gas Integrations
  (historic equivalent GG 1860 - 1989, 0.5% compound increase GG
  1990 - 2099).<br/>
- The different members of the ensembles are:<BR>
- HadCM2GGd1 Greenhouse gas 0.5% forcing Member1;<BR>
- HadCM2GGd2 Greenhouse gas 0.5% forcing Member2;<BR>
- HadCM2GGd3 Greenhouse gas 0.5% forcing Member3;<BR>
- HadCM2GGd4 Greenhouse gas 0.5% forcing Member4.<BR></LI>
+ The different members of the ensembles are:<br/>
+ HadCM2GGd1 Greenhouse gas 0.5% forcing Member1;<br/>
+ HadCM2GGd2 Greenhouse gas 0.5% forcing Member2;<br/>
+ HadCM2GGd3 Greenhouse gas 0.5% forcing Member3;<br/>
+ HadCM2GGd4 Greenhouse gas 0.5% forcing Member4.<br/></LI>
  
  <LI>HadCM2GSa1 to 4: an ensemble of Greenhouse Gas plus Sulphate
  Aerosol Integrations (GGa forcing plus historic SO<FONT SIZE="-2">4</FONT>
  1860 - 1989, IS92a SO<FONT SIZE="-2">4</FONT> 1990 - 2099).<br/>
- The different members of the ensembles are:<BR>
- HadCM2GSa1 Greenhouse and Sulphate 1% forcing Member1 (the original HadCM2GS);<BR>
- HadCM2GSa2 Greenhouse and Sulphate 1% forcing Member2;<BR>
- HadCM2GSa3 Greenhouse and Sulphate 1% forcing Member3;<BR>
- HadCM2GSa4 Greenhouse and Sulphate 1% forcing Member4.<BR></LI>
+ The different members of the ensembles are:<br/>
+ HadCM2GSa1 Greenhouse and Sulphate 1% forcing Member1 (the original HadCM2GS);<br/>
+ HadCM2GSa2 Greenhouse and Sulphate 1% forcing Member2;<br/>
+ HadCM2GSa3 Greenhouse and Sulphate 1% forcing Member3;<br/>
+ HadCM2GSa4 Greenhouse and Sulphate 1% forcing Member4.<br/></LI>
  
  <LI>HadCM2GSd1 to 4: an ensemble of Greenhouse Gas plus Sulphate
  Aerosol Integrations (GGd forcing plus historic SO<FONT SIZE="-2">4</FONT>
  1860 - 1989, IS92d SO<FONT SIZE="-2">4</FONT> 1990 - 2099).<br/>
- The different members of the ensembles are:<BR>
- HadCM2GSd1 Greenhouse and Sulphate 0.5% forcing Member1;<BR>
- HadCM2GSd2 Greenhouse and Sulphate 0.5% forcing Member2;<BR>
- HadCM2GSd3 Greenhouse and Sulphate 0.5% forcing Member3;<BR>
- HadCM2GSd4 Greenhouse and Sulphate 0.5% forcing Member4.<BR></LI>
+ The different members of the ensembles are:<br/>
+ HadCM2GSd1 Greenhouse and Sulphate 0.5% forcing Member1;<br/>
+ HadCM2GSd2 Greenhouse and Sulphate 0.5% forcing Member2;<br/>
+ HadCM2GSd3 Greenhouse and Sulphate 0.5% forcing Member3;<br/>
+ HadCM2GSd4 Greenhouse and Sulphate 0.5% forcing Member4.<br/></LI>
  </UL>
  
  <P></P>
  
  <P><B>Conceptual structure of the experimental design of the HadCM2 ensembles experiments</B></P>
  
- <P ALIGN=CENTER><IMG SRC="hadcm2_ensembles.jpg" WIDTH="500" HEIGHT="277"
- ALIGN="BOTTOM" BORDER="0" NATURALSIZEFLAG="3"></P>
+ <P style="text-align:center;">
+<IMG SRC="hadcm2_ensembles.jpg" WIDTH="500" HEIGHT="277"
+ ALIGN="BOTTOM" BORDER="0" NATURALSIZEFLAG="3"/>
+</P>
  
  <P><B>Global-Mean Temperature, Precipitation and CO<FONT SIZE="-2">2</FONT> Changes
  (w.r.t. 1961 - 1990) for the HadCM2 integrations</B></P>
