@@ -194,12 +194,8 @@ logos: ssi12/logos/badc.html
  
  <P><B>Further Details</B></P>
  
- <P><A HREF="http://www.cmar.csiro.au/">http://www.cmar.csiro.au/</A>
+ <P><A HREF="http://www.cmar.csiro.au/">http://www.cmar.csiro.au/</A></p>
  
  <p>&nbsp;</p>
- 
- 
- 
- <p></p>
  
  <!-- end of center column -->
