@@ -21,7 +21,7 @@ logos: ssi12/logos/badc.html
  
  <table width="95%" border="1" align="center" cellspacing="0" cellpadding="0">
  <tr>
- <td height="40" width="25%" align="center" valign="middle"><b>Decadal Means<br></br>(File Size = 1.1Mb)</b>
+ <td height="40" width="25%" align="center" valign="middle"><b>Decadal Means<br/>(File Size = 1.1Mb)</b>
  </td>
  <td width="15%" align="center" valign="middle"><b>1901-1910</b>
  </td>
@@ -211,7 +211,7 @@ logos: ssi12/logos/badc.html
  
  <table width="95%" border="1" align="center" cellspacing="0" cellpadding="0">
  <tr>
- <td height="40" width="25%" align="center" valign="middle"><b>Decadal Means<br></br>(File Size = 1.1Mb)</b>
+ <td height="40" width="25%" align="center" valign="middle"><b>Decadal Means<br/>(File Size = 1.1Mb)</b>
  </td>
  <td width="15%" align="center" valign="middle"><b>1951-1960</b>
  </td>

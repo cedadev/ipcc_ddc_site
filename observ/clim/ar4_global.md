@@ -22,8 +22,8 @@ logos: ssi12/logos/badc.html
  <p>
  The IPCC Fourth Assessment Report discusses four observational temperature datasets:</p>
  
-<pmonitoring-references/>
- <table class="data-table" border="2">
+<p>
+ <table class="data-table" border="2" margin="5">
  <tr><td> Dataset </td><td>Information</td><td> Global mean time series</td><td>Literature</td> </tr>
  <tr>
  <td> CRUTEM3 </td>
@@ -77,7 +77,9 @@ logos: ssi12/logos/badc.html
  K.M. Lugina, P.Ya. Groisman, K.Ya. Vinnikov, V.V. Koknaeva, and N.A. Speranskaya, 2006. Monthly surface air temperature time series area-averaged over the 30-degree latitudinal belts of the globe, 1881-2005. In Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A.
  </td>
  </tr>
- </table></p>
+ </table>
+
+</p>
  
  
  <h2>Gridded fields</h2>
