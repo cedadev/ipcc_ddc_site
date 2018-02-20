@@ -145,11 +145,7 @@ logos: ssi12/logos/badc.html
         <a href="/auto/ar4/model-UKMO-HADGEM1.html">HADGEM1</a></td></tr>
  </table>
  
- <!-- currently undetermined: 
- CONS:ECHO-G:  -
- CSIRO:MK3:  -
- MPIM:ECHAM5: -
- NCAR:PCM:  - 
+<!-- currently undetermined: CONS:ECHO-G:  - CSIRO:MK3:  - MPIM:ECHAM5: - NCAR:PCM:  - 
  - GFDL: email recieved from GFDL climate model info team, July 4, 2008.  -->
  
  <p/>
