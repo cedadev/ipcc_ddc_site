@@ -43,7 +43,7 @@ logos: ssi12/logos/All.html
   <tr>
    <td colspan="2" style="height:200px;background:#ffffff;" valign="top" >
  
-       <script>
+       <script type="text/javascript">
         $(function() {
                 $( "#tabs" ).tabs({cookie: { expires: 1 } });
     $("a[href='#about']").click(function() {
