@@ -77,9 +77,9 @@ The DDC also provides links to datasets which have been reviewed and pass a set 
   <h2>User support</h2>
  
  <ul>
-  <li>More information about the guidelines can be found <a href="/guidelines/index.html">here</a>.</li>
-  <li>There is a <a href="/ddc/ddc_faq.html">"Frequently Asked Questions" page</a>.
-  <li>Results of a user survey conducted in April/May 2009 can be read <a href="/auto/ddc_survey_results_2009.html">here</a>.
+  <li>More information about the guidelines can be found <a href="/guidelines/index.html">here</a>;</li>
+  <li>There is a <a href="/ddc/ddc_faq.html">"Frequently Asked Questions" page</a>;</li>
+  <li>Results of a user survey conducted in April/May 2009 can be read <a href="/auto/ddc_survey_results_2009.html">here</a>.</li>
  </ul>
   
   </div>
