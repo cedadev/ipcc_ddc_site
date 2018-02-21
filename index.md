@@ -1,5 +1,5 @@
 ---
-layout: ddc02
+layout: ddc02v
 title: DDC Home
 bodyclass: ddc
 banner: ssi/header/Header2012.html
