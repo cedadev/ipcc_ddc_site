@@ -29,7 +29,7 @@ logos: ssi12/logos/dkrz.html
 
 <p><b>Missing Data</b></p>
 
-<p>Missing data is indicated by the value <FONT COLOR="#FF0000">1.e20</FONT> (single precision floating point).</p>
+<p>Missing data is indicated by the value <font color="#FF0000">1.e20</font> (single precision floating point).</p>
 
 
 <h2>GRIB format for FAR, SAR, TAR and AR4</h2>
@@ -76,7 +76,7 @@ source code including installation hints is available for free from <a alt="Home
 
 <p><b>Missing Data</b></p>
 
-<p>Missing data is indicated by the value <FONT COLOR="#FF0000">-999.</FONT> (floating point). No single data items are indicated as missing. Either a whole monthly dataset is missing or not. </p>
+<p>Missing data is indicated by the value <font color="#FF0000">-999.</font> (floating point). No single data items are indicated as missing. Either a whole monthly dataset is missing or not. </p>
 
 <h2>Data Import in Geographic Information Systems (GIS)</h2>
 
@@ -86,9 +86,11 @@ source code including installation hints is available for free from <a alt="Home
 
 <li><b><a href="http://grass.osgeo.org" title="GRASS GIS" target="_blank">GRASS GIS</a>:</b> NetCDF and GRIB data is imported as raster data using the standard gdal library with the command r.in.gdal. A list of supported import formats with links to additional information is available <a href="http://www.gdal.org/formats_list.html" title="GRASS GIS formats" target="_blank">here</a>.</li>
 
-<li><b><a href="http://www.qgis.org" title="QGIS" target="_blank">QGIS</a>:</b> NetCDF data is added as raster layer. A NetCDF browser is available as plugin, which provides some additional user services. A tutorial can be found <a href="http://www.ggiuliani.ch/download/netcdf_qgis_GG.pdf" title="QGIS tutorial" target="_blank">here</a>.</li></p>
+<li><b><a href="http://www.qgis.org" title="QGIS" target="_blank">QGIS</a>:</b> NetCDF data is added as raster layer. A NetCDF browser is available as plugin, which provides some additional user services. A tutorial can be found <a href="http://www.ggiuliani.ch/download/netcdf_qgis_GG.pdf" title="QGIS tutorial" target="_blank">here</a>.</li></ul>
 
-</p><b>Notes:</b> 
+</p>
+<p>
+<b>Notes:</b> 
 <ol>
 <li>Be aware that some data is on longitudes 0 to 360. The longitudes can be set to -180 to 180 with e.g. the cdos:<br /><i>cdo sellonlatbox,-180,180,-90,90 &lt;input&gt; &lt;output&gt;</i>.</li>
 <li>AR5 data is provided on model grids. Therefore you might need to regrid the data on a regular grid before importing as raster data or use additional features of your GIS software.</li>

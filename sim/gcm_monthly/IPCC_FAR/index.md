@@ -7,6 +7,7 @@ menuclass: far_mon
 menu: ssi12/menu1/Menu_sim_gcmm.html
 links: ssi12/links/home.html
 logos: ssi12/logos/dkrz.html
+w3cValid: yes
 ---
 <div id="pagetitle-ln">
 	<h1 align="center">IPCC-DDC-FAR GCM data</h1>
