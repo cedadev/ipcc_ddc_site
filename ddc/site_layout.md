@@ -55,7 +55,7 @@ The video tour of the IPCC-DDC was made in December 2013, it shows how the navig
 </p>
 
 <center>
-<iframe width="560" height="315" src="//www.youtube.com/embed/8EOnP8QqkCg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/8EOnP8QqkCg" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </center>
 
 <p>
