@@ -70,18 +70,18 @@ or the
            <br>for Climate Prediction and Research <br><b>UK</b></td>
 <td ALIGN="center"><a href="http://www.metoffice.gov.uk/climate-guide/science/science-behind-climate-change/hadley" alt="Homepage of the HCCPR">HCCPR</a></td>
 <td ALIGN="center"><a href="http://www.metoffice.gov.uk/research/modelling-systems/unified-model/climate-models/hadcm3">HADCM3</a></td>
-<td ALIGN="center">&nbsp</td>
-<td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NN"><b>A1FI</b></a --></td>
+<td ALIGN="center">&nbsp;</td>
+<td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NN" --><b>A1FI</b><!-- /a --></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">
-  <b><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2" ><b>A2&nbsp;</b></a>     <br>
-     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2b"><b>A2b</b></a></a><br>
+  <b><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2" ><b>A2</b></a> <br>
+     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2b"><b>A2b</b></a><br>
      <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2c"><b>A2c</b></a></b>
 </td>
-<td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B1"><b>B1</b></a --></td>
+<td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B1" --><b>B1</b><!-- /a --></td>
 <td ALIGN="center">
      <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B2" ><b>B2&nbsp;</b></a>  <br>
-     <!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B2b"><b>B2b</b></a --></td>
+     <!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B2b" --><b>B2b</b><!-- /a --></td>
 <td ALIGN="center">&nbsp;</td>
 </tr>
 
@@ -146,13 +146,13 @@ or the
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2"><b>A2&nbsp;</b></a>
-             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2b"><b>A2b</b></a -->
-             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2c"><b>A2c</b></a -->
+             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2b" --><b>A2b</b><!-- /a -->
+             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2c" --><b>A2c</b><!-- /a -->
 </td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2"><b>B2&nbsp;</b></a>
-             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2b"><b>B2b</b></a -->
-             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2c"><b>B2c</b></a --></td>
+             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2b" --><b>B2b</b><!-- /a -->
+             <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2c" --><b>B2c</b><!-- /a --></td>
 <td ALIGN="center"><a href="http://climate-modelling.canada.ca/data/cgcm2/cgcm2.shtml">daily data<br>(remote)</a></td>
 </tr>
 
@@ -161,8 +161,8 @@ or the
            <br>National Institute for Environmental Studies <br><b>Japan</b></td>
 <td ALIGN="center"><a href="http://ccsr.aori.u-tokyo.ac.jp/index-e.html">CCSR</a> /
             <br> <a href="http://www.nies.go.jp/index-e.html">NIES</a></td>
-<td ALIGN="center"><!-- a href="./">CCSR/NIES AGCM</a -->
-           <br>+ <!-- a href="./">CCSR OGCM</a --></td>
+<td ALIGN="center"><!-- a href="./" -->CCSR/NIES AGCM<!-- /a -->
+           <br>+ <!-- a href="./" -->CCSR OGCM<!-- /a --></td>
 
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCSRNIES_SRES_A1B"><b>A1B</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCSRNIES_SRES_A1FI"><b>A1FI</b></a></td>
