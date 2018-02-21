@@ -15,7 +15,7 @@ logos: ssi12/logos/dkrz.html
 <P>To obtain data choose a centre and an scenario there. Then decide
 which variables you need and which data format you prefer. Finally,
 you will be guided to the database interface which will let you
-retrieve the data files <font COLOR="#0000ff">one by one</font>.
+retrieve the data files <font color="#0000ff">one by one</font>.
 </p>
 
 <p>The list of requested variables can be find <a href="/gcm/misc/List_of_AR4_variables.pdf">here</a>
@@ -27,8 +27,8 @@ may also find the complete set of variables in monthly, daily or 3 hourly tempor
 
 <P>The data formats available are GRIB (machine independent,
 selfdescriptive binary format, WMO standard) and GZIP (compressed
-ASCII format). Information on both <font COLOR="#0000ff">formats</font>
-and the <font COLOR="#0000ff">internal data structure</font> is given
+ASCII format). Information on both <font color="#0000ff">formats</font>
+and the <font color="#0000ff">internal data structure</font> is given
 <!--<A HREF="/gcm/misc/GRIBGZIP.html">here</A>. <BR>&nbsp;  -->
 <a href="../INFO/formats.html">here</a>.
 </P>
@@ -606,7 +606,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 	</table>
 </center>
 
-<table align="center" table width="90%" BORDER="1" CELLPADDING="3" CELLSPACING="0">
+<table align="center" width="90%" BORDER="1" CELLPADDING="3" CELLSPACING="0">
 <tr>
 <td  bgcolor="#c0ffc0">
 <a name="Acknowledge">
