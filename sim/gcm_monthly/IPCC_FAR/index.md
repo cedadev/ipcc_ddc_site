@@ -124,7 +124,7 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 
 <tr>
 <td ALIGN="left"   ROWSPAN="3">UK-Met_Office&nbsp;<br><b>United Kingdom</b></td>
-<td ALIGN="center" ROWSPAN="3"><a href="http://www.metoffice.gov.uk/" alt="Homepage of the HCCPR">UKMO</a>   </td>
+<td ALIGN="center" ROWSPAN="3"><a href="http://www.metoffice.gov.uk/" title="Homepage of the HCCPR">UKMO</a>   </td>
 <td ALIGN="center">UKLO  </td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=IPCC-DDC_FAR_UKLO_CT"><b>control</b></a></td>
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01GS01"><!b>&nbsp;</b> </a --> </td>
