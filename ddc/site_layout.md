@@ -59,6 +59,6 @@ The video tour of the IPCC-DDC was made in December 2013, it shows how the navig
 </center>
 
 <p>
-Many thanks to the <a href="http://ermitage.cs.man.ac.uk/">ERMITAGE</a> project for giving us the opportunity to make this film.
+Many thanks to the <a href="http://climate-adapt.eea.europa.eu/metadata/projects/enhancing-robustness-and-model-integration-for-the-assessment-of-global-environmental-change">ERMITAGE</a> project for giving us the opportunity to make this film.
 </p>
 </div>
