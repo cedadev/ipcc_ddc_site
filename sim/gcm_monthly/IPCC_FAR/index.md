@@ -49,7 +49,21 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 <H2>Survey of available Scenarion Runs for FAR</h2></center>
 (<b>ghg</b> : greenhouse gas run)<br>&nbsp;
 
-<center><table width="80%" BORDER="1" CELLPADDING="1" NOSAVE >
+<center><table width="80%" BORDER="1" CELLPADDING="1">
+<caption align="bottom"><font size="-1">Scenario runs included in the IPCC-DDC.</font>
+<br/><!--
+      <tr>
+        <td align="left">&nbsp</td>
+        <td align="center"><a href="http://www">&nbsp;</a></td>
+        <td align="center"><a href="./">&nbsp;</a></td>
+        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
+        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
+        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
+        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
+      </td></center>
+      </tr>
+-->
+</caption>
 <tr>
 <th ALIGN="center">Center</th>
 <th ALIGN="center">Acronym</th>
@@ -108,7 +122,7 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 </tr>
 
 
-<tr NOSAVE>
+<tr>
 <td ALIGN="left"   ROWSPAN="3">UK-Met_Office&nbsp;<br><b>United Kingdom</b></td>
 <td ALIGN="center" ROWSPAN="3"><a href="http://www.metoffice.gov.uk/" alt="Homepage of the HCCPR">UKMO</a>   </td>
 <td ALIGN="center">UKLO  </td>
@@ -152,28 +166,10 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 <td ALIGN="center">&nbsp;</td>
 -->
 </tr>
-
-
-
-<caption align="bottom"><font size="-1">Scenario runs included in the IPCC-DDC.</font>
-<br/><!--
-      <tr>
-        <td align="left">&nbsp</td>
-        <td align="center"><a href="http://www">&nbsp;</a></td>
-        <td align="center"><a href="./">&nbsp;</a></td>
-        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
-        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
-        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
-        <td ALIGN="center"><a href="./">&nbsp; &nbsp;</a></td>
-      </td></center>
-      </tr>
--->
-</caption>
 </table></center>
 <p>
 <b>Click on the appropriate link to move to the corresponding page (description and download) !</b><br>
-<FONT COLOR="#F00000">
-&nbsp;
-<b>For download you need an user account (free of charge): Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a></b> </FONT>
+<font color="#F00000">
+<b>For download you need an user account (free of charge): Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a></b> </font>
 </p>
 <!-- end of center column -->
