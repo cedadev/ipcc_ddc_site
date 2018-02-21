@@ -111,7 +111,7 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 <tr NOSAVE>
 <td ALIGN="left"   ROWSPAN="3">UK-Met_Office&nbsp;<br><b>United Kingdom</b></td>
 <td ALIGN="center" ROWSPAN="3"><a href="http://www.metoffice.gov.uk/" alt="Homepage of the HCCPR">UKMO</a>   </td>
-<td ALIGN="center"><!-- a href="http://www">UKLO</a -->  </td>
+<td ALIGN="center">UKLO  </td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=IPCC-DDC_FAR_UKLO_CT"><b>control</b></a></td>
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01GS01"><!b>&nbsp;</b> </a --> </td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=IPCC-DDC_FAR_UKLO_2X"><b>2*CO2</b></a></td>
@@ -120,7 +120,7 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 -->
 </tr>
 <tr>
-<td ALIGN="center"><!-- a href="http://www">UKHI</a --></td>
+<td ALIGN="center">UKHI</td>
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01CI01"><!b>&nbsp;</b></a --></td>
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01GS01"><!b>&nbsp;</b> </a --></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=IPCC-DDC_FAR_UKHI_1X"><b>1*CO2</b></a><br>
@@ -130,7 +130,7 @@ data structure</font> is given <a href="../GRIBGZIP.html" title="Information on 
 -->
 </tr>
 <tr>
-<td ALIGN="center"><!-- a href="http://www">UKTR</a --></td>
+<td ALIGN="center">UKTR</td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=IPCC-DDC_FAR_UKTR_CT"><b>control</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=IPCC-DDC_FAR_UKTR_1P"><b>ghg (1%)</b></a> </td>
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01GS01"><b>&nbsp;</b> </a --></td>

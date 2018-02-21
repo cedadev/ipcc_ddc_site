@@ -172,8 +172,7 @@ the GRIB data locally. For data format conversion you can either use
            <br>National Institute for Environmental Studies <br><b>Japan</b></td>
 <td ALIGN="center"><a href="http://ccsr.aori.u-tokyo.ac.jp/index-e.html">CCSR</a> /
             <br> <a href="http://www.nies.go.jp/index-e.html">NIES</a></td>
-<td ALIGN="center"><!-- a href="./">CCSR/NIES AGCM</a -->
-           <br>+ <!-- a href="./">CCSR OGCM</a --></td>
+<td ALIGN="center">CCSR/NIES AGCM <br>+ CCSR OGCM</td>
 
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NI01CI01"><b>control</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NI01GG01"><b>ghg</b></a></td>
