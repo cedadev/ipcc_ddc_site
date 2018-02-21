@@ -15,7 +15,7 @@ logos: ssi12/logos/dkrz.html
 <P>To obtain data choose a centre and an scenario there. Then decide
 which variables you need and which data format you prefer. Finally,
 you will be guided to the database interface which will let you
-retrieve the data files <FONT COLOR="#0000ff">one by one</FONT>.
+retrieve the data files <font COLOR="#0000ff">one by one</font>.
 </p>
 
 <p>The list of requested variables can be find <a href="/gcm/misc/List_of_AR4_variables.pdf">here</a>
@@ -27,15 +27,15 @@ may also find the complete set of variables in monthly, daily or 3 hourly tempor
 
 <P>The data formats available are GRIB (machine independent,
 selfdescriptive binary format, WMO standard) and GZIP (compressed
-ASCII format). Information on both <FONT COLOR="#0000ff">formats</FONT>
-and the <FONT COLOR="#0000ff">internal data structure</FONT> is given
+ASCII format). Information on both <font COLOR="#0000ff">formats</font>
+and the <font COLOR="#0000ff">internal data structure</font> is given
 <!--<A HREF="/gcm/misc/GRIBGZIP.html">here</A>. <BR>&nbsp;  -->
 <a href="../INFO/formats.html">here</a>.
 </P>
 
 <P><b>Order Data on DVD</b><br/>
 &nbsp; &nbsp; You can get data from IPCC AR4 scenario runs on DVDs too. For more details see <a href="../INFO/dvd_data.html">here</a></P><br/>
-<table align="center" table width="70%" BORDER="1" CELLPADDING="3" CELLSPACING="0">
+<table align="center" width="70%" BORDER="1" CELLPADDING="3" CELLSPACING="0">
 <tr>
 <td  bgcolor="#ffd0d0"><b>License Statement</b>
 <p>
@@ -54,7 +54,7 @@ Data provided by the UK Met. Office/Hadley Centre are expected to be acknowledge
 <p><font color="#00A000">Please take note of the <a href="#Acknowledge">acknowledgement information</a> below !</font></p>
 
 <h2>Available SRES Scenarion Runs for AR4 </h2>
-<CENTER>
+<center>
 <table width="80%" BORDER="1" CELLPADDING="0" CELLSPACING="1">
 <TR>
 <td colspan="15"  align="center">
@@ -604,7 +604,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 
 
 	</table>
-</CENTER>
+</center>
 
 <table align="center" table width="90%" BORDER="1" CELLPADDING="3" CELLSPACING="0">
 <tr>
