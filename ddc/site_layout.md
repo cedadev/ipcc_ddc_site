@@ -23,12 +23,12 @@ logos: ssi12/logos/All.html
 
 <p>
 The DDC is split into 3 main sections:
+</p>
 <ul>
 <li>General information about the DDC;</li>
 <li>Guidance on the use of data;</li>
 <li>and the data itself.</li>
 </ul>
-</p>
 
 <p>
 As described on the <a href="ddc_runs.html">"Who runs the DDC"</a> page, the site is managed by 3 institutions. Most page are the primary responsibility of a single institution and this is inidicated by the logos in the left hand column of each page.
@@ -53,11 +53,11 @@ selected regions of the site. Alternatively, just use the search box in the bann
 <p>
 The video tour of the IPCC-DDC was made in December 2013, it shows how the navigation menus can be used to find different sorts of data and guidance material on the DDC website. The tour summarises the scenario process for AR5 and demonstrates how to download observation data, socio-economic simulation data and Earth system model data from the DDC.  It also provides a guide to how to access and interpret climate synthesis data on the DDC.    
 </p>
-<p>
+
 <center>
 <iframe width="560" height="315" src="//www.youtube.com/embed/8EOnP8QqkCg" frameborder="0" allowfullscreen></iframe>
 </center>
-</p>
+
 <p>
 Many thanks to the <a href="http://ermitage.cs.man.ac.uk/">ERMITAGE</a> project for giving us the opportunity to make this film.
 </p>
