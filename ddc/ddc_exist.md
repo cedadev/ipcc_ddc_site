@@ -7,6 +7,7 @@ menuclass: ddc_exist
 menu: ssi12/menu1/Menu_ddc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/All.html
+w3cValid: yes
 ---
   <div id="pagetitle">
   <h1 align="center">Why does the DDC exist?</h1>

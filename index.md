@@ -1,5 +1,5 @@
 ---
-layout: ddc02v
+layout: ddc02
 title: DDC Home
 bodyclass: ddc
 banner: ssi/header/Header2012.html
@@ -7,6 +7,7 @@ menuclass: ddc_about
 menu: ssi12/menu1/Menu.html
 links: ssi12/links/home.html
 logos: ssi12/logos/All.html
+w3cValid: yes
 ---
 
 <table style="width:100%;">

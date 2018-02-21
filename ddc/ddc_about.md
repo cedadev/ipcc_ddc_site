@@ -7,7 +7,7 @@ menuclass: ddc_about
 menu: ssi12/menu1/Menu_ddc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/All.html
-w3cValid: 
+w3cValid: yes
 ---
 <div id="pagetitle">
   <h1 align="center">About the IPCC Data Distribution Centre</h1>
