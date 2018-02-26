@@ -29,7 +29,7 @@ menuclass: auto_ar4_info
 </ul>
 
 </td></tr> 
-<!--#include virtual="/ssi12/logos/badc.html" -->
+{% include ssi12/logos/badc.html %}
 </table>
 </div>
 </td>
