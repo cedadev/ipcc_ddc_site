@@ -16,7 +16,7 @@ menuclass: auto_ar4_info
 <tr><td>
 
 <br/>
-<li><a href="model-MRI-CGCM2_3_2.html">Climatologies</a></li><br/>
+<ul><li><a href="model-MRI-CGCM2_3_2.html">Climatologies</a></li></ul><br/>
 
 <h2> Other models:</h2>
 <ul>

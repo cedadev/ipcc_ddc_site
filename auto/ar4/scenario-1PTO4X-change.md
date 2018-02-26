@@ -16,7 +16,7 @@ menuclass: auto_ar4_info
 <tr><td>
 
 <br/>
-<li><a href="scenario-1PTO4X.html">Climatologies</a></li><br/>
+<ul><li><a href="scenario-1PTO4X.html">Climatologies</a></li></ul><br/>
 
 <h2> Other scenarios:</h2>
 <ul>

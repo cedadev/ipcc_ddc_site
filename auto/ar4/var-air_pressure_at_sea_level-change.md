@@ -16,7 +16,7 @@ menuclass: auto_ar4_info
 <tr><td>
 
 <br/>
-<li><a href="var-air_pressure_at_sea_level.html">Climatologies</a></li><br/>
+<ul><li><a href="var-air_pressure_at_sea_level.html">Climatologies</a></li></ul><br/>
 
 <h2> Other variables:</h2>
 <ul>

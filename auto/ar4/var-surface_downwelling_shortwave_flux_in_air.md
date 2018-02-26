@@ -16,7 +16,7 @@ menuclass: auto_ar4_info
 <tr><td>
 
 <br/>
-<li><a href="var-surface_downwelling_shortwave_flux_in_air-change.html">Change fields</a></li><br/>
+<ul><li><a href="var-surface_downwelling_shortwave_flux_in_air-change.html">Change fields</a></li></ul><br/>
 
 <h2> Other variables:</h2>
 <ul>

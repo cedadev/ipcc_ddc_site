@@ -16,7 +16,7 @@ menuclass: auto_ar4_info
 <tr><td>
 
 <br/>
-<li><a href="scenario-SRB1-change.html">Change fields</a></li><br/>
+<ul><li><a href="scenario-SRB1-change.html">Change fields</a></li></ul><br/>
 
 <h2> Other scenarios:</h2>
 <ul>
