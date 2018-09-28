@@ -62,12 +62,12 @@ It is strongly recommended that you familiarise yourself with the appropriate gu
  <ul>
  <li>
 <div id="general">
-<a href="TGICA_guidance_sdciaa_v2_final.pdf">
+<a href="https://zenodo.org/record/1421073/files/TGICA_guidance_sdciaa_v2_final.pdf">
  General Guidelines on the use of Scenario Data for Climate Impact and Adaptation Assessment, Version 2 (2007).
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 </div>
  <ul><li>
- <a href="TGICA_guidance_sdciaa_v1_final.pdf">
+ <a href="https://zenodo.org/record/1421072/files/TGICA_guidance_sdciaa_v1_final.pdf">
  Version 1 [superseded] (1999)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
  </li></ul>
@@ -78,25 +78,25 @@ It is strongly recommended that you familiarise yourself with the appropriate gu
  <ul>
  <li>
 <div id="ClimScenRCM">
-<a href="dgm_no1_v1_10-2003.pdf">Guidelines for Use of Climate Scenarios Developed from
+<a href="https://zenodo.org/record/1421091/files/dgm_no1_v1_10-2003.pdf">Guidelines for Use of Climate Scenarios Developed from
  Regional Climate Model Experiments. (Published October 2003)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 </div>
  </li>
  <li>
 <div id="ClimScenSD">
-<a href="dgm_no2_v1_09_2004.pdf">Guidelines for Use of Climate Scenarios Developed
+<a href="https://zenodo.org/record/1438320/files/dgm_no2_v1_09_2004.pdf">Guidelines for Use of Climate Scenarios Developed
  from Statistical Downscaling Methods. (Published September 2004)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 </div>
  </li>
  <li>
 <div id="SeaLevelRise">
-<a href="/docs/TGICA_Sea_Level_Scenario_Guidance_Ver_1_2011.pdf">Constructing Sea-Level Scenarios for Impact and Adaptation Assessment of Coastal Areas: A Guidance Document (Published October 2011).
+<a href="https://zenodo.org/record/1438342/files/TGICA_Sea_Level_Scenario_Guidance_Ver_1_2011.pdf">Constructing Sea-Level Scenarios for Impact and Adaptation Assessment of Coastal Areas: A Guidance Document (Published October 2011).
 <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pd\
 f"/></a>
 <ul>
-<li><a href="/docs/Sea_Level_Scenario_Guidance_Oct2011.pdf">Proof [superseded] (2011)
+<li><a href="https://zenodo.org/record/1438339/files/Sea_Level_Scenario_Guidance_Oct2011.pdf">Proof [superseded] (2011)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 </li>
 </ul>
@@ -114,7 +114,7 @@ f"/></a>
 </div>
 
 <ul><li>
-<a href="/docs/factsheets/TGICA_Fact_Sheet_CMIP5_data_provided_at_the_IPCC_DDC_Ver_1_2016.pdf" title="Authors: Seita Emori, Karl Taylor, Bruce Hewitson, Fernanda Zermoglio, Martin Juckes, Michael Lautenschlager and Martina Stockhause">
+<a href="https://zenodo.org/record/1438351/files/factsheets/TGICA_Fact_Sheet_CMIP5_data_provided_at_the_IPCC_DDC_Ver_1_2016.pdf" title="Authors: Seita Emori, Karl Taylor, Bruce Hewitson, Fernanda Zermoglio, Martin Juckes, Michael Lautenschlager and Martina Stockhause">
 CMIP5 data provided at the IPCC Data Distribution Centre (Published September 2016)</a>
 </li></ul>
 
@@ -126,7 +126,7 @@ CMIP5 data provided at the IPCC Data Distribution Centre (Published September 20
  <li><a href="/syn/tar_scatter/"> 
  Future climate in world regions: an intercomparison of model-based projections for the new IPCC emissions scenarios (2003)</a>
  </li>
- <li><a href="/docs/IPCC-DDC-Handout_100309.pdf">DDC Brochure: an outline of the services provided by the DDC (Published 10 March 2009)
+ <li><a href="https://zenodo.org/record/1438367/files/IPCC-DDC-Handout_100309.pdf">DDC Brochure: an outline of the services provided by the DDC (Published 10 March 2009)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 </li>
  <li><a href="http://sedac.ciesin.columbia.edu/ddc/ar5_scenario_process/index.html">Approach to Scenario Development for the IPCC Fifth Assessment Report</a>
@@ -135,7 +135,7 @@ CMIP5 data provided at the IPCC Data Distribution Centre (Published September 20
  
 <h3>Capacity Building</h3>
  <ul>
- <li><a href="TGICA_Data_and_Capacity_Building_Proposal.pdf">
+ <li><a href="https://zenodo.org/record/1438370/files/TGICA_Data_and_Capacity_Building_Proposal.pdf">
  Framework to facilitate development of appropriate data products and research capacity in developing and transition-economy countries (2008).
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
  </li>
@@ -149,12 +149,12 @@ CMIP5 data provided at the IPCC Data Distribution Centre (Published September 20
  <hr align="left" width="100"/>
  
 <p><sup>(<a name="ftnote1" id="ftnote1"></a>1)</sup>
-<a href="/docs/guidelines_process_document_Oct2011.pdf" target="new">
+<a href="https://zenodo.org/record/1438373/files/guidelines_process_document_Oct2011.pdf" target="new">
 Notes for authors preparing technical guidelines for the IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 <br/>
 <sup>(<a name="ftnote2" id="ftnote2"></a>2)</sup>
-<a href="/docs/fact_sheets_process_document_Oct2011.pdf" target="new">
+<a href="https://zenodo.org/record/1438377/files/fact_sheets_process_document_Oct2011.pdf" target="new">
 Notes for authors preparing Fact Sheets for the IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 <br/>
