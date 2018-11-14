@@ -69,21 +69,21 @@ w3cValid: yes
  		<li><a href="#data">Discover, view and download data</a></li>
  	</ul>
  <div id="about">
-<h2>Introduction to the IPCC Data Distribution Centre (<a href="/ddc_about.html">Full page</a>)</h2>
+<h2>Introduction to the IPCC Data Distribution Centre (<a href="/ddc/ddc_about.html">Full page</a>)</h2>
 
   <p>   The DDC has been established to facilitate the timely distribution of a consistent set of
   up-to-date scenarios of changes in climate and related environmental and socio-economic factors for
   use in climate impacts assessments. The intention is that these new assessments can feed into the
   review process of the IPCC
- (<a class="lx" href="/ddc_about.html">Full page</a>).
+ (<a class="lx" href="/ddc/ddc_about.html">Full page</a>).
 </p>
 
 <h3> In this section:</h3>
 <ul class="lx" style="background:#ffffff;">
-  <li class="lx"> <a class="lx" href="/ddc_exist.html">Why the DDC exists</a></li>
-  <li class="lx"> <a class="lx" href="/ddc_provides.html">What the DDC provides</a></li>
-  <li class="lx"> <a class="lx" href="/ddc_runs.html">Who runs the DDC</a></li>
-  <li class="lx"> <a class="lx" href="/ddc_layout.html">How the site is arranged (not yet available)</a></li>
+  <li class="lx"> <a class="lx" href="/ddc/ddc_exist.html">Why the DDC exists</a></li>
+  <li class="lx"> <a class="lx" href="/ddc/ddc_provides.html">What the DDC provides</a></li>
+  <li class="lx"> <a class="lx" href="/ddc/ddc_runs.html">Who runs the DDC</a></li>
+  <li class="lx"> <a class="lx" href="/ddc/ddc_layout.html">How the site is arranged (not yet available)</a></li>
 </ul>
 
  </div>
