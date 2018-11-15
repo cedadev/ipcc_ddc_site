@@ -26,7 +26,7 @@ logos: ssi12/logos/All.html
  range of non-climate conditions in the atmospheric, aquatic and terrestrial environments. These
  include data on atmospheric composition (e.g. carbon dioxide, ozone), land use and land cover, sea
  level, and water availability and quality. Most projections are consistent with the driving factors
- and emissions presented in the <a href="http://www.grida.no/climate/ipcc/emission/">Special Report on Emissions
+ and emissions presented in the <a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=0">Special Report on Emissions
  Scenarios (SRES)</a>.</p>
  
  <p>Explanations and illustrations of procedures for incorporating this information in impact and vulnerability

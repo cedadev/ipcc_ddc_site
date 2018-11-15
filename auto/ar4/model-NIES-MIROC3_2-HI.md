@@ -84,15 +84,6 @@ Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: 
 </tr>
 </table>
 
-<br/>
-<h2> <a name="anim">Animation</a></h2>
-
-  The NIES group have published an animation of their A1B projection, with a commentary, which
-     can be downloaded <a href="http://www.team-6.jp/cc-sim/english/">here</a>.
-<br/>
-<br/>
-
-<br/>
 <h2>Further details</h2>
     Further details from <a href="http://www-pcmdi.llnl.gov/ipcc/model_documentation/ipcc_model_documentation.php">
           the pcmdi model documentation page</a>
@@ -100,13 +91,15 @@ Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: 
 <br/>Land sea mask: <a href="/cgi-bin/downl/ar4_nc/sftlf/MIHR_sftlf.nc">netcdf</a><br/>
 <h2> Data Tables</h2>
 
+<p>
 Each block in the table contains links to one or more data files and
-to one information page (the `info' link) with further information.
-<p/>
+to one information page (the "info" link) with further information.
+</p>
 
-The data files are 'tar' files with names of the form
+<p>
+The data files are "tar" files with names of the form
 [model]_[scenario]_[variable]_[climatology].tar.
-<p/>
+</p>
 
 The model, scenario and variable are determined by the position in
 the table.

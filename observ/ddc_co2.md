@@ -62,7 +62,7 @@ logos: ssi12/logos/badc.html
  <p/>
  For each of the illustrative and marker emissions scenarios, CO2 concentration
  projections calculated by two different carbon cycle models were reported in 
- <a class="ipcc" href="http://www.grida.no/publications/other/ipcc_tar/">IPCC (2001)</a> and used
+ <a class="ipcc" href="http://www.ipcc.ch/ipccreports/tar/wg1/index.php?idp=0">IPCC WG1 (2001)</a> and used
  as the bases for climate model projections there and in the Fourth Assessment Report.
  Thes are also shown in Figure 1.
  The carbon cycle models, ISAM and BERN, are described in

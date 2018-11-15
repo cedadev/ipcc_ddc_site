@@ -45,7 +45,7 @@ logos: ssi12/logos/badc.html
  <li><a class="extern" href="http://gpcc.dwd.de/" target="frame256263">Global Precipitation Climatology Centre (GPCC)</a></li>
  <li><a class="extern" href="http://www.scd.ucar.edu/dss/" target="frame256263">National Centre for Atmospheric Research (NCAR) Data Support System</a></li>
  <li><a class="extern" href="http://www.cru.uea.ac.uk/cru/data/" target="frame256263">Climatic Research Unit (CRU) data</a></li>
- <li><a class="extern" href="http://www.ncdc.noaa.gov/wdc" target="frame256263">World Data Center - A. Meteorology</a></li>
+ <li><a class="extern" href="https://www.ncdc.noaa.gov/wdcmet" target="frame256263">World Data Center - A. Meteorology</a></li>
  <li><a class="extern" href="http://www.cdc.noaa.gov/" target="frame256263">Climate Diagnostics Centre at NOAA</a></li>
  <li><a class="extern" href="http://icoads.noaa.gov/Release_1/coads.html" target="frame256263">Comprehensive Ocean-Atmosphere Data Set (COADS) at NOAA</a></li>
 </ul>

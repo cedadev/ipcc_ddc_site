@@ -28,8 +28,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_hi.html">H-I</a>
 | <a href="glossary_jk.html">J-K</a>
 | <a href="glossary_lm.html">L-M</a>
-| <a href="glossary_n.html">N</a>
-| <a href="glossary_o.html">O</a>
+| <a href="glossary_no.html">N-O</a>
 | <a href="glossary_pq.html">P-Q</a>
 | <a href="glossary_r.html">R</a>
 | <a href="glossary_s.html">S</a>
@@ -42,7 +41,7 @@ logos: ssi12/logos/All.html
 <a name="wcrp"></a>
 <h3>WCRP</h3><p><a href="http://www.wcrp-climate.org/" target="_blank">World Climate Research Programme </a></p>
 <a name="wdcc"></a>
-<h3>WDCC</h3><p><a href="http://www.dkrz.de/daten/wdcc/" target="_blank">World Data Centre for Climate </a></p>
+<h3>WDCC</h3><p><a href="https://www.dkrz.de/up/systems/wdcc" target="_blank">World Data Centre for Climate </a></p>
 <a name="wgcm"></a>
 <h3>WGCM</h3><p><a href="http://www.wcrp-climate.org/wgcm/" target="_blank">Working Group on Coupled Modelling </a></p>
 <a name="wgi"></a>

@@ -14,7 +14,7 @@ logos: ssi12/logos/All.html
  </div>
  <!-- End of Page Title Block -->
 
-<div id="content>
+<div id="content">
 <p/> 
  <h2><a name="netcdf" id="netcdf">Network Common Data Format (NetCDF)</a></h2>
  
@@ -60,7 +60,7 @@ This code will work with any one of the following:
  <h2><a name="geotiff" id="geotiff">Georeferenced Tag Image File Format (GeoTIFF)</a></h2>
  
 <p>
- <a class="extern" target="_blank" href="http://www.remotesensing.org/geotiff/geotiff.html">GeoTIFF</a> is an extension of the 
+ <a class="extern" target="_blank" href="http://geotiff.osgeo.org/">GeoTIFF</a> is an extension of the 
  <a class="extern" target="_blank" href="http://www.awaresystems.be/imaging/tiff/faq.html">TIFF</a> file format which includes
  GIS compatible georeferencing systems. GeoTIFF files can be read by most GIS software packages.
 </p>

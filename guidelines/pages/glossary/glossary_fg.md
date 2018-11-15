@@ -54,7 +54,8 @@ logos: ssi12/logos/All.html
 <a name="geotiff"></a>
 <h3>GEOTIFF</h3><p>Geostationary Earth Orbit Tagged Image File Format. <a href="http://trac.osgeo.org/geotiff" target="_blank">More about GeoTIFF</a></p>
 <a name="ghcnersst"></a>
-<h3>GHCN-ERSST</h3><p>Global Historical Climatology Network - Extended Reconstructed Sea Surface Temperature. <a href="https://www.ncdc.noaa.gov/ersst/" target="_blank">ERSST link</a>, <a href="http://www.ncdc.noaa.gov/ghcnm/" target="_blank"> GHCN link.</a></p>
+<h3>GHCN-ERSST</h3><p>Global Historical Climatology Network - Extended Reconstructed Sea Surface Temperature.
+<a href="https://www.ncdc.noaa.gov/data-access/marineocean-data/extended-reconstructed-sea-surface-temperature-ersst" target="_blank">ERSST link</a>, <a href="http://www.ncdc.noaa.gov/ghcnm/" target="_blank"> GHCN link.</a></p>
 <a name="gis"></a>
 <h3>GIS</h3><p>Geographical Information System. GIS is designed to capture, store, manipulate, analyze, manage and present geographical data.</p>
 <a name="globalMeanSurfaceTemperature"></a>

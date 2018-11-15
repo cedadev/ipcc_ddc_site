@@ -29,26 +29,26 @@ logos: ssi12/logos/badc.html
  
  <p>&nbsp;</p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1029710">Data
- Download and Availability</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1029710">Data
+ Download and Availability</A></li></font></p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1031507"
- TARGET="frame256263">GCMs</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1031507"
+ TARGET="frame256263">GCMs</A></li></font></p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1031891"
- TARGET="frame256263">Climate Change Scenarios</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1031891"
+ TARGET="frame256263">Climate Change Scenarios</A></li></font></p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1032161"
- TARGET="frame256263">Observed Climate Data</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1032161"
+ TARGET="frame256263">Observed Climate Data</A></li></font></p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#emissions"
- TARGET="frame256263">Observed Emissions Data</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#emissions"
+ TARGET="frame256263">Observed Emissions Data</A></li></font></p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1032433"
- TARGET="frame256263">Non-Climatic Scenarios</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1032433"
+ TARGET="frame256263">Non-Climatic Scenarios</A></li></font></p>
  
- <p><font FACE="Geneva"><LI FACE="Geneva"><A HREF="#anchor1032752"
- TARGET="frame256263">Miscellaneous</A></font></p>
+ <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1032752"
+ TARGET="frame256263">Miscellaneous</A></li></font></p>
  
  <p>&nbsp;</p>
  
@@ -504,9 +504,7 @@ For earlier assessment reports, only monthly data was retained.
  <p/> Emissions of N2O from various research papers listed in Chapt. 7, table 7.7 of 4th Assessment Report, WG1.
  
  <p/> Further information can be obtained from the
- <a href="http://www.iea.org/">International Energy Agency (IEA)</a>. e.g.:
- <a href="http://www.iea.org/Textbase/stats/index.asp">IEA statistical publications (some free)</a>.
- Annual emissions by sector and country are given in the <a href="http://www.iea.org/textbase/nppdf/free/2008/key_stats_2008.pdf">2008 energy report</a>.
+ <a href="http://www.iea.org/">International Energy Agency (IEA)</a>.
  
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>

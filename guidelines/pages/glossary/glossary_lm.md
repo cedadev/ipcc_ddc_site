@@ -43,7 +43,7 @@ logos: ssi12/logos/All.html
 <h3>Land use and Land use change</h3><p>Land use refers to the total arrangements, activities and inputs undertaken in a certain land cover type (a set of human actions). The term land use is also used in the sense of the social and economic purposes for which land is managed (e.g., grazing, timber extraction and conservation).</p>
 <p>Land use change refers to a change in the use or management of land by humans, which may lead to a change in land cover. Land cover and land use change may have an impact on the surface <a href="glossary_a.html#albedo">albedo</a>, evapotranspiration, sources and sinks of <a href="glossary_fg.html#greenhouseGas">greenhouse gases</a>, or other properties of the <a href="glossary_c.html#climateSystem">climate system</a> and may thus give rise to <a href="glossary_r.html#radiativeForcing">radiative forcing</a> and/or other <a href="glossary_hi.html#impacts">impacts</a> on <a href="glossary_c.html#climate">climate</a>, locally or globally. See also the <a href="glossary_hi.html#ipcc">IPCC</a> Report on Land Use, Land-Use Change, and Forestry (IPCC, 2000). <b>WGI</b></p>
 <a name="lucc"></a>
-<h3>LUCC</h3><p><a href="http://www.igbp.net/researchprojects/pastprojects/landuseandcoverchange.4.1b8ae20512db692f2a680009062.html" target="_blank">Land Use and Land-Cover Change Programme </a></p>
+<h3>LUCC</h3><p><a href="http://www.igbp.net/researchprojects/igbpcoreprojectsphaseone/landuseandcoverchange.4.1b8ae20512db692f2a680009062.html" target="_blank">Land Use and Cover Change Programme </a></p>
 <a name="markerScenario"></a>
 <h3>Marker Scenario</h3><p> See <a href="glossary_s.html#scenarioMarker">Scenario (Marker)</a>.</p>
 <a name="MnD"></a>
