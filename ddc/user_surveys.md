@@ -23,7 +23,7 @@ logos: ssi12/logos/All.html
 <ul>
 <li><a href="/documents/ddc_user_survey_summary_and_results_15jan2016.pdf">User survey, 2015 (pdf)</a></li>
 <li><a href="/auto/ddc_survey_results_2009.html">User survey, 2009 (html)</a></li>
-<li><a href="/pdf/ddc_user_survey2007.pdf">User survey, 2007 (pdf)</a></li>
+<li><a href="/documents/ddc_user_survey2007.pdf">User survey, 2007 (pdf)</a></li>
 </ul>
 
 
