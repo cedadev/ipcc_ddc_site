@@ -28,7 +28,7 @@ logos: ssi12/logos/All.html
  change scenario and how such scenarios can be applied in an impacts study can be found in the
  <a href="/guidelines/index.html">Guidance Materials</a>. It is also possible to view some of these
  datasets (e.g. observed climate and GCM scenarios) using the
- <a href="/ddc/ddc_visualisation.html">DDC Data Visualisation pages</a>.
+ <a href="http://apps.ipcc-data.org/maps/">DDC Data Visualisation pages</a>.
  You can download many of these data from the DDC web site.
  30 year climatologies are available here:</p>
  <table>
