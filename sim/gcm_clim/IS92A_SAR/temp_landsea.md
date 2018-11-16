@@ -31,5 +31,4 @@ logos: ssi12/logos/badc.html
  		
  		<p></p>
  		
- 	</div>
  	<!-- end of center column -->

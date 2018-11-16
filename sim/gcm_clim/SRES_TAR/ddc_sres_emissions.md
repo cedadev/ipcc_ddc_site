@@ -11,11 +11,12 @@ logos: ssi12/logos/badc.html
 <div id="pagetitle">
  <h1 align="center">Scenario Data for the Atmospheric Environment</h1>
 </div>
+
  <div id="breadcrumb1" align="left">
  Location: <a href="/index.html">DDC Home</a> > <a href="/observ/ddc_envdata.html">Environmental Data</a>
  > <span class="sr">Atmospheric Data</span>
  </div>
- </div>
+
  <h3><b><a name="a1fi">The SRES A1FI Emissions Scenarios</a></b></h3>
  
  <p><em>Key Assumptions</em></p>
