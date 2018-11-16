@@ -8,9 +8,10 @@ menu: ssi12/menu1/Menu_sim_gcmc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/badc.html
 ---
- 		<div id="pagetitle">
- 			<h1 align="center">HadCM2 GCM Land/Sea Mask</h1>
- 		</div>
+
+<div id="pagetitle">
+	<h1 align="center">HadCM2 GCM Land/Sea Mask</h1>
+</div>
  		<!-- End of Page Title Block -->
  
  

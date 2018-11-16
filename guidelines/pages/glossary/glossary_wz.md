@@ -43,13 +43,13 @@ logos: ssi12/logos/All.html
 <a name="wdcc"></a>
 <h3>WDCC</h3><p><a href="https://www.dkrz.de/up/systems/wdcc" target="_blank">World Data Centre for Climate </a></p>
 <a name="wgcm"></a>
-<h3>WGCM</h3><p><a href="http://www.wcrp-climate.org/wgcm/" target="_blank">Working Group on Coupled Modelling </a></p>
+<h3>WGCM</h3><p><a href="http://www.wcrp-climate.org/modelling-wgcm/" target="_blank">Working Group on Coupled Modelling </a></p>
 <a name="wgi"></a>
-<h3>WGI</h3><p><a href="https://www.ipcc-wg1.unibe.ch/" target="_blank">IPCC Working Group I: The Physical Science Basis </a></p>
+<h3>WGI</h3><p><a href="https://wg1.ipcc.ch/" target="_blank">IPCC Working Group I: The Physical Science Basis </a></p>
 <a name="wgii"></a>
-<h3>WGII</h3><p><a href="http://www.ipcc-wg2.gov/" target="_blank">IPCC Working Group II: Impacts, Adaptation and Vulnerability </a></p>
+<h3>WGII</h3><p><a href="http://www.ipcc-wg2.awi.de/" target="_blank">IPCC Working Group II: Impacts, Adaptation and Vulnerability </a></p>
 <a name="wgiii"></a>
-<h3>WGIII</h3><p><a href="http://www.ipcc-wg3.de/" target="_blank">IPCC Working Group III: Mitigation of climate change </a></p>
+<h3>WGIII</h3><p><a href="http://www.ipcc-wg3.ac.uk/" target="_blank">IPCC Working Group III: Mitigation of climate change </a></p>
 <a name="wmo"></a>
 <h3>WMO</h3><p><a href="http://www.wmo.int/" target="_blank">World Meteorological Organisation </a></p>
 <a name="www"></a>

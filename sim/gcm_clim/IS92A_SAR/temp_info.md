@@ -8,9 +8,10 @@ menu: ssi12/menu1/Menu_sim_gcmc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/badc.html
 ---
- 		<div id="pagetitle">
- 			<h1 align="center">CCSR/NIES GCM Model Information </h1>
- 		</div>
+
+<div id="pagetitle">
+	<h1 align="center">CCSR/NIES GCM Model Information </h1>
+</div>
  		<!-- End of Page Title Block -->
  
  
@@ -116,5 +117,4 @@ logos: ssi12/logos/badc.html
  		
  		<p></p>
  		
- 	</div>
  	<!-- end of center column -->

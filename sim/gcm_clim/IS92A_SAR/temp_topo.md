@@ -8,11 +8,11 @@ menu: ssi12/menu1/Menu_sim_gcmc.html
 links: ssi12/links/home.html
 logos: ssi12/logos/badc.html
 ---
- 		<div id="pagetitle">
- 			<h1 align="center">CCSR/NIES GCM Topography </h1>
- 		</div>
+
+<div id="pagetitle">
+	<h1 align="center">CCSR/NIES GCM Topography </h1>
+</div>
  		<!-- End of Page Title Block -->
- 
  
  		<!-- Insert Grid Here -->
  		<P><FONT FACE="Courier">Dimension: 64 x 32<BR>
@@ -368,5 +368,4 @@ logos: ssi12/logos/badc.html
  		
  		<p></p>
  		
- 	</div>
  	<!-- end of center column -->
