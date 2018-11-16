@@ -29,8 +29,8 @@ logos: ssi12/logos/badc.html
  
  <p>&nbsp;</p>
  
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1029710">Data
- Download and Availability</A></li></font></p>
+ <p><li style="font-family:geneva"><A HREF="#anchor1029710">Data
+ Download and Availability</A></li></p>
  
  <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1031507"
  TARGET="frame256263">GCMs</A></li></font></p>
@@ -83,7 +83,7 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><b>A.</b> There is information on sea-level rise in
  <a href="/docs/Sea_Level_Scenario_Guidance_Oct2011.pdf">Constructing Sea-Level Scenarios
- for Impact and Adaptation Assessment of Coastal Areas: A Guidance Document (2011)</a>.
+ for Impact and Adaptation Assessment of Coastal Areas: A Guidance Document (2011)</a>.</p>
 
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>

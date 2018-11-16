@@ -72,7 +72,7 @@ logos: ssi12/logos/badc.html
  
  <p></p>
  
- <table border="1" align="center" width="95%" height="162" cellspacing="0" cellpadding="5">
+ <table border="1" align="center" width="95%" cellspacing="0" cellpadding="5">
  <tr>
  <td colspan="2"><b>Diurnal temperature range</b></td>
  </tr>
@@ -94,7 +94,7 @@ logos: ssi12/logos/badc.html
  
  <p></p>
  
- <table border="1" align="center" width="95%" height="336" cellspacing="0" cellpadding="5">
+ <table border="1" align="center" width="95%" cellspacing="0" cellpadding="5">
  <tr>
  <td colspan="2"><b>Wind speed</b></td>
  </tr>
