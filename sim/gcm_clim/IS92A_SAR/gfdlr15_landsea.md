@@ -18,7 +18,7 @@ logos: ssi12/logos/badc.html
  
  
  
- <p align="center"><IMG SRC="gfdlr15_landsea.gif" WIDTH="600" HEIGHT="324" ALIGN="middle"></p>
+ <p align="center"><IMG SRC="gfdlr15_landsea.gif" alt="Land-sea mask" WIDTH="600" HEIGHT="324" ALIGN="middle"></p>
  
  <P>Download image as an <A HREF="gfdlr15_landsea.eps">.EPS File</A><A HREF="gfdlr15_landsea.eps">
  </A>(800k) or <A HREF="gfdlr15_landsea.pdf">.PDF File</A> (27k).  Alternatively, download

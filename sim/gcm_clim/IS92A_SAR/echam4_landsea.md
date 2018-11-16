@@ -18,7 +18,7 @@ logos: ssi12/logos/badc.html
  
  
  
- <p align="center"><IMG SRC="echam4_landsea.gif" WIDTH="600" HEIGHT="324" ALIGN="middle"></p>
+ <p align="center"><IMG SRC="echam4_landsea.gif" alt="Land-sea mask" WIDTH="600" HEIGHT="324" ALIGN="middle"></p>
  
  <P>Download image as an <A HREF="echam4_landsea.eps">.EPS File</A> (800k) or
  <A HREF="echam4_landsea.pdf">.PDF File</A> (27k).  Alternatively, download the mask in

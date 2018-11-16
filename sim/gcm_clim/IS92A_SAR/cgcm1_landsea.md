@@ -18,7 +18,7 @@ logos: ssi12/logos/badc.html
  
  
  
- <p align="center"><IMG SRC="cgcm1_landsea.gif" WIDTH="600" HEIGHT="324" ALIGN="middle"></p>
+ <p align="center"><IMG SRC="cgcm1_landsea.gif" WIDTH="600" HEIGHT="324" ALIGN="middle" alt="Land-sea mask"></p>
  
  <P>Download image as an <A HREF="cgcm1_landsea.eps">.EPS File</A> (800k) or
  <A HREF="cgcm1_landsea.pdf">.PDF File</A>(27k).  Alternatively, download the mask in
