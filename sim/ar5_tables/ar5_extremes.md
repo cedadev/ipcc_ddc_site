@@ -58,7 +58,7 @@ Errata: the table is missing a row of data and there are errors in the RCP2.6 Ca
 <li><a href="/documents/ar5/extremes/extremesBoxPlot.r">Demonstration plotting program (in R)</a></li>
 </ul>
 
-<p>The DDC also provides <a href="/guidelines/pages/ar5_regions.html">further information on the regions used in the analysis</a> and associated data files defining the boundaries of the regions.
+<p>The DDC also provides <a href="/guidelines/pages/ar5_regions.html">further information on the regions used in the analysis</a> and associated data files defining the boundaries of the regions.</p>
  
 <ul>
 <li><a name="seneviratne2012">Seneviratne, S. I., et al., 2012</a>: Changes in climate extremes and their impacts on the

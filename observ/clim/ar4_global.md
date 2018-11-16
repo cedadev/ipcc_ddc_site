@@ -23,7 +23,7 @@ logos: ssi12/logos/badc.html
  The IPCC Fourth Assessment Report discusses four observational temperature datasets:</p>
  
 <p>
- <table class="data-table" border="2" margin="5">
+ <table class="data-table" border="2" cellpadding="3">
  <tr><td> Dataset </td><td>Information</td><td> Global mean time series</td><td>Literature</td> </tr>
  <tr>
  <td> CRUTEM3 </td>

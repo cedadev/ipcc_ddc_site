@@ -9,9 +9,6 @@ links: ssi12/links/home.html
 logos: ssi12/logos/All.html
 ---
  <div id="pagetitle">
-
-
- <div id="pagetitle">
  <h1 align="center">Environmental Data and Scenarios</h1>
  </div>
  <!-- End of Page Title Block -->
