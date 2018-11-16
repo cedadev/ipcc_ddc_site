@@ -1,6 +1,6 @@
 ---
 layout: ddc02
-title: Reporting & consistency
+title: Reporting and consistency
 bodyclass: ddc_gui
 banner: ssi/header/Header2012.html
 menuclass: gl_rep
@@ -16,7 +16,7 @@ logos: ssi12/logos/badc.html
  <p></p>
  
  
- <p><b>Scenario consistency</b>
+ <p><b>Scenario consistency</b></p>
  
  <p> One of the key criteria in selecting a climate scenario was that it should be physically plausible.
  This criterion also applies to the relationship between climate and non-climatic scenarios.

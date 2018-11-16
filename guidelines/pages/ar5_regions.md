@@ -18,7 +18,7 @@ logos: ssi12/logos/badc.html
 
 <p>The region definitions have a subtlety regarding the treatment of land and sea areas which needs to be handled with care. The climate models use a range of methods for dealing with coastal boundaries. The archived data includes a field giving the proportion of each model grid cell which is land or sea. A model grid cell is considered land if more that 50% of the cell is land. The mean for a given region is then defined in terms of the grid points (which are the cell centres) which are within the specified reference boundaries. The spatial area covered by these grid cell will then differ from model to model. The reference boundaries thus provide a starting point for defining the regional means: the means are not a simple average of these areas. The distinction is not expected to be substantial, but anyone wanting to reproduce exactly the same numbers will need to follow all steps carefully.</p>
 
-<div style="float:right;width:540px;padding:20px" margin="40">
+<div style="float:right;width:540px;padding:20px">
 <table border="1" cellpadding="2" cellspacing="2" align="center" width="500">
 <colgroup><col width="250"/><col width="250"/></colgroup>
 <tr><td>Short name</td><td><p class="Table_20_Heading">Full name</p></td></tr>
@@ -50,8 +50,8 @@ logos: ssi12/logos/badc.html
 
 <h2>Files</h2>
 <ul>
-<li><a href="/documents/ar5/regions/referenceRegions.csv">Reference Regions Comma Separated Value (CSV) file</li>
-<li><a href="/documents/ar5/regions/referenceRegions.xls">Reference Regions spreadsheet (XLS)</li>
-<li><a href="/documents/ar5/regions/referenceRegions.zip">Reference Regions Shapefile (contains SHP, DBF, SHX and PRJ files)</li>
-<li><a href="/documents/ar5/regions/regionsPlot.r">Sample R script</li>
+<li><a href="/documents/ar5/regions/referenceRegions.csv">Reference Regions Comma Separated Value (CSV) file</a></li>
+<li><a href="/documents/ar5/regions/referenceRegions.xls">Reference Regions spreadsheet (XLS)</a></li>
+<li><a href="/documents/ar5/regions/referenceRegions.zip">Reference Regions Shapefile (contains SHP, DBF, SHX and PRJ files)</a></li>
+<li><a href="/documents/ar5/regions/regionsPlot.r">Sample R script</a></li>
 </ul>
