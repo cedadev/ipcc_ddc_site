@@ -68,7 +68,7 @@ For earlier assessment reports, only monthly data was retained.
  Some daily data used in the 4th Assessment Report is available from <a href="http://www-pcmdi.llnl.gov/ipcc/about_ipcc.php">PCMDI</a>.
  </p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. Where can I find data on mean sea-level rise?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. Where can I find data on mean sea-level rise?</b></p>
  
  <p><b>A.</b> There is information on sea-level rise in
  <a href="/docs/Sea_Level_Scenario_Guidance_Oct2011.pdf">Constructing Sea-Level Scenarios
@@ -293,16 +293,16 @@ For earlier assessment reports, only monthly data was retained.
  are a number of ways GCM changes and observed data may be combined:</p>
  
  <UL>
- <LI>The same GCM change value may be added to each observational
+ <li>The same GCM change value may be added to each observational
  data point or grid cell that exists within the respective GCM
- gridbox.
- <LI>GCM change values may be interpolated to the appropriate
+ gridbox.</li>
+ <li>GCM change values may be interpolated to the appropriate
  observed resolution using a variety of simple spatial interpolation
- methods (e.g. linear interpolation or gaussian space-filtering).
- <LI>GCM change values may be 'downscaled' to the appropriate
+ methods (e.g. linear interpolation or gaussian space-filtering).</li>
+ <li>GCM change values may be 'downscaled' to the appropriate
  observed resolution using a variety of dynamical or empirical
  techniques (see <A HREF="#anchor1173464" TARGET="frame256263">Question
- below)</A>.
+ below)</A>.</li>
  </UL>
  
  <p>Whatever method is used, be careful to combine variables that
@@ -493,7 +493,7 @@ For earlier assessment reports, only monthly data was retained.
  <p/> Emissions of N2O from various research papers listed in Chapt. 7, table 7.7 of 4th Assessment Report, WG1.
  
  <p/> Further information can be obtained from the
- <a href="http://www.iea.org/">International Energy Agency (IEA)</a>.
+ <a href="http://www.iea.org/">International Energy Agency (IEA)</a>.</p>
  
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
@@ -513,7 +513,7 @@ For earlier assessment reports, only monthly data was retained.
  concentrations for IS92a to be about 0.85% per annum). It is therefore not
  unreasonable to use the SRES A2 or IS92a assumptions about population, GDP and
  energy technology to create the background world in which the projected climate
- changes might occur.
+ changes might occur.</p>
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
