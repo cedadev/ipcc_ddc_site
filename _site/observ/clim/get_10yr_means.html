@@ -1,0 +1,609 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>Download decadal means of the CRU data</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcobs">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="obs_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr class="ddcobs">
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+<tr class="obs_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/clim/index.html">Physical climate</a></td>
+</tr>
+<tr class="obs_co2">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">CO2 concentrations</a></td>
+</tr>
+<tr class="baseline">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/baseline/index.html">Socio-Economic Baseline</a></td>
+</tr>
+<tr class="ar5_impacts">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/observed_ar5/index.html">Observed Impacts (AR5)</a></td>
+</tr>
+<tr class="ar4_impacts">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/observed/index.html">Observed Impacts (AR4)</a></td>
+</tr>
+<tr class="obs_envdata">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_envdata.html">Environmental Data and Scenarios</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+<li><a href="/help/formats.html">General Data formats</a></li>
+<li><a href="/observ/clim/observed_fileformat.html">File naming for CRU data</a></li>
+<li><a href="/observ/clim/climate_quality.html">CRU data quality</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">Download decadal means of the CRU data</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p></p>
+
+<p>Please select your chosen variables from the list below. For the latest information regarding this
+ dataset please check out the <a href="cru_climatologies.html">Climatic Research Unit dataset pages</a>.
+ </p>
+
+<table width="95%" border="1" align="center" cellspacing="0" cellpadding="0">
+ <tr>
+ <td height="40" width="25%" align="center" valign="middle"><b>Decadal Means<br />(File Size = 1.1Mb)</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1901-1910</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1911-1920</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1921-1930</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1931-1940</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1941-1950</b>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Mean temperature
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp0110.zip">ctmp0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp1120.zip">ctmp1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp2130.zip">ctmp2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp3140.zip">ctmp3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp4150.zip">ctmp4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Diurnal Range
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr0110.zip">cdtr0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr1120.zip">cdtr1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr2130.zip">cdtr2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr3140.zip">cdtr3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr4150.zip">cdtr4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Maximum Temperature
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx0110.zip">ctmx0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx1120.zip">ctmx1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx2130.zip">ctmx2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx3140.zip">ctmx3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx4150.zip">ctmx4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Minimum Temperature
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn0110.zip">ctmn0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn1120.zip">ctmn1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn2130.zip">ctmn2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn3140.zip">ctmn3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn4150.zip">ctmn4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Precipitation
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre0110.zip">cpre0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre1120.zip">cpre1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre2130.zip">cpre2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre3140.zip">cpre3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre4150.zip">cpre4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Wet Days
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet0110.zip">cwet0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet1120.zip">cwet1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet2130.zip">cwet2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet3140.zip">cwet3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet4150.zip">cwet4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Vapour pressure
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap0110.zip">cvap0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap1120.zip">cvap1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap2130.zip">cvap2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap3140.zip">cvap3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap4150.zip">cvap4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Cloud
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld0110.zip">ccld0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld1120.zip">ccld1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld2130.zip">ccld2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld3140.zip">ccld3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld4150.zip">ccld4150.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Frost Days
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs0110.zip">cfrs0110.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs1120.zip">cfrs1120.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs2130.zip">cfrs2130.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs3140.zip">cfrs3140.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs4150.zip">cfrs4150.zip</a>
+ </td>
+ </tr>
+ </table>
+
+<p></p>
+
+<table width="95%" border="1" align="center" cellspacing="0" cellpadding="0">
+ <tr>
+ <td height="40" width="25%" align="center" valign="middle"><b>Decadal Means<br />(File Size = 1.1Mb)</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1951-1960</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1961-1970</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1971-1980</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>1981-1990</b>
+ </td>
+ <td width="15%" align="center" valign="middle"><b>All Time Slices (File Size = 14Mb)</b>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Mean temperature
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp5160.zip">ctmp5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp6170.zip">ctmp6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp7180.zip">ctmp7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmp8190.zip">ctmp8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmpall.zip">ctmpall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Diurnal Range
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr5160.zip">cdtr5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr6170.zip">cdtr6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr7180.zip">cdtr7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtr8190.zip">cdtr8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cdtrall.zip">cdtrall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Maximum Temperature
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx5160.zip">ctmx5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx6170.zip">ctmx6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx7180.zip">ctmx7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmx8190.zip">ctmx8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmxall.zip">ctmxall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Minimum Temperature
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn5160.zip">ctmn5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn6170.zip">ctmn6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn7180.zip">ctmn7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmn8190.zip">ctmn8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ctmnall.zip">ctmnall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Precipitation
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre5160.zip">cpre5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre6170.zip">cpre6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre7180.zip">cpre7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpre8190.zip">cpre8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cpreall.zip">cpreall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Wet Days
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet5160.zip">cwet5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet6170.zip">cwet6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet7180.zip">cwet7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwet8190.zip">cwet8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cwetall.zip">cwetall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Vapour pressure
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap5160.zip">cvap5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap6170.zip">cvap6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap7180.zip">cvap7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvap8190.zip">cvap8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cvapall.zip">cvapall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Cloud
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld5160.zip">ccld5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld6170.zip">ccld6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld7180.zip">ccld7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccld8190.zip">ccld8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/ccldall.zip">ccldall.zip</a>
+ </td>
+ </tr>
+ <tr>
+ <td height="30" align="center" valign="middle">Frost Days
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs5160.zip">cfrs5160.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs6170.zip">cfrs6170.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs7180.zip">cfrs7180.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrs8190.zip">cfrs8190.zip</a>
+ </td>
+ <td align="center" valign="middle">
+ <a href="/download_data/obs/cfrsall.zip">cfrsall.zip</a>
+ </td>
+ </tr>
+ </table>
+
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

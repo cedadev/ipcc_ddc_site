@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>CGCM1 GCM Model Information</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsim">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="tar_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr class="ddcsim">
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+<tr class="sres_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/sres/index.html">SRES Emissions scenarios</a></td>
+</tr>
+<tr class="is92_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/is92/index.html">IS92 Emissions scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">Projected CO2 emissions and concentrations</a></td>
+</tr>
+<tr class="gcm_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_monthly/">Climate model output</a></td>
+</tr>
+<tr class="gcm_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_clim/">Climate model: period-averages</a></td>
+</tr>
+<tr class="ar5_tab">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/ar5_tables/ar5_extremes.html">AR5 Regional Extremes</a></td>
+</tr>
+<tr class="ar4_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_AR4/index.html">AR4 (2007): SRES scenarios</a></td>
+</tr>
+<tr class="tar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_TAR/index.html">TAR (2001): SRES scenarios</a></td>
+</tr><tr class="sar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/IS92A_SAR/index.html">SAR (1995): IS92 scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_global/index.html">Climate model: global-means (AR4)</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+                <li><a href="gcm_fileformat.html">File Nomenclature</a></li>
+                <li><a href="gcm_fileformat.html#df">File Format</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">CGCM1 GCM Model Information </h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p><!-- Insert Model Info Here --></p>
+<p><b>Background Information</b></p>
+
+<p>The first version of the Canadian Global Coupled Model, CGCM1,
+ and its control climate are described by Flato <i>et al.</i> (1999).
+ The atmospheric component of the model is essentially GCMII described
+ by McFarlane <i>et al.</i> (1992). It is a spectral model with
+ triangular truncation at wave number 32 (yielding a surface grid
+ resolution of roughly 3.7&ordm;x3.7&ordm;) and 10 vertical levels.
+ The ocean component is based on the GFDL MOM1.1 code and has a
+ <a href="cgcm1_landsea.html">resolution
+ of approximately 1.8&ordm;x1.8&ordm;</a> and 29 vertical levels.
+ The model uses heat and water flux adjustments obtained from uncoupled
+ ocean and atmosphere model runs (of 10 years and 4000 years duration
+ respectively), followed by an `adaption' procedure in which the
+ flux adjustment fields are modified by a 14 year integration of
+ the coupled model. A multi-century control simulation with the
+ coupled model has been performed using the present-day CO<FONT SIZE="-2">2</FONT> concentration to evaluate the stability of
+ the coupled model's climate, and to compare the modelled climate
+ and its variability to that observed.</p>
+
+<p>An ensemble of four transient climate change simulations has
+ been performed and is described in Boer <i>et al</i>. (1999a;
+ b). Three of these simulations use an effective greenhouse gas
+ forcing change corresponding to that observed from 1850 to the
+ present, and a forcing change corresponding to an increase of
+ CO<FONT SIZE="-2">2</FONT> at a rate of 1% per year (compounded)
+ thereafter until year 2100. The direct forcing effect of sulphate
+ aerosols is also included by increasing the surface albedo (as
+ in Reader and Boer, 1999) based on loadings from the sulphur cycle
+ model of Langner and Rodhe (1991). The fourth simulation considers
+ the effect of greenhouse gas forcing only. The change in climate
+ predicted by a model clearly depends directly on this specification
+ of greenhouse gas (and aerosol) forcing, and of course these are
+ not well known. The prescription described above is similar to
+ the IPCC &quot;business as usual&quot; scenario, and using a standard
+ scenario allows the results of this model to be compared to those
+ of other modelling groups around the world. Some initial results
+ from these simulations are presented below.</p>
+
+<p><b>Global-Mean Temperature, Precipitation and CO<FONT SIZE="-2">2</FONT> Changes
+ (w.r.t. 1961 - 1990) for the CGCM1 integrations</b></p>
+
+<table width="95%" border="1" align="center" cellpadding="0" cellspacing="2">
+ <tr>
+ <td rowspan="2"></td>
+ <td colspan="4" align="center">2020s</td>
+ <td colspan="4" align="center">2050s</td>
+ <td colspan="4" align="center">2080s</td>
+ </tr>
+ <tr>
+ <td align="CENTER" height="17" width="8%"><FONT FACE="Symbol">D</FONT>T
+ <br />(&deg;C)</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>P<br />(%)</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>SL<br />(cm)</td>
+ <td align="CENTER" width="8%">CO<FONT SIZE="-2">2</FONT><br clear="ALL" />(ppmv)*</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>T<br />(&deg;C)</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>P <br />(%)</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>SL
+ <br />(cm)</td>
+ <td align="CENTER" width="8%">CO<FONT SIZE="-2">2 </FONT><br />(ppmv) *</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>T <br />(&deg;C)</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>P<br />(%)</td>
+ <td align="CENTER" width="8%"><FONT FACE="Symbol">D</FONT>SL
+ <br />(cm)</td>
+ <td align="CENTER" width="8%">CO<FONT SIZE="-2">2 </FONT><br />(ppmv)*</td>
+ </tr>
+ <tr>
+ <td width="8%">GGa</td>
+ <td width="8%">
+ <p align="right">1.46</p></td>
+ <td width="8%">
+ <p align="right">1.1</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">447</p></td>
+ <td width="8%">
+ <p align="right">3.00</p></td>
+ <td width="8%">
+ <p align="right">2.9</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">554</p></td>
+ <td width="8%">
+ <p align="right">4.91</p></td>
+ <td width="8%">
+ <p align="right">5.7</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">687</p></td>
+ </tr>
+ <tr>
+ <td width="8%">GSa1</td>
+ <td width="8%">
+ <p align="right">1.15</p></td>
+ <td width="8%">
+ <p align="right">0.4</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">447</p></td>
+ <td width="8%">
+ <p align="right">2.23</p></td>
+ <td width="8%">
+ <p align="right">1.4</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">554</p></td>
+ <td width="8%">
+ <p align="right">3.81</p></td>
+ <td width="8%">
+ <p align="right">3.2</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">687</p></td>
+ </tr>
+ <tr>
+ <td width="8%">GSa2</td>
+ <td width="8%">
+ <p align="right">1.15</p></td>
+ <td width="8%">
+ <p align="right">0.4</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">447</p></td>
+ <td width="8%">
+ <p align="right">2.22</p></td>
+ <td width="8%">
+ <p align="right">1.4</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">554</p></td>
+ <td width="8%">
+ <p align="right">3.85</p></td>
+ <td width="8%">
+ <p align="right">3.2</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">687</p></td>
+ </tr>
+ <tr>
+ <td width="8%">GSa3</td>
+ <td width="8%">
+ <p align="right">1.17</p></td>
+ <td width="8%">
+ <p align="right">0.4</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">447</p></td>
+ <td width="8%">
+ <p align="right">2.18</p></td>
+ <td width="8%">
+ <p align="right">1.4</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">554</p></td>
+ <td width="8%">
+ <p align="right">3.75</p></td>
+ <td width="8%">
+ <p align="right">3.2</p></td>
+ <td width="8%">
+ <p align="right">NA</p></td>
+ <td width="8%">
+ <p align="right">687</p></td>
+ </tr>
+ </table>
+
+<p><b>Notes</b></p>
+<p>The climate sensitivity of CGCM1 is about 3.5&ordm;C.</p>
+
+<p>&nbsp;</p>
+
+<p><b>References and Other Reading</b></p>
+
+<p>Flato, G.M.; Boer, G.J.; Lee, W.G.; McFarlane, N.A.; Ramsden,
+ D.; Reader, M.C.; Weaver, A.J., <b>1999a</b>: The Canadian Centre
+ for Climate Modelling and Analysis Global Coupled Model and its
+ Climate, in press <i>Climate Dynamics</i>.</p>
+
+<p>Boer, G.J.; Flato, G.M.; Reader, M.C.; Ramsden, D., &quot;Transient
+ climate change simulation with historical and projected greenhouse
+ gas and aerosol forcing&quot;, <b>1999b</b>,
+ in press <i>Climate Dynamics</i>.</p>
+
+<p>Flato, G.M., Boer, G.J., Lee, W.G., McFarlane, N.A., Ramsden,
+ D., Reader, M.C., Weaver, A.J., The Canadian Centre for Climate
+ Modelling and Analysis Global Coupled Model and its Climate,<b>1999</b>,
+ in press <i>Climate Dynamics</i>.</p>
+
+<p>Reader, M.C. and Boer, G.J. <b>1998 </b>The modification of
+ greenhouse gas warming by the direct effect of sulphate aerosols,
+ <i>Climate Dynamics</i>, 14, 593-607.</p>
+
+<p><b>Further Details</b></p>
+
+<p><a href="http://www.ec.gc.ca/ccmac-cccma/default.asp?lang=En&amp;n=540909E4-1">The First Generation Coupled Global Climate Model</a>
+ 
+ <p>&nbsp;</p>
+ 
+ 
+ 
+ <p>&nbsp;</p>
+ 
+ <!-- end of center column -->
+</p>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

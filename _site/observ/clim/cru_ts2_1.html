@@ -1,0 +1,296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>High resolution observational climatologies</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcobs">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="obs_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr class="ddcobs">
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+<tr class="obs_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/clim/index.html">Physical climate</a></td>
+</tr>
+<tr class="obs_co2">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">CO2 concentrations</a></td>
+</tr>
+<tr class="baseline">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/baseline/index.html">Socio-Economic Baseline</a></td>
+</tr>
+<tr class="ar5_impacts">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/observed_ar5/index.html">Observed Impacts (AR5)</a></td>
+</tr>
+<tr class="ar4_impacts">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/observed/index.html">Observed Impacts (AR4)</a></td>
+</tr>
+<tr class="obs_envdata">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_envdata.html">Environmental Data and Scenarios</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/help/formats.html">Data formats</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <h2>CRU_TS 2.1</h2>
+<p />
+
+<p>This page provides access to the Climate Research Unit (CRU) high resolution climate data, version 2.1.
+ Further details about this data can be found in a
+ <a href="/docs/tyndall_working_papers_wp55.pdf">Tyndall Centre Technical report</a>.
+ <br /></p>
+
+<p />
+<p>A description of the methods used is given in:
+ Mitchell TD and Jones PD (2005) An improved method of constructing a database of monthly climate observations and associated high-resolution grids. International Journal of Climatology 25, 693-712
+ <a href="http://dx.doi.org/10.1002/joc.1181">(doi:10.1002/joc.1181)</a>.<br /></p>
+
+<p />
+<p>You can browse the file contents and download selections of data as spreadsheet files
+ (comma-separated-variable [CSV] format) through the <a href="/cgi-bin/ddc_nav/dataset=cru21">DDC file navigator</a>.<br /></p>
+
+<h3>Data access</h3>
+
+<p>Select the time period, variable and format in the 3 columns of the table, and then click on <code>Get Data' or
+ </code>View Metadata’ to respectively, download the file or see more information about the file contents.</p>
+
+<center>
+<form name="cruts21" action="/cgi-bin/downl_form/cruts21" method="get">
+<table class="form" border="2">
+<tr><td>Time Period</td><td>Variable</td><td>Format</td></tr>
+<tr>
+<td width="15%">Decadal<br />
+<span onmouseover="jfmov(1,la,'cruts21t');" onmouseout="jfmou(1,la,'cruts21t');" onclick="jfsw(1,la,13);"><label class="radio" id="cruts21ta" for="yy19011910"><input type="radio" name="cruts21t" id="yy19011910" value="yy19011910" checked="checked" />1901-1910</label></span><br />
+<span onmouseover="jfmov(2,la,'cruts21t');" onmouseout="jfmou(2,la,'cruts21t');" onclick="jfsw(2,la,13);"><label class="radio" id="cruts21tb" for="yy19111920"><input type="radio" name="cruts21t" id="yy19111920" value="yy19111920" />1911-1920</label></span><br />
+<span onmouseover="jfmov(3,la,'cruts21t');" onmouseout="jfmou(3,la,'cruts21t');" onclick="jfsw(3,la,13);"><label class="radio" id="cruts21tc" for="yy19211930"><input type="radio" name="cruts21t" id="yy19211930" value="yy19211930" />1921-1930</label></span><br />
+<span onmouseover="jfmov(4,la,'cruts21t');" onmouseout="jfmou(4,la,'cruts21t');" onclick="jfsw(4,la,13);"><label class="radio" id="cruts21td" for="yy19311940"><input type="radio" name="cruts21t" id="yy19311940" value="yy19311940" />1931-1940</label></span><br />
+<span onmouseover="jfmov(5,la,'cruts21t');" onmouseout="jfmou(5,la,'cruts21t');" onclick="jfsw(5,la,13);"><label class="radio" id="cruts21te" for="yy19411950"><input type="radio" name="cruts21t" id="yy19411950" value="yy19411950" />1941-1950</label></span><br />
+<span onmouseover="jfmov(6,la,'cruts21t');" onmouseout="jfmou(6,la,'cruts21t');" onclick="jfsw(6,la,13);"><label class="radio" id="cruts21tf" for="yy19511960"><input type="radio" name="cruts21t" id="yy19511960" value="yy19511960" />1951-1960</label></span><br />
+<span onmouseover="jfmov(7,la,'cruts21t');" onmouseout="jfmou(7,la,'cruts21t');" onclick="jfsw(7,la,13);"><label class="radio" id="cruts21tg" for="yy19611970"><input type="radio" name="cruts21t" id="yy19611970" value="yy19611970" />1961-1970</label></span><br />
+<span onmouseover="jfmov(8,la,'cruts21t');" onmouseout="jfmou(8,la,'cruts21t');" onclick="jfsw(8,la,13);"><label class="radio" id="cruts21th" for="yy19711980"><input type="radio" name="cruts21t" id="yy19711980" value="yy19711980" />1971-1980</label></span><br />
+<span onmouseover="jfmov(9,la,'cruts21t');" onmouseout="jfmou(9,la,'cruts21t');" onclick="jfsw(9,la,13);"><label class="radio" id="cruts21ti" for="yy19811990"><input type="radio" name="cruts21t" id="yy19811990" value="yy19811990" />1981-1990</label></span><br />
+<span onmouseover="jfmov(10,la,'cruts21t');" onmouseout="jfmou(10,la,'cruts21t');" onclick="jfsw(10,la,13);"><label class="radio" id="cruts21tj" for="yy19912000"><input type="radio" name="cruts21t" id="yy19912000" value="yy19912000" />1991-2000</label></span><br />
+30 Year<br />
+<span onmouseover="jfmov(11,la,'cruts21t');" onmouseout="jfmou(11,la,'cruts21t');" onclick="jfsw(11,la,13);"><label class="radio" id="cruts21tk" for="yy19011930"><input type="radio" name="cruts21t" id="yy19011930" value="yy19011930" />1901-1930</label></span><br />
+<span onmouseover="jfmov(12,la,'cruts21t');" onmouseout="jfmou(12,la,'cruts21t');" onclick="jfsw(12,la,13);"><label class="radio" id="cruts21tl" for="yy19311960"><input type="radio" name="cruts21t" id="yy19311960" value="yy19311960" />1931-1960</label></span><br />
+<span onmouseover="jfmov(13,la,'cruts21t');" onmouseout="jfmou(13,la,'cruts21t');" onclick="jfsw(13,la,13);"><label class="radio" id="cruts21tm" for="yy19611990"><input type="radio" name="cruts21t" id="yy19611990" value="yy19611990" />1961-1990</label></span><br />
+</td><td width="40%"><span onmouseover="jfmov(1,lb,'cruts21v');" onmouseout="jfmou(1,lb,'cruts21v');" onclick="jfsw(1,lb,9);"><label class="radio" id="cruts21va" for="tmp"><input type="radio" name="cruts21v" id="tmp" value="tmp" checked="checked" />Temperature</label></span><br />
+<span onmouseover="jfmov(2,lb,'cruts21v');" onmouseout="jfmou(2,lb,'cruts21v');" onclick="jfsw(2,lb,9);"><label class="radio" id="cruts21vb" for="wet"><input type="radio" name="cruts21v" id="wet" value="wet" />Wet days</label></span><br />
+<span onmouseover="jfmov(3,lb,'cruts21v');" onmouseout="jfmou(3,lb,'cruts21v');" onclick="jfsw(3,lb,9);"><label class="radio" id="cruts21vc" for="pre"><input type="radio" name="cruts21v" id="pre" value="pre" />Precipitation</label></span><br />
+<span onmouseover="jfmov(4,lb,'cruts21v');" onmouseout="jfmou(4,lb,'cruts21v');" onclick="jfsw(4,lb,9);"><label class="radio" id="cruts21vd" for="tmx"><input type="radio" name="cruts21v" id="tmx" value="tmx" />Daily Maximum Temperature</label></span><br />
+<span onmouseover="jfmov(5,lb,'cruts21v');" onmouseout="jfmou(5,lb,'cruts21v');" onclick="jfsw(5,lb,9);"><label class="radio" id="cruts21ve" for="tmn"><input type="radio" name="cruts21v" id="tmn" value="tmn" />Daily Minimum Temperature</label></span><br />
+<span onmouseover="jfmov(6,lb,'cruts21v');" onmouseout="jfmou(6,lb,'cruts21v');" onclick="jfsw(6,lb,9);"><label class="radio" id="cruts21vf" for="frs"><input type="radio" name="cruts21v" id="frs" value="frs" />Ground frost frequency</label></span><br />
+<span onmouseover="jfmov(7,lb,'cruts21v');" onmouseout="jfmou(7,lb,'cruts21v');" onclick="jfsw(7,lb,9);"><label class="radio" id="cruts21vg" for="vap"><input type="radio" name="cruts21v" id="vap" value="vap" />Water vapour</label></span><br />
+<span onmouseover="jfmov(8,lb,'cruts21v');" onmouseout="jfmou(8,lb,'cruts21v');" onclick="jfsw(8,lb,9);"><label class="radio" id="cruts21vh" for="dtr"><input type="radio" name="cruts21v" id="dtr" value="dtr" />Diurnal temperature range</label></span><br />
+<span onmouseover="jfmov(9,lb,'cruts21v');" onmouseout="jfmou(9,lb,'cruts21v');" onclick="jfsw(9,lb,9);"><label class="radio" id="cruts21vi" for="cld"><input type="radio" name="cruts21v" id="cld" value="cld" />Cloud cover</label></span><br />
+</td><td width="16%"><span onmouseover="jfmov(1,lc,'cruts21f');" onmouseout="jfmou(1,lc,'cruts21f');" onclick="jfsw(1,lc,2);"><label class="radio" id="cruts21fa" for="nc"><input type="radio" name="cruts21f" id="nc" value="nc" checked="checked" />NetCDF</label></span><br />
+<span onmouseover="jfmov(2,lc,'cruts21f');" onmouseout="jfmou(2,lc,'cruts21f');" onclick="jfsw(2,lc,2);"><label class="radio" id="cruts21fb" for="zip"><input type="radio" name="cruts21f" id="zip" value="zip" />GeoTIFF</label></span><br />
+</td></tr>
+</table>
+<input type="submit" name="gd" value="Get Data" style="width:80pt;height:20pt" /><input type="submit" name="vm" value="View Metadata" style="width:80pt;height:20pt" /></form>
+<br />
+
+<form name="refreshForm" action="POST">
+<input type="hidden" name="visited" value="" />
+</form>
+<script type="text/javascript">
+if( document.refreshForm.visited.value == "" ) {
+jfsw( 1, la, 13);
+jfsw( 1, lb, 9);
+jfsw( 1, lc, 2);
+document.refreshForm.visited.value = "1";
+}
+else {
+mmmreset( la,  'cruts21t');
+mmmreset( lb,  'cruts21v');
+mmmreset( lc,  'cruts21f');
+}
+</script>
+
+
+ </center>
+
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

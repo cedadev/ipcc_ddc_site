@@ -1,0 +1,485 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>HadCM2 Climate Scenario Data</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsim">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="sar_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr class="ddcsim">
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+<tr class="sres_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/sres/index.html">SRES Emissions scenarios</a></td>
+</tr>
+<tr class="is92_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/is92/index.html">IS92 Emissions scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">Projected CO2 emissions and concentrations</a></td>
+</tr>
+<tr class="gcm_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_monthly/">Climate model output</a></td>
+</tr>
+<tr class="gcm_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_clim/">Climate model: period-averages</a></td>
+</tr>
+<tr class="ar5_tab">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/ar5_tables/ar5_extremes.html">AR5 Regional Extremes</a></td>
+</tr>
+<tr class="ar4_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_AR4/index.html">AR4 (2007): SRES scenarios</a></td>
+</tr>
+<tr class="tar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_TAR/index.html">TAR (2001): SRES scenarios</a></td>
+</tr><tr class="sar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/IS92A_SAR/index.html">SAR (1995): IS92 scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_global/index.html">Climate model: global-means (AR4)</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">HadCM2 Climate Scenario Data </h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p> For all of the integrations that have been performed using HadCM2 - go to the Data
+ Description Pages - GCM Experiments - <a href="hadcm2_info.html">HadCM2
+ Information.</a></p>
+
+<p><b><FONT FACE="Helvetica,Geneva,Arial">GCM Climate Change Scenarios</FONT></b></p>
+
+<p>Data are available for the following periods:</p>
+
+<p>1961-1990 Mean monthly values;</p>
+
+<p>2010-2039 Mean monthly change fields;</p>
+
+<p>2040-2069 Mean monthly change fields;</p>
+
+<p>2070-2099 Mean monthly change fields.</p>
+
+<p></p>
+
+<p><b>Download Information</b></p>
+
+<p>To download data from a specific experiment for an individual timeslice, simply click
+ on the relevant file name in the Table below. This will ftp to you a zipped file
+ containing individual mean-monthly files for each available climate variable. You will
+ then need to unzip each file to extract the relevant data. The final column, All Time-Slices,
+ contains the zipped version of the four individual time-slice zipped files.</p>
+
+<table width="95%" border="1" align="center" cellpadding="0" cellspacing="1">
+ <tr>
+ <tr>
+ <td width="25%" height="18"><b>Experiment Details</b></td>
+ <td width="15%" align="center"><b>1961-1990 </b>(max 1.3MB)</td>
+ <td width="15%" align="center"><b>2010-2039 </b>(max 1.3MB)</td>
+ <td width="15%" align="center"><b>2040-2069 </b>(max 1.3MB)</td>
+ <td width="15%" align="center"><b>2070-2099 </b>(max 1.3MB)</td>
+ <td width="15%" align="center"><b>All Time Slices</b> (max 4.4MB)</td>
+ </tr>
+ <tr>
+ <td height="16"><b>Greenhouse Gas 1% pa Ensembles</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGA1</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA161.zip">HHGGA161.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA120.zip">HHGGA120.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA150.zip">HHGGA150.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA180.zip">HHGGA180.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA1.zip">HHGGA1.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGA2</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA261.zip">HHGGA261.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA220.zip">HHGGA220.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA250.zip">HHGGA250.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA280.zip">HHGGA280.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA2.zip">HHGGA2.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGA3</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA361.zip">HHGGA361.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA320.zip">HHGGA320.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA350.zip">HHGGA350.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA380.zip">HHGGA380.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA3.zip">HHGGA3.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGA4</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA461.zip">HHGGA461.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA420.zip">HHGGA420.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA450.zip">HHGGA450.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA480.zip">HHGGA480.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGA4.zip">HHGGA4.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGAX</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGAX61.zip">HHGGAX61.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGAX20.zip">HHGGAX20.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGAX50.zip">HHGGAX50.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGAX80.zip">HHGGAX80.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGAX.zip">HHGGAX.zip</a></td>
+ </tr>
+ <tr>
+ <td height="32"><b>Greenhouse Gas and Sulphate Aerosol 1% pa
+ Ensembles</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GSA1</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA161.zip">HHGSA161.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA120.zip">HHGSA120.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA150.zip">HHGSA150.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA180.zip">HHGSA180.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA1.zip">HHGSA1.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GSA2</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA261.zip">HHGSA261.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA220.zip">HHGSA220.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA250.zip">HHGSA250.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA280.zip">HHGSA280.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA2.zip">HHGSA2.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GSA3</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA361.zip">HHGSA361.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA320.zip">HHGSA320.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA350.zip">HHGSA350.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA380.zip">HHGSA380.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA3.zip">HHGSA3.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GSA4</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA461.zip">HHGSA461.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA420.zip">HHGSA420.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA450.zip">HHGSA450.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA480.zip">HHGSA480.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSA4.zip">HHGSA4.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GSAX</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSAX61.zip">HHGSAX61.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSAX20.zip">HHGSAX20.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSAX50.zip">HHGSAX50.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSAX80.zip">HHGSAX80.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSAX.zip">HHGSAX.zip</a></td>
+ </tr>
+ <tr>
+ <td height="32"><b>Greenhouse Gas 0.5% pa Ensembles</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGD1</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD161.zip">HHGGD161.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD120.zip">HHGGD120.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD150.zip">HHGGD150.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD180.zip">HHGGD180.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD1.zip">HHGGD1.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGD2</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD261.zip">HHGGD261.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD220.zip">HHGGD220.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD250.zip">HHGGD250.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD280.zip">HHGGD280.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD2.zip">HHGGD2.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGD3</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD361.zip">HHGGD361.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD320.zip">HHGGD320.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD350.zip">HHGGD350.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD380.zip">HHGGD380.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD3.zip">HHGGD3.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGD4</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD461.zip">HHGGD461.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD420.zip">HHGGD420.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD450.zip">HHGGD450.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD480.zip">HHGGD480.zip</a>&nbsp;</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGD4.zip">HHGGD4.zip</a></td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGDX</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGDX61.zip">HHGGDX61.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGDX20.zip">HHGGDX20.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGDX50.zip">HHGGDX50.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGDX80.zip">HHGGDX80.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGGDX.zip">HHGGDX.zip</a></td>
+ </tr>
+ <tr>
+ <td height="33"><b>Greenhouse Gas and Sulphate Aerosol 0.5% pa
+ Ensembles</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="18">HadCM2GGD1</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD161.zip">HHGSD161.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD120.zip">HHGSD120.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD150.zip">HHGSD150.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD180.zip">HHGSD180.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD1.zip">HHGSD1.zip</a></td>
+ </tr>
+ <tr>
+ <td height="19">HadCM2GGD2</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD261.zip">HHGSD261.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD220.zip">HHGSD220.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD250.zip">HHGSD250.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD280.zip">HHGSD280.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD2.zip">HHGSD2.zip</a></td>
+ </tr>
+ <tr>
+ <td height="19">HadCM2GGD3</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD361.zip">HHGSD361.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD320.zip">HHGSD320.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD350.zip">HHGSD350.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD380.zip">HHGSD380.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD3.zip">HHGSD3.zip</a></td>
+ </tr>
+ <tr>
+ <td height="19">HadCM2GGD4</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD461.zip">HHGSD461.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD420.zip">HHGSD420.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD450.zip">HHGSD450.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD480.zip">HHGSD480.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSD4.zip">HHGSD4.zip</a></td>
+ </tr>
+ <tr>
+ <td height="19">HadCM2GGDX</td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSDX61.zip">HHGSDX61.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSDX20.zip">HHGSDX20.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSDX50.zip">HHGSDX50.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSDX80.zip">HHGSDX80.zip</a></td>
+ <td align="center"><a href="/download_data/is92/hadcm2/HHGSDX.zip">HHGSDX.zip</a></td>
+ </tr>
+ &lt;/TABLE&gt;
+ 
+ <p>&nbsp;</p>
+ 
+ <p><b>Note:</b> If you require higher temporal resolution data for the above integrations refer to the
+ <a href="/sim/gcm_monthly/"> IPCC-DDC GCM Data Archive </a> pages for further details. <!--If you require
+ variables or daily time-series data from the HadCM2 integrations that are not available from the DDC see
+ <A HREF="http://www.cru.uea.ac.uk/link/hadcm2/HadCM2_variables.html"> LINK Project web site</A>.--></p>
+ 
+ <p>&nbsp;</p>
+ 
+ 
+ 
+ <p></p>
+ 
+ <!-- end of center column -->
+</tr></table>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

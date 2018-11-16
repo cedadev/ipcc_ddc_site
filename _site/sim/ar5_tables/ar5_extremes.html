@@ -1,0 +1,296 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>AR5 Regional Extremes</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsim">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="ar5_tab">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr class="ddcsim">
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+<tr class="sres_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/sres/index.html">SRES Emissions scenarios</a></td>
+</tr>
+<tr class="is92_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/is92/index.html">IS92 Emissions scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">Projected CO2 emissions and concentrations</a></td>
+</tr>
+<tr class="gcm_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_monthly/">Climate model output</a></td>
+</tr>
+<tr class="gcm_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_clim/">Climate model: period-averages</a></td>
+</tr>
+<tr class="ar5_tab">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/ar5_tables/ar5_extremes.html">AR5 Regional Extremes</a></td>
+</tr>
+<tr class="ar4_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_AR4/index.html">AR4 (2007): SRES scenarios</a></td>
+</tr>
+<tr class="tar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_TAR/index.html">TAR (2001): SRES scenarios</a></td>
+</tr><tr class="sar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/IS92A_SAR/index.html">SAR (1995): IS92 scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_global/index.html">Climate model: global-means (AR4)</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <h1>Regional Extremes of Temperature and Precipitation</h1>
+
+<p><br /></p>
+
+<h2>Outline</h2>
+
+<p>
+Chapter 14 of
+The <a href="http://www.ipcc.ch/report/ar5/wg1/">IPCC 5th Assessment Report, WG1</a> includes, in <a href="http://www.climatechange2013.org/images/report/WG1AR5_Ch14SM_FINAL.pdf">the supplementary material of chapter 14</a> a table of extremes (Table 14.SM1). The underlying data are provided below in spreadsheet format. 
+</p>
+<p>
+The tabulated data are presented in two spreadsheet formats. The first of these has a row corresponding to each row in AR5 table 14.1: each row contains 10 data values, 5 for temperature and 5 for precipitation. A 2nd file is arranged with only 2 data values on each row (one temperature and one precipitation value), with a different row for each statistic (median, 25th percentile etc). This 2nd approach is easier to read in to a R program for plotting. A simple demonstration script, which produces illustration 2 below, is provided in <a href="/documents/ar5/extremes/extremesBoxPlot.r">extremesBoxPlot.r</a>.
+</p>
+
+<table class="figure">
+<tr><td>
+Caption from the report: Table 14.SM.1a: Temperature and precipitation projections by the CMIP5 global models.
+The figures shown are averages over SREX regions (<a href="#seneviratne2012">Seneviratne et al., 2012</a>) of the projections by a set of 32 global models for the RCP2.6 scenario. Added to the SREX regions are an additional six regions containing the two polar regions, the Caribbean, Indian Ocean and Pacific Island States (see Annex I for further details).
+The 26 SREX regions are: Alaska/NW Canada (ALA), Eastern Canada/Greenland/Iceland (CGI), Western North America (WNA), Central North America (CNA), Eastern North America (ENA), Central America/Mexico (CAM), Amazon (AMZ), NE Brazil (NEB), West Coast South America (WSA), South- Eastern South America (SSA), Northern Europe (NEU), Central Europe (CEU), Southern Europe/the Mediterranean (MED), Sahara (SAH), Western Africa (WAF), Eastern Africa (EAF), Southern Africa (SAF), Northern Asia (NAS), Western Asia (WAS), Central Asia (CAS), Tibetan Plateau (TIB), Eastern Asia (EAS), Southern Asia (SAS), Southeast Asia (SEA), Northern Australia (NAS) and Southern Australia/New Zealand (SAU). The area mean temperature and precipitation responses are first averaged for each model over the 1986-2005 period from the historical simulations and the 2016-2035, 2046-2065 and 2081-2100 periods of the RCP2.6 experiments.
+Based on the difference between these two periods, the table shows the 25th, 50th and 75th percentiles, and the lowest and highest response among the 32 models, for temperature in degrees Celsius and precipitation as a per cent change. Regions in which the middle half (25 to 75%) of this distribution is all of the same sign in the precipitation response are coloured light brown for decreasing and light green for increasing precipitation. Information is provided for land areas contained in the boxes unless otherwise indicated. The temperature responses are averaged over the boreal winter and summer seasons; December, January and February (DJF) and June, July and August (JJA) respectively. The precipitation responses are averaged over half year periods, boreal winter; October, November, December, January, February and March (ONDJFM) and summer; April, May, June, July, August and September (AMJJAS).
+</td></tr>
+</table>
+
+<!--
+<table class="figure">
+ <tr> <td align="center">
+<img width="800" align="middle" src="/figures/ar5_extremes_median_precip.jpg" alt="Plot of median precipitation"/>
+ </td></tr>
+<tr> <td width="800" align="center">
+ <p style="margin-left:8%;margin-right:8%;">
+ Figure 1: Illustration produced by <a href="/documents/ar5/extremes/extremesBoxPlot.r">extremesBoxPlot.r</a>, showing spreads of median precipitation across the multimodel ensemble.
+ </p>
+ </td></tr>
+ </table>
+-->
+
+<p>
+Errata: the table is missing a row of data and there are errors in the RCP2.6 Caribbean annual precipitation figures
+(<a href="http://www.climatechange2013.org/images/report/WG1AR5_Errata_26092014.pdf">WG1AR5_Errata_26092014.pdf</a>, 14SM-18 and 14SM-22).
+</p>
+
+<h2>Files</h2>
+<ul>
+<li><a href="/documents/ar5/extremes/ch14Extremes.xls">Temperature and precipitation extremes (XLS)</a></li>
+<li><a href="/documents/ar5/extremes/ch14Extremes.csv">Temperature and precipitation extremes (CSV)</a></li>
+<li><a href="/documents/ar5/extremes/ch14ExtremesR.csv">Temperature and precipitation extremes (CSV -- R friendly)</a></li>
+<li><a href="/documents/ar5/extremes/extremesBoxPlot.r">Demonstration plotting program (in R)</a></li>
+</ul>
+
+<p>The DDC also provides <a href="/guidelines/pages/ar5_regions.html">further information on the regions used in the analysis</a> and associated data files defining the boundaries of the regions.</p>
+
+<ul>
+<li><a name="seneviratne2012">Seneviratne, S. I., et al., 2012</a>: Changes in climate extremes and their impacts on the
+natural physical environment. In:
+<a href="http://www.ipcc.ch/report/srex/">Managing the Risks of Extreme Events and
+Disasters to Advance Climate Change Adaptation. A Special Report of Working
+Groups I and II of the Intergovernmental Panel on Climate Change (IPCC) [C. B.
+Field, V. Barros, T. F. Stocker, D. Qin, D. J. Dokken, K. L. Ebi, M. D. Mastrandrea, K. J.
+Mach, G. -K. Plattner, S. K. Allen, M. Tignor and P. M. Midgley (eds.)]. Cambridge
+University Press, Cambridge, United Kingdom, and New York, NY, USA, pp.
+109-230. </a>
+</li>
+</ul>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>Reporting and consistency</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddc_gui">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="gl_rep">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr class="ddchome">
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+  <tr class="ddc_gui">
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+<tr class="socio_econ">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub">
+  <a href="http://sedac.ipcc-data.org">Socio-Economic Data</a>
+  </td>
+</tr>
+<tr class="gl_dlink">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/approvedDatasetLinks.html">Linked datasets</a></td>
+</tr>
+<tr class="gl_ar5regions">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/ar5_regions.html">AR5 Regions</a></td>
+</tr>
+<tr class="gl_def">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/glossary/index.html">Glossary</a></td>
+</tr>
+<tr class="g_def">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub">
+  <a class="lx" href="/ddc/site_layout.html">How the site is arranged</a>
+  </td>
+</tr>
+<tr class="gl_gcm">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/gcm_guide.html">What is a GCM?</a></td>
+</tr>
+<tr class="gl_scen">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/scen_selection.html">Scenario selection</a></td>
+</tr>
+<tr class="gl_change">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/change_field.html">Constructing change fields</a></td>
+</tr>
+<tr class="gl_rep">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/reporting.html">Consistency and reporting</a></td>
+</tr>
+<tr class="gl_wg">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/guidelines/pages/weather_generators.html">Weather generators</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr class="ddcsca">
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">Scenario Consistency and Reporting</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p></p>
+
+<p><b>Scenario consistency</b></p>
+
+<p> One of the key criteria in selecting a climate scenario was that it should be physically plausible.
+ This criterion also applies to the relationship between climate and non-climatic scenarios.
+ Thus, projections of climate should be consistent both with projections of atmospheric
+ composition and the emissions scenarios upon which they are based, as well as with "downstream"
+ projections of sea-level rise.  Carbon dioxide concentration is one of the most important of
+ the non-climatic factors to consider. Besides being a major greenhouse gas that influences the
+ climate, it is also of great importance for plant growth and productivity. Thus, it is important
+ that appropriate levels of CO2 concentration are used in conjunction with a given climate change.
+ Unfortunately, this has been a source of some confusion in past impact studies, especially with
+ regard to the timing of CO2 doubling. The following points are worth noting:</p>
+
+<ul>
+ <li>Equilibrium GCM 2 x CO2 experiments commonly assume a radiative forcing equivalent to a
+ doubling of CO2 concentration (for example from 300 ppmv to 600 ppmv). In fact the absolute
+ concentrations are not especially important, as the temperature response to increasing CO2
+ concentration is logarithmic - a doubling from 500 to 1000 ppmv would have approximately the
+ same climatic effect.</li>
+ <li>Equilibrium 2 x CO2 experiments are usually interpreted as representing an equivalent
+ 2 x CO2 atmosphere, in which the combined effects of CO2 and other greenhouse gases on the
+ earth's radiation balance are equivalent to the effect of doubling CO2 alone. This equivalent
+ doubling is expected to occur several decades before an actual CO2 doubling.</li>
+ <li>The climate has a lag time of several decades in its response to an equivalent CO2 doubling,
+ as represented in transient AOGCM experiments. Thus, at the time of equivalent doubling, the
+ climate will not have realized its full, equilibrium response to the forcing.</li>
+ <li>In CO2 enrichment experiments with plants, a doubled CO2 environment relative to ambient is
+ typically imposed (levels of 660 ppmv or 700 ppmv are popularly adopted). In contrast to
+ GCMs, the absolute CO2 concentration is of importance to plants, because their response to CO2
+ is commonly non-linear.</li>
+ </ul>
+
+<p> Similarly, relative sea-level rise is predominantly a result of global warming, so this should
+ also be consistent with the estimates of climate change.</p>
+
+<p><b>Scenario reporting</b></p>
+<p> In this section suggestions are put forward concerning the presentation and reporting of impact
+ assessments, especially concerning the use of scenarios. Adherence to some of these basic guidelines
+ will greatly assist the reviewing and synthesis of impact studies.</p>
+
+<p><b>Appropriate citation of sources</b></p>
+<p> Out of courtesy to the scientists involved, the original sources of the baseline data and
+ scenarios used should be cited correctly. For example, although the Data Distribution Centre
+ will be providing data from AOGCMs, the correct sources to cite in referring to these models
+ are publications by the modelling groups themselves, not the DDC or these Guidelines. The DDC
+ has documented each of the models, so the relevant information is readily available. Similarly,
+ the sources of non-climatic scenarios should also be referenced correctly . If components of
+ these scenarios are to be applied (for example, regional population projections) then the
+ original source of the projections should be cited . Again, the DDC provides guidance on these.</p>
+
+<p><b>Use of standard notation</b></p>
+<p> Special care should be taken to adopt conventional notation when referring to individual
+ GCM experiments. There are many versions of the the same or similar models in circulation, so it
+ is important to identify models using an accepted acronym. Again, the DDC provides guidance
+ on these.</p>
+
+<p><b>Description of methods</b></p>
+<p> The methods adopted to select, interpret and apply the scenarios should be described in full,
+ with proper citation to comparable previous studies employing similar methods. This information is
+ important for evaluating and comparing different impact studies.</p>
+
+<p><b>Presentation of results</b></p>
+<p> Impact studies that employ scenarios should indicate, where possible, the statistical significance
+ of the results. For example, regional scenarios of climate change should be compared with natural
+ variability in the baseline observations or control simulation. Similarly, the impacts of these
+ scenarios should be contrasted with the impacts of natural variability.</p>
+
+<p><b>Consideration of uncertainties</b></p>
+<p> At each stage of an impact assessment, there should be a full and proper dicussion of the key
+ uncertainties in the results, including those attributable to the input data, impact models,
+ climate scenarios and non-climatic scenarios. A rigorous sensitivity analysis can be very
+ helpful in identifying some of the major uncertainties. It is also recommended that users should
+ design and apply multiple scenarios in impact assessments, where these multiple scenarios span
+ a range of possible future climates, rather than designing and applying a single "best-guess"
+ scenario</p>
+
+<p>&nbsp;</p>
+
+<p><!-- end of center column --></p>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

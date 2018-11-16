@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>Regional scatterplots</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsyn">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="ddcsyn">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+       <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr class="ddchome">
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr class="ddcsyn">
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">Regional Scatterplots</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p>Future climate in world regions: an intercomparison of model-based projections for the new
+ IPCC emissions scenarios</p>
+
+<p><b>Background (Please read this first)</b>&lt;/font&gt;</p>
+
+<p>This report was prepared at the request of the Task Group on Scenarios for Climate Impact
+ Assessment (TGCIA)<sup>(<a href="#ftnote1">1</a>)</sup> and constitutes IPCC Supporting Material<sup>(<a href="#ftnote2">2</a>)</sup>. It was reviewed by members of the
+ Task Group and outside experts, made available at this site as a PDF file, and subsequently published
+ by the Finnish Environment Institute.</p>
+
+<p>The scatter diagrams described and presented on these pages depict projected changes in seasonal
+ surface air temperature and precipitation for three 30-year periods (2010-2039, 2040-2069 and
+ 2070-2099) relative to the baseline period 1961-1990 in 32 sub-continental scale regions
+ (see below).</p>
+
+<p align="center"><b>
+ <a href="/syn/tar_scatter/csiro_error.html">IMPORTANT NOTE (APRIL 2005): ERRORS IN CSIRO TEMPERATURE CHANGES - SEE SEPARATE
+ PAGE</a>
+ </b></p>
+
+<p align="center"><img src="../../img/IPCC_world_regions.png" alt="" height="410" width="688" border="0" hspace="10" vspace="10" /></p>
+
+<p>The climate changes have been simulated by seven coupled atmosphere-ocean general circulation
+ models (AOGCMs; see Table 1 of the accompanying report), the greenhouse gas and aerosol forcing
+ being inferred from the SRES emission scenarios A1FI, A2, B1 and B2. Responses to the A2 and B2
+ scenarios are based on AOGCM simulations; projections for other scenarios were mainly derived from
+ available runs applying a pattern-scaling technique (for a description of the technique and its
+ applicability, see section 3.2 of the report). As we have dealt with 32 regions, three projection
+ periods and four seasons, there are 384 scatter diagrams altogether.</p>
+
+<p>The scatter diagrams are designed to offer guidance to impacts analysts who wish to assess the
+ likely range of future climate change in a region. The diagrams can be used to define the limits of
+ temperature/ precipitation change to be employed in climate impact sensitivity studies. They may
+ also assist in the selection of a representative set of model-based projections to be employed
+ as scenarios. However, it is recommended that further study of the coupled-GCM outputs be
+ undertaken to establish their suitability for application in regional impact studies, preferably
+ in co-operation with experienced climatologists.</p>
+
+<p>For example, one possible criterion for judging model suitability is its skill at reproducing
+ present-day observed climate (see section 2 of the accompanying report). Confidence in a model is
+ enhanced further if the model is able to capture regional phenomena such as the Asian monsoon,
+ the El Ni&ntilde;o &#150; Southern Oscillation and seasonal ice and snowcover, which are important
+ for many impact applications. Nevertheless, model performance varies widely at regional scale,
+ and it should be remembered that a model that performs well in one region or for one variable
+ might perform less well in another region or for a different variable. Moreover, even though a
+ good simulation of present-day regional climate is an encouraging result, it is still no guarantee
+ of reliable projections of climate change. General information on the performance of coupled-GCMs,
+ including the seven models used in this exercise can be found in the report (see below).</p>
+
+<p><a href="/documents/scatter_plot_report.pdf">Download Full Report</a> 6.6MB (.pdf) <br />
+ Ruosteenoja, K., T.R. Carter, K. Jylh&auml; and H. Tuomenvirta, 2003: Future climate in world
+ regions: an intercomparison of model-based projections for the new IPCC emissions scenarios.
+ <i>The Finnish Environment 644</i>, Finnish Environment Institute, 83pp.</p>
+
+<p><a href="/syn/tar_scatter/scatterplots_region.html">View Regional Scatter Diagrams</a></p>
+
+<p><b>Acknowledgements</b><br />
+ We are grateful to Dr. David Viner at the University of East Anglia and Drs. Francis Zwiers and
+ Slava Kharin at the Canadian Centre for Climate Modelling and Analysis for providing data from
+ AOGCM control simulations. Valuable comments were received from the following: E. Barrow,
+ M. Hulme, L. Mearns, J. Mitchell, T. Mitchell, C. Rosenzweig, R. Stouffer and T. Wigley. Financial
+ assistance for this work was provided by the Ministry for Foreign Affairs of Finland, the
+ Government of Canada and the Intergovernmental Panel for Climate Change Trust Fund.</p>
+
+<hr align="left" width="100" />
+
+<p><sup>(<a name="ftnote1" id="ftnote1"></a>1)</sup> Forerunner of the Task Group on Data and
+ Scenario Support for Impacts and Climate Analysis (TGICA).&lt;/a&gt;</p>
+
+<p><sup>(<a name="ftnote2" id="ftnote2"></a>2)</sup> Supporting material is defined in the
+ <a href="http://www.ipcc.ch/pdf/ipcc-principles/ipcc-principles-appendix-a.pdf" target="new"> Procedures for the Preparation, Review,
+ Acceptance, Adoption, Approval, and Publication of IPCC Reports.</a></p>
+
+<p>&nbsp;</p>
+
+<p></p>
+
+<p><!-- end of center column --></p>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

@@ -1,0 +1,1234 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>Download Regional Scatterplots</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsyn">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="ddcsyn">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+       <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr class="ddchome">
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr class="ddcsyn">
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">Download Regional Scatterplots</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p>Scatterplots can be downloaded by timeslice or region using the tables below.</p>
+
+<p><a href="/data/scatter_plots/plotpoints3.txt">Download the data</a> - 256kb text file to view in browser for
+ &quot;cut and paste&quot; or to download</p>
+
+<p><b>Download by time slice:</b></p>
+
+<table width="75%" align="center" border="1" cellspacing="0" cellpadding="2">
+ <tr>
+ <td align="center"><a href="scatter_2020_galleries/index.html">2010-2039</a>
+ </td>
+ <td align="center"><a href="scatter_2050_galleries/index.html">2040-2069</a>
+ </td>
+ <td align="center"><a href="scatter_2080_galleries/index.html">2070-2099</a>
+ </td>
+ </tr>
+ </table>
+
+<p><b>Download by region:</b></p>
+<table width="75%" align="center" border="1" cellspacing="0" cellpadding="2">
+ <tr>
+ <td bgcolor="#555555"><b><font color="white">.</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">Sub-region</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">Code</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">L/O</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">S Lat</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">N Lat</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">W Lon</font></b></td>
+ <td bgcolor="#555555"><b><font color="white">E Lon</font></b></td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 1</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots1/index.html">Arctic land</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ ARL</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 67.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 90.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -180.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 180.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 2</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots2/index.html">Arctic ocean</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ ARO</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 67.5</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 90.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -180.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 180.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 3</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots3/index.html">Antarctic land</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ ANL</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -90.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -55.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -180.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 180.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 4</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots4/index.html">Antarctic ocean</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ ANO</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -90.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -55.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -180.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 180.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 5</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots5/index.html">Alaska, NW Canada</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ ALA</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 57.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 67.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -170.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -105.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 6</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots6/index.html">E Canada, Greenland, Iceland</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ CGI</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 67.5</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -105.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -10.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 7</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots7/index.html">Western N America</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ WNA</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 57.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -135.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -105.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 8</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots8/index.html">Central N America</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ CNA</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -105.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -85.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 9</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots9/index.html">Eastern N America</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ ENA</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 25.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -85.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -50.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 10</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots10/index.html">Central America</a></td>
+ 
+ <td bgcolor="#dddddd">
+ <div align="right">
+ CAM</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -115.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -82.5</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 11</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots11/index.html">Amazonia</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ AMZ</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -20.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 10.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -82.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -35.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 12</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots12/index.html">Southern S America</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ SSA</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -55.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -20.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -75.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -40.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 13</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots13/index.html">Northern Europe</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ NEU</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 47.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 67.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 40.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 14</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots14/index.html">S Europe, N Africa</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ SEU</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 47.5</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 40.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 15</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots15/index.html">Sahara</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ SAH</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 17.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -20.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 65.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 16</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots16/index.html">Western Africa</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ WAF</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 17.5</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -20.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 25.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 17</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots17/index.html">Eastern Africa</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ EAF</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 17.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 25.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 55.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 18</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots18/index.html">Southern Africa</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ SAF</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -35.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 50.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 19</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots19/index.html">Northern Asia</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ NAS</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 67.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 40.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -170.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 20</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots20/index.html">Central Asia</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ CAS</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 40.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 75.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 21</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots21/index.html">Tibetan Plateau</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ TIB</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 75.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 100.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 22</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots22/index.html">Eastern Asia</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ EAS</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 20.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 100.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 150.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 23</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots23/index.html">Southern Asia</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ SAS</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 5.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 65.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 100.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 24</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots24/index.html">Southeast Asia</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ SEA</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 20.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 100.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 150.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 25</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots25/index.html">Northern Australia</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ NAU</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -10.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 110.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 155.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 26</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots26/index.html">Southern Australia</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ SAU</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ L</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -47.5</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -30.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 110.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 180.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 27</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots27/index.html">Mediterranean</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ MED</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 45.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -5.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 35.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 28</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots28/index.html">Caribbean</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ CAR</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 10.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 25.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -85.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -60.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 29</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots29/index.html">Tropic. NE Atlantic</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ TNE</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 0.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 40.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -30.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -10.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 30</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots30/index.html">Northern Pacific</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ NPA</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 0.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 40.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 150.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -120.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="white">
+ <div align="right">
+ 31</div>
+ </td>
+ <td bgcolor="white"><a href="regional_galleries/region_plots31/index.html">Indian Ocean</a></td>
+ <td bgcolor="white">
+ <div align="right">
+ IND</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ -35.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 17.5</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 50.0</div>
+ </td>
+ <td bgcolor="white">
+ <div align="right">
+ 100.0</div>
+ </td>
+ </tr>
+ <tr>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 32</div>
+ </td>
+ <td bgcolor="#dddddd"><a href="regional_galleries/region_plots32/index.html">Southern Pacific</a></td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ SPA</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ O</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -55.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 0.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ 150.0</div>
+ </td>
+ <td bgcolor="#dddddd">
+ <div align="right">
+ -80.0</div>
+ </td>
+ </tr>
+ </table>
+
+<p><b>Acknowledgements</b><br />
+ We are grateful to Dr. David Viner at the University of East Anglia and Drs. Francis Zwiers and
+ Slava Kharin at the Canadian Centre for Climate Modelling and Analysis for providing data from
+ AOGCM control simulations. Valuable comments were received from the following: E. Barrow,
+ M. Hulme, L. Mearns, J. Mitchell, T. Mitchell, C. Rosenzweig, R. Stouffer and T. Wigley. Financial
+ assistance for this work was provided by the Ministry for Foreign Affairs of Finland, the
+ Government of Canada and the Intergovernmental Panel for Climate Change Trust Fund.</p>
+
+<p>&nbsp;</p>
+
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

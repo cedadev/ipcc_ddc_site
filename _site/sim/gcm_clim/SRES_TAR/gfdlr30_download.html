@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>GFDL99-R30 Climate Scenario Data</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsim">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="tar_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr class="ddcsim">
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+<tr class="sres_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/sres/index.html">SRES Emissions scenarios</a></td>
+</tr>
+<tr class="is92_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/is92/index.html">IS92 Emissions scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">Projected CO2 emissions and concentrations</a></td>
+</tr>
+<tr class="gcm_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_monthly/">Climate model output</a></td>
+</tr>
+<tr class="gcm_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_clim/">Climate model: period-averages</a></td>
+</tr>
+<tr class="ar5_tab">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/ar5_tables/ar5_extremes.html">AR5 Regional Extremes</a></td>
+</tr>
+<tr class="ar4_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_AR4/index.html">AR4 (2007): SRES scenarios</a></td>
+</tr>
+<tr class="tar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_TAR/index.html">TAR (2001): SRES scenarios</a></td>
+</tr><tr class="sar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/IS92A_SAR/index.html">SAR (1995): IS92 scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_global/index.html">Climate model: global-means (AR4)</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+                <li><a href="gcm_fileformat.html">File Nomenclature</a></li>
+                <li><a href="gcm_fileformat.html#df">File Format</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">GFDL99-R30 Climate Scenario Data </h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p><b><FONT FACE="Helvetica,Geneva,Arial">GCM Climate Change Scenarios</FONT></b></p>
+
+<p>Data are available for the following periods:</p>
+
+<p>1961-1990 Mean monthly values;</p>
+
+<p>2010-2039 Mean monthly change fields;</p>
+
+<p>2040-2069 Mean monthly change fields;</p>
+
+<p>2070-2099 Mean monthly change fields.</p>
+
+<p></p>
+
+<p><b>Download Information</b></p>
+
+<p>To download data from a specific experiment for an individual timeslice, simply click
+ on the relevant file name in the Table below. This will ftp to you a zipped file
+ containing individual mean-monthly files for each available climate variable. You will
+ then need to unzip each file to extract the relevant data. </p>
+
+<table width="95%" border="1" cellspacing="1" cellpadding="5" align="center">
+ <tr height="75">
+ <td width="9%" height="75"><b>Experiment Details</b></td>
+ <td width="30%" height="75">1961-1990 Means</td>
+ <td width="30%" height="75">2020s, 2050s and 2080s<br />
+ Change Fields (DIF)</td>
+ <td width="30%" height="75">2020s, 2050s and 2080s<br />
+ Means (MEA)</td>
+ </tr>
+ <tr>
+   <td class="data_table_row1"><b>A2a</b></td>
+   <td width="30%">
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_DSWF_1980.tar.gz">GFDL99_A2a_DSWF_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_MIXR_1980.tar.gz">GFDL99_A2a_MIXR_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_PREC_1980.tar.gz">GFDL99_A2a_PREC_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_PRES_1980.tar.gz">GFDL99_A2a_PRES_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_SEALEV_1980.tar.gz">GFDL99_A2a_SEALEV_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_SMC_1980.tar.gz">GFDL99_A2a_SMC_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_SNMEL_1980.tar.gz">GFDL99_A2a_SNMEL_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_SN_1980.tar.gz">GFDL99_A2a_SN_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_TMP_1980.tar.gz">GFDL99_A2a_TMP_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_TS_1980.tar.gz">GFDL99_A2a_TS_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_UGRD_1980.tar.gz">GFDL99_A2a_UGRD_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/baseline/GFDL99_A2a_VGRD_1980.tar.gz">GFDL99_A2a_VGRD_1980.tar.gz</a><br />
+   </td>
+   <td width="30%">
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_DSWF_DIF.tar.gz">GFDL99_A2a_DSWF_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_MIXR_DIF.tar.gz">GFDL99_A2a_MIXR_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_PREC_DIF.tar.gz">GFDL99_A2a_PREC_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_PRES_DIF.tar.gz">GFDL99_A2a_PRES_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_SEALEV_DIF.tar.gz">GFDL99_A2a_SEALEV_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_SMC_DIF.tar.gz">GFDL99_A2a_SMC_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_SNMEL_DIF.tar.gz">GFDL99_A2a_SNMEL_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_SN_DIF.tar.gz">GFDL99_A2a_SN_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_TMP_DIF.tar.gz">GFDL99_A2a_TMP_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_TS_DIF.tar.gz">GFDL99_A2a_TS_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_UGRD_DIF.tar.gz">GFDL99_A2a_UGRD_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/dif/GFDL99_A2a_VGRD_DIF.tar.gz">GFDL99_A2a_VGRD_DIF.tar.gz</a><br />
+   </td>
+   <td width="30%">
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_DSWF_MEA.tar.gz">GFDL99_A2a_DSWF_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_MIXR_MEA.tar.gz">GFDL99_A2a_MIXR_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_PREC_MEA.tar.gz">GFDL99_A2a_PREC_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_PRES_MEA.tar.gz">GFDL99_A2a_PRES_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_SEALEV_MEA.tar.gz">GFDL99_A2a_SEALEV_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_SMC_MEA.tar.gz">GFDL99_A2a_SMC_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_SNMEL_MEA.tar.gz">GFDL99_A2a_SNMEL_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_SN_MEA.tar.gz">GFDL99_A2a_SN_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_TMP_MEA.tar.gz">GFDL99_A2a_TMP_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_TS_MEA.tar.gz">GFDL99_A2a_TS_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_UGRD_MEA.tar.gz">GFDL99_A2a_UGRD_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_A2a/means/GFDL99_A2a_VGRD_MEA.tar.gz">GFDL99_A2a_VGRD_MEA.tar.gz</a><br />
+   </td>
+ </tr>
+ <tr>
+   <td class="data_table_row1"><b>B2a</b></td>
+   <td width="30%">
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_DSWF_1980.tar.gz">GFDL99_B2a_DSWF_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_MIXR_1980.tar.gz">GFDL99_B2a_MIXR_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_PREC_1980.tar.gz">GFDL99_B2a_PREC_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_PRES_1980.tar.gz">GFDL99_B2a_PRES_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_SEALEV_1980.tar.gz">GFDL99_B2a_SEALEV_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_SMC_1980.tar.gz">GFDL99_B2a_SMC_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_SNMEL_1980.tar.gz">GFDL99_B2a_SNMEL_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_SN_1980.tar.gz">GFDL99_B2a_SN_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_TMP_1980.tar.gz">GFDL99_B2a_TMP_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_TS_1980.tar.gz">GFDL99_B2a_TS_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_UGRD_1980.tar.gz">GFDL99_B2a_UGRD_1980.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/baseline/GFDL99_B2a_VGRD_1980.tar.gz">GFDL99_B2a_VGRD_1980.tar.gz</a><br />
+   </td>
+   <td width="30%">
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_DSWF_DIF.tar.gz">GFDL99_B2a_DSWF_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_MIXR_DIF.tar.gz">GFDL99_B2a_MIXR_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_PREC_DIF.tar.gz">GFDL99_B2a_PREC_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_PRES_DIF.tar.gz">GFDL99_B2a_PRES_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_SEALEV_DIF.tar.gz">GFDL99_B2a_SEALEV_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_SMC_DIF.tar.gz">GFDL99_B2a_SMC_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_SNMEL_DIF.tar.gz">GFDL99_B2a_SNMEL_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_SN_DIF.tar.gz">GFDL99_B2a_SN_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_TMP_DIF.tar.gz">GFDL99_B2a_TMP_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_TS_DIF.tar.gz">GFDL99_B2a_TS_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_UGRD_DIF.tar.gz">GFDL99_B2a_UGRD_DIF.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/dif/GFDL99_B2a_VGRD_DIF.tar.gz">GFDL99_B2a_VGRD_DIF.tar.gz</a><br />
+   </td>
+   <td width="30%">
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_DSWF_MEA.tar.gz">GFDL99_B2a_DSWF_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_MIXR_MEA.tar.gz">GFDL99_B2a_MIXR_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_PREC_MEA.tar.gz">GFDL99_B2a_PREC_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_PRES_MEA.tar.gz">GFDL99_B2a_PRES_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_SEALEV_MEA.tar.gz">GFDL99_B2a_SEALEV_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_SMC_MEA.tar.gz">GFDL99_B2a_SMC_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_SNMEL_MEA.tar.gz">GFDL99_B2a_SNMEL_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_SN_MEA.tar.gz">GFDL99_B2a_SN_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_TMP_MEA.tar.gz">GFDL99_B2a_TMP_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_TS_MEA.tar.gz">GFDL99_B2a_TS_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_UGRD_MEA.tar.gz">GFDL99_B2a_UGRD_MEA.tar.gz</a><br />
+     <a href="/download_data/sres/GFDL99_B2a/means/GFDL99_B2a_VGRD_MEA.tar.gz">GFDL99_B2a_VGRD_MEA.tar.gz</a><br />
+   </td>
+ </tr>
+ </table>
+
+<p><b>Note:</b> If you require higher temporal resolution data for the above integrations refer to the
+ <a href="/sim/gcm_monthly/"> IPCC-DDC GCM Data Archive </a> pages for further details.</p>
+
+<p>&nbsp;</p>
+
+<p></p>
+
+<p><!-- end of center column --></p>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

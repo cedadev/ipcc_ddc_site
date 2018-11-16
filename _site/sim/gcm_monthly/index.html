@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>GCM data archive: monthly means</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsim">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="gcm_mon">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr class="ddcsim">
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+<tr class="sres_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/sres/index.html">SRES Emissions scenarios</a></td>
+</tr>
+<tr class="is92_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/is92/index.html">IS92 Emissions scenarios</a></td>
+</tr>
+<tr class="co2">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">Projected CO2 emissions and concentrations</a></td>
+</tr>
+<tr class="gcm_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_monthly/">Climate model output</a></td>
+</tr>
+<tr class="ar5_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_monthly/AR5/index.html">AR5 (2013)</a></td>
+</tr>
+<tr class="ar4_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_monthly/SRES_AR4/index.html">AR4 (2007): SRES scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_monthly/SRES_TAR/index.html">TAR (2001): SRES scenarios</a></td>
+</tr>
+<tr class="sar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_monthly/IS92A_SAR/index.html">SAR (1995): IS92 scenarios</a></td>
+</tr>
+<tr class="far_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_monthly/IPCC_FAR/index.html">FAR (1990): 1st Assessment report</a></td>
+</tr>
+<tr class="gcm_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_clim/">Climate model: period-averages</a></td>
+</tr>
+<tr class="gcm_global">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a href="/sim/gcm_global/index.html">Climate model: global-means (AR4)</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+      <tr>
+ <td colspan="2">
+ <div id="logos">
+	<table width="220px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ 		<tr >
+ 			<td height="40" align="center" valign="middle" width="200">
+ 			<a href="http://www.dkrz.de">
+               <img src="/img/DKRZ_Logo_281x127_2014.png" alt="DKRZ Logo" height="60" hspace="5" vspace="5" border="0" />
+                        </a>
+ </td></tr>
+   <tr><td height="40" align="center" valign="middle">
+ 			<a href="http://wdc-climate.de">
+               <img src="/img//WDCC-Logo-resized.png" alt="World Data Centre for CLimate" height="60" hspace="5" vspace="5" border="0" />
+             </a>
+             </td>
+ </tr>
+          </table>
+</div>
+</td>
+</tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle-ln">
+<h1 align="center">Global Climate Model Experiment Data Archive</h1>
+</div>
+<p>Welcome to the Global Climate Model Data Archive section of the Data Distribution Centre (DDC) of the 
+Intergovernmental Panel on Climate Change (IPCC). This page is the main entry point for users who 
+want to retrieve either <em>data (FAR to AR4 monthly mean; AR5 in different frequencies)</em> available at DDC or information on the models used.</p>
+
+<p></p>
+
+<p><b>About DDC GCM data archive</b></p>
+<p>The DDC uses the CERA database which is run by the World Data Center Climate (<a href="http://www.wdc-climate.de" title="WDC Climate">WDCC</a>) at DKRZ. Detailed 
+information on the CERA database is available on the Web. You can look <a href="http://ceramodel.wdc-climate.de/">
+here</a> to get more information. </p>
+
+<p>The data is stored on a tape archive which is associated with the (local) database CERA. A data 
+request will initiate a retrieval mechanism that will take some time to transfer the data from 
+tape to disk, therefore users may have to wait before the requested data is transferred.</p>
+
+<p>Data is provided in NetCDF for AR5 and otherwise in GRIB format (machine independent, self-descriptive binary formats). If you need data in GZIP (compressed ASCII) 
+format you'll have to convert the binary data locally.</p>
+
+<p>Information on both formats and the internal data structure is given 
+                   <a href="INFO/formats.html" title="Information on NetCDF and GRIB">here</a>.
+<!--                   <a href="/gcm/misc/GRIBGZIP.html" title="Information on GRIB and GZIP">here</a>. -->
+<!-- MS to be replaced:                    <a href="/sim/gcm_monthly/INFO/formats.html" title="Information on NetCDF and GRIB">here</a>. -->
+</p>
+
+<p>You can select between: </p>
+<ul>
+                   <li><a href="AR5/index.html">Results from GCM-Runs for the Fifth Assessment Report (AR5) based on the IPCC-RCP scenarios</a><b>*</b></li>
+                        <li><a href="SRES_AR4/index.html">Results from GCM-Runs for the Fourth Assessment Report (AR4) based on the IPCC-SRES scenarios</a><b>*</b></li>
+                        <li><a href="SRES_TAR/index.html">Results from GCM-Runs for the Third Assessment Report (TAR) based on the IPCC-SRES scenarios</a></li>
+	                <li><a href="IS92A_SAR/index.html">Results from GCM-Runs based on the IPCC-IS92a (or similar; SAR) emission scenarios</a></li> 
+                       <li><a href="IPCC_FAR/index.html">Results from GCM-Runs user in the First Assessment Report (FAR) (subset) </a></li>
+</ul>
+<p><b>*</b> You can get a subset of these IPCC-DDC data on <font size="2"><b>storage media</b></font>s 
+                          <a href="INFO/dvd_data.html">here</a>.</p>
+
+<p>&nbsp;</p>
+<p><b>Download Statistics</b></p>
+<p>Annual statistics and reports are available starting for 2014 at <a target="_blank" href="http://www.dkrz.de/daten-en/wdcc/projects_cooperations/ipcc-data/ipcc-ddc-statistics" title="Annual IPCC-DDC statistics">Annual IPCC-DDC statistics</a>. Monthly statistics of the number of downloads and the download volume for IPCC-DDC data are available online:</p>
+<ul>
+<li><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/statistics?type=downloads_by_domain&amp;domain=IPCC-DDC" title="IPCC-DDC download statistics">Total monthly downloads of IPCC-DDC data as number of downloads and download volume</a>,</li>
+<li><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/statistics?type=downloads_by_domain&amp;domain=IPCC-DDC_AR5" title="IPCC-DDC AR5 download statistics">Monthly downloads of IPCC-DDC AR5 data as number of downloads and download volume</a>,</li>
+<li><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/statistics?type=downloads_by_domain&amp;domain=IPCC-DDC_AR4" title="IPCC-DDC AR4 download statistics">Monthly downloads of IPCC-DDC AR4 data as number of downloads and download volume</a>.</li>
+</ul>
+
+<p><b>GCM data validation</b></p>
+<p>One of the criteria commonly used in selecting a GCM to be used in constructing regional climate 
+scenarios for impact assessment is the performance of the GCM in simulating the present-day 
+climate in the region. This is evaluated by comparing the model outputs with observed climate in 
+the target region, and also over larger scales, to determine the ability of the model to simulate 
+    large scale circulation patterns. Examples of graphical comparisons between GCM outputs and 
+observed climate for the 1961-1990 period for subcontinental world regions can be found 
+<a target="_blank" href="/syn/tar_scatter/">here</a>.
+</p>
+
+<p><b>AR5 Scenarios</b></p>
+<p>AR5 Scenarios are based on scenarios of the <a href="http://cmip-pcmdi.llnl.gov/cmip5/" target="_blank">CMIP5 (Climate Model Intercomparison Project Phase 5)</a>. Details on CMIP5 Scenarios can be found in:<br />
+<em>Taylor, K.E., R.J. Stouffer, G.A. Meehl</em> (2012): An Overview of CMIP5 and the experiment design. Bull. Amer. Meteor. Soc., 93, 485-498, <a href="http://dx.doi.org/10.1175/BAMS-D-11-00094.1" target="_blank">doi:10.1175/BAMS-D-11-00094.1</a>.<br />
+And details on the RCP Emissions and Land Use scenarios used in AR5 are described <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/RCPs.html" target="_blank">here</a>.</p>
+
+<!--		<p><b>Variables requested for the Fifth IPCC-Assesemt Report</b></p>
+		<p>
+		The 14th meeting of the Task Group on Data and Scenario Support for Impact and Climate Analysis 
+		(<a href="http://www.ipcc.ch/activities/activities.shtml#tabs-4">TGICA</a>)
+		(26.2 - 28.2 2008 in St. Augustin/ Trinidad and Tobago) has approved a list of  
+		(proposed) required variables for the next climate model experiments (Fifth IPCC-Assessment Report). <br/>
+		A summary can be found &nbsp;<a href="/docs/tgica14/DOC14_AR5vars.pdf">here</a>.
+		</p>	
+-->
+<!-- end of center column -->
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

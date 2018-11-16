@@ -1,0 +1,595 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>GCM Data File Format</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcsim">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="sar_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr class="ddcsim">
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+<tr class="sres_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/sres/index.html">SRES Emissions scenarios</a></td>
+</tr>
+<tr class="is92_em">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/is92/index.html">IS92 Emissions scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">Projected CO2 emissions and concentrations</a></td>
+</tr>
+<tr class="gcm_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_monthly/">Climate model output</a></td>
+</tr>
+<tr class="gcm_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_clim/">Climate model: period-averages</a></td>
+</tr>
+<tr class="ar5_tab">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/ar5_tables/ar5_extremes.html">AR5 Regional Extremes</a></td>
+</tr>
+<tr class="ar4_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_AR4/index.html">AR4 (2007): SRES scenarios</a></td>
+</tr>
+<tr class="tar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/SRES_TAR/index.html">TAR (2001): SRES scenarios</a></td>
+</tr><tr class="sar_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsubsub"> <a  href="/sim/gcm_clim/IS92A_SAR/index.html">SAR (1995): IS92 scenarios</a></td>
+</tr>
+<tr class="tar_mon">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/sim/gcm_global/index.html">Climate model: global-means (AR4)</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">GCM Data File Format</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p><a name="nm" id="nm"></a><b>Nomenclature</b></p>
+
+<p>The files have been given an eight letter prefix and three
+ letter suffix to make them compatible with all computers and media,
+ thus the filename structure is:</p>
+
+<p>&lt;P ALIGN=CENTER&gt;<b>AACCD122.xxx</b>&lt;/P&gt;</p>
+
+<table width="95%" align="center" border="1" cellspacing="0" cellpadding="5">
+ <tr>
+ <td width="23%" height="17">AA = Experiment:</td>
+ <td width="77%">EE = ECHAM4; HH = HadCM2; GG = GFDL-R15; AA=CSIROMK2; CC = CCCMA; NN=NCAR-DOE and
+ JJ=CCSR/NIES</td>
+ </tr>
+ <tr>
+ <td height="17">CC = Forcing Details:</td>
+ <td>GG = Greenhouse Gas; GS = Greenhouse Gas and Aerosols</td>
+ </tr>
+ <tr>
+ <td height="17">D= Scenario Details:</td>
+ <td>A = 1% per annum (IS92a); D = 0.5% per annum (IS92d)</td>
+ </tr>
+ <tr>
+ <td height="17">1 = Ensemble Member</td>
+ <td>1,2,3 or 4. X = Ensemble Mean</td>
+ </tr>
+ <tr>
+ <td height="17">22 = Timeslice:</td>
+ <td>61 = 1961-1990; 20 = 2010-2039 (i.e. the 2020's); 50 = 2040-2069
+ (i.e. the 2050's);80 = 2070-2099 (i.e. the 2080's);</td>
+ </tr>
+ <tr>
+ <td height="17">xxx= Variable Code</td>
+ <td>
+ CLD = Cloud<br />
+ DTR = Diurnal Temperature Range<br />
+ PRE = Precipitation<br />
+ RAD = Radiation<br />
+ TMP = Mean Temperature<br />
+ TMX = Maximum Temperature<br />
+ TMN = Minimum Temperature<br />
+ VAP = Vapour Pressure<br />
+ WND = Wind<br />
+ zip = Zipped file
+ </td>
+ </tr>
+ </table>
+
+<p>Examples, therefore are:</p>
+
+<p>EEGGA120.TMP represents Mean temperature change for the period 2010-2039 under IS92a Greenhouse Gas forcing
+ scenario using ECHAM4.</p>
+
+<p>HHGSD461.PRE represents Precipitation from ensemble member 4 for the period 1961-1990 under the IS92d greenhouse
+ gas and sulphate forcing scenario using HadCM2.</p>
+
+<p></p>
+
+<p><b>GCM Grid Details - For the download
+ files from the Green Pages</b></p>
+
+<table width="100%" border="0" cellspacing="5" cellpadding="0">
+ <tr>
+ <td width="16%" valign="TOP" height="147"><b>ECHAM4&nbsp;</b><br />
+ Spectral Model<br />
+ T42 Resolution<br />
+ Grid 128*64<br />
+ Approximates to 2.8125 x 2.8125 degrees<br />
+ Starting Grid Cell Centred on: 0.00&ordm;E 87.8638&ordm;N<br />
+ <a href="echam4_grid.html" target="frame256263">Grid Details</a></td>
+ <td width="16%" valign="TOP" height="147"><b>HadCM2&nbsp;</b><br />
+ Grid Box Model<br />
+ Grid 96*73<br />
+ 3.75 x 2.5 degrees<br />
+ Staring Grid Cell Centred on 0.00&ordm;E 90.0&ordm;N<br />
+ <a href="hadcm2_grid.html" target="frame256263">Grid Details</a></td>
+ <td width="17%" valign="TOP" height="147"><b>GFDL-R15&nbsp;<br />
+ </b>Spectral Model<br />
+ R-15 Resolution<br />
+ Grid 48*40<br />
+ Approximates to 7.5 x 4.5 degrees<br />
+ Starting Grid Cell Centred on 0.00&ordm;E 86.598&ordm;N<br />
+ <a href="gfdlr15_grid.html" target="frame256263">Grid Details</a></td>
+ <td width="17%" valign="TOP" height="147"><b>CGCM1&nbsp;</b><br />
+ Spectral Model<br />
+ T32 Resolution<br />
+ Grid 96 *48<br />
+ Approximates to 3.75 x 3.75 degrees<br />
+ Starting Grid Cell Centred on: 0.00&ordm;E 87.1591&ordm;N<br />
+ <a href="cgcm1_grid.html" target="frame256263">Grid Details</a></td>
+ <td width="17%" valign="TOP" height="147">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="17"><b>CSIRO-Mk2b</b><br />
+ Spectral Model<br />
+ R21 Resolution<br />
+ Grid 64*56<br />
+ Approximates to 5.625 x 3.214 degrees<br />
+ Starting Grid Cell Centred on: 0.00&ordm;E 87.5613&ordm;N<br />
+ <a href="csiromk2_grid.html" target="frame256263">Grid Details</a></td>
+ <td height="17"><b>NCAR-DOE</b><br />
+ Spectral Model<br />
+ R-15 Resolution<br />
+ Grid 48*40<br />
+ Approximates to 7.5 x 4.5 degrees<br />
+ Starting Grid Cell Centred on 0.00&ordm;E 86.598&ordm;N<br />
+ <a href="gfdlr15_grid.html" target="frame256263">Grid Details</a></td>
+ <td height="17"><b>CCSR/NIES</b><br />
+ Spectral Model<br />
+ T21 Resolution<br />
+ Grid 64x32<br />
+ Approximates to 5.625x 5.625 degrees<br />
+ Starting Grid Cell Centred on: 0.00&ordm;E 85.761&ordm;N<br />
+ <a href="ccsr_grid.html" target="frame256263">Grid Details&nbsp;</a></td>
+ <td height="17">&nbsp;</td>
+ <td height="17">&nbsp;</td>
+ </tr>
+ </table>
+
+<p></p>
+
+<p><b><a name="df" id="df"></a> Data Format </b></p>
+
+<p>The format of the Scenario Download files is as follows. There
+ is a six line header for each month, the codes for the header
+ fields in italics (e.g. <i>Model Name</i>) are given <a href="#anchor1332191" target="_self">below</a>. The following is an example of the structure
+ of the scenario data files.</p>
+
+<p>&nbsp;</p>
+
+<p><tt>IPCC-Data-Distribution-Centre-<i>ModelName</i>-Results---Date</tt></p>
+
+<p><tt>Grid-is-<i>xxx</i>-*-<i>yyy</i>----Month-is-<i>Jan</i></tt></p>
+
+<p><tt>Mean-Change-values-for-<i>year-year</i>-with-respect-to-1961-1990</tt></p>
+
+<p><i><tt>ForcingDetails</tt></i><tt>---<i>ExperimentCode</i></tt></p>
+
+<p><tt>Variable-Name-(Units)</tt></p>
+
+<p><i><tt>DataItems</tt></i><tt>-----Format is 10f8.2---Missing-Value-is-9999.99</tt></p>
+
+<p><table width="450" border="0" cellspacing="0" cellpadding="0" height="18">
+ <tr>
+ <td width="10%" height="17">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ <td width="10%">&nbsp;12.34</td>
+ </tr>
+ <tr>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ <td>&nbsp;45.67</td>
+ </tr>
+ <tr>
+ <td><b>&nbsp;.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td>&nbsp;<b>.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><b>&nbsp;.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><b>&nbsp;.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ </table></p>
+
+<p><tt>IPCC-Data-Distribution-Centre-<i>ModelName</i>-Results---Date</tt></p>
+
+<p><tt>Grid-is-<i>xxx</i>-*-<i>yyy</i>----Month-is-<i>Feb</i></tt></p>
+
+<p><tt>Mean-Change-values-for-<i>year-year</i>-with-respect-to-1961-1990</tt></p>
+
+<p><i><tt>ForcingDetails</tt></i><tt>---<i>ExperimentCode</i></tt></p>
+
+<p><tt>Variable-Name-(Units)</tt></p>
+
+<p><i><tt>Data Items</tt></i><tt>-----Format is 10f8.2---Missing-Value-is-9999.99</tt></p>
+
+<p><table width="450" border="0" cellspacing="0" cellpadding="0" height="18">
+ <tr>
+ <td><b>&nbsp;.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td>&nbsp;<b>.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><b>&nbsp;.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td><b>&nbsp;.</b></td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ <td>&nbsp;</td>
+ </tr>
+ </table></p>
+
+<p><tt>IPCC-Data-Distribution-Centre-<i>ModelName</i>-Results---Date</tt></p>
+
+<p><tt>Grid-is-<i>xxx</i>-*-<i>yyy</i>----Month-is-<i>Dec</i></tt></p>
+
+<p><tt>Mean-Change-values-for-<i>year-year</i>-with-respect-to-1961-1990</tt></p>
+
+<p><i><tt>ForcingDetails</tt></i><tt>---<i>ExperimentCode</i></tt></p>
+
+<p><tt>Variable-Name-(Units)</tt></p>
+
+<p><i><tt>Data Items</tt></i><tt>-----Format is 10f8.2---Missing-Value-is-9999.99</tt></p>
+
+<p><a name="anchor1332191"></a></p>
+
+<p><b>Codes for header Fields</b> <table width="468" border="0" cellspacing="0" cellpadding="0" height="138">
+ <tr>
+ <td width="16%" height="19">Model Name</td>
+ <td width="16%" height="19">ECHAM4</td>
+ <td width="68%" height="19">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="19">&nbsp;</td>
+ <td height="19">HadCM2</td>
+ <td height="19">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="19">&nbsp;</td>
+ <td height="19">GFDL-R15</td>
+ <td height="19">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="20">&nbsp;</td>
+ <td height="20">CCCMA</td>
+ <td height="20">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="20">&nbsp;</td>
+ <td height="20">CSIRO-Mk2b</td>
+ <td height="20">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="20">&nbsp;</td>
+ <td height="20">NCAR-DOE</td>
+ <td height="20">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="20">&nbsp;</td>
+ <td height="20"> SELECTION--&gt;CCSR/NIES /SELECTION--&gt;</td>
+ <td height="20">&nbsp;</td>
+ </tr>
+ </table></p>
+
+<p>Grid - Number of x Co-ordinates and Number of y Co-ordinates
+ (e.g. 96 x 73)</p>
+
+<p>Month - Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov,
+ Dec</p>
+
+<p>Year- Year - time slice data are for, e.g., 2010-2039</p>
+
+<p>NOTE: For the period 1961-1990 the data are the actual values,
+ for the 2010-2039, 2040-2069 and 2070-2099 the data are the changes
+ with respect to the 1961-1990 period.</p>
+
+<p>Forcing Details - GG = Greenhouse Gas: GS = Greenhouse Gas
+ and Sulphate Aerosols; A = 1% per annum (IS92a); D= 0.5% per annum
+ (IS92d); 1, 2, 3 or 4 represents the ensemble member or X = Ensemble
+ mean.</p>
+
+<p>Experiment Code -Refers to the first six characters of the
+ file name (i.e., AACCD1)</p>
+
+<p>Data Items - The product of xxx*yyy (e.g. 7008)</p>
+
+<p>&nbsp;</p>
+
+<p><!-- end of center column --></p>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

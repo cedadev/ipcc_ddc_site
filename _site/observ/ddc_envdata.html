@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>Environmental Data and Scenarios</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddc">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="ddc_help">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr class="ddchome">
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr class="ddc">
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+<tr class="ddc_exist">
+  <td class="menunav"> <img src="/img/pixel.gif" alt=" " height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/ddc/ddc_exist.html">Why the DDC exists</a></td>
+</tr><tr class="ddc_provides">
+  <td class="menunav"> <img src="/img/pixel.gif" alt=" " height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/ddc/ddc_provides.html">What the DDC provides</a></td>
+</tr><tr class="ddc_runs">
+  <td class="menunav"> <img src="/img/pixel.gif" alt=" " height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/ddc/ddc_runs.html">Who runs the DDC?</a></td>
+</tr><tr class="ddc_survey">
+  <td class="menunav"> <img src="/img/pixel.gif" alt=" " height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/ddc/user_surveys.html">User Surveys and Reviews</a></td>
+</tr><tr class="ddc_layout">
+  <td class="menunav"> <img src="/img/pixel.gif" alt=" " height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/ddc/site_layout.html">Site layout</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr>
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr class="ddcsca">
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+            <li><a href="/ddc/site_layout.html#video">Video tour of the DDC</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+ 		<tr>
+ 			<td height="40" align="center" valign="middle">
+ 			<a href="http://www.dkrz.de">
+               <img src="/img/DKRZ_Logo_281x127_2014.png" alt="DKRZ Logo" height="60" hspace="5" vspace="5" border="0" />
+                        </a>
+ </td></tr><tr><td height="40" align="center" valign="middle">
+ 			<a href="http://wdc-climate.de">
+               <img src="/img/WDCC-Logo-resized.png" alt="World Data Centre for CLimate" height="60" hspace="5" vspace="5" border="0" />
+                        </a>
+             </td>
+ </tr> 
+<tr>
+ 	<td height="40" align="center" valign="middle">
+ 	     <a href="http://www.ciesin.columbia.edu">
+               <img src="/img/CIESIN_logo.gif" alt="CIESIN Logo" height="60" hspace="5" vspace="5" border="0" />
+            </a>
+             </td>
+ </tr> 
+<tr>
+ 	<td height="40" align="center" valign="middle">
+           <a href="http://www.nasa.gov">
+              <img src="/img/NASA_logo.gif" alt="NASA" height="60" hspace="5" vspace="5" border="0" />
+           </a>
+        </td>
+ 		</tr>
+          </table>
+</div>
+</td>
+</tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">Environmental Data and Scenarios</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<div id="content"> 
+ <p>Welcome to the Environmental Data Section of the Data Distribution Centre (DDC) of the Intergovernmental
+ Panel on Climate Change (IPCC). Acknowledging that changes in environmental conditions other than climate
+ may need to be considered when conducting climate change impact and vulnerability assessments,
+ the Environmental Data pages of the DDC provide access to
+ <a href="http://sedac.ciesin.columbia.edu/ddc/baseline/index.html">baseline</a>
+ and scenario data for a
+ range of non-climate conditions in the atmospheric, aquatic and terrestrial environments. These
+ include data on atmospheric composition (e.g. carbon dioxide, ozone), land use and land cover, sea
+ level, and water availability and quality. Most projections are consistent with the driving factors
+ and emissions presented in the <a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=0">Special Report on Emissions
+ Scenarios (SRES)</a>.</p>
+ 
+ <p>Explanations and illustrations of procedures for incorporating this information in impact and vulnerability
+ assessments can be found on the <a href="/guidelines/index.html">DDC Guidelines pages</a>. Data for other
+ environmental variables will be added in due course.</p>
+ 
+ <p><b><a href="/sim/gcm_clim/SRES_TAR/ddc_sres_emissions.html">Scenario data for the atmospheric environment</a></b></p>
+ 
+ <p><strong><a name="C02" id="C02"></a>Carbon Dioxide</strong><br />
+ A number of gases and other atmospheric constituents may have important effects on the exposure unit.
+ Perhaps the most important of these is carbon dioxide. CO2 is well mixed in the atmosphere, so
+ observations of concentrations from a single site are adequate for most impact applications.</p>
+ 
+ <p>CO2 concentration is commonly required as a direct input to models of plant growth, since it can affect
+ both the growth and water use of many plants. Since it is also a major greenhouse gas associated with
+ global climate change, the CO2 concentration adopted should be consistent with concentrations during
+ the climatological baseline period.</p>
+ 
+ <p>Conventionally, the baseline CO2 concentration is assumed fixed at a given level. This might be the
+ reference concentration in which plants have been grown in CO2-enrichment experiments. Alternatively,
+ it might be the default value assumed in an impact model, usually a value representative of the late 20th
+ century. However, a word of caution is necessary when testing impact models
+ for conditions over a 30-year or longer baseline period.
+ CO2 concentrations have increased rapidly during the 20th century,
+ and if the exposure unit is responsive to CO2, this temporal trend should be accounted for.</p>
+ 
+ <p>
+ Further information and data relating to CO2 is available 
+ <a href="/observ/ddc_co2.html">here</a>.
+ </p> 
+
+ <p><strong><a name="TropO" id="TropO"></a>Tropospheric ozone:</strong><br />
+ Another gas of importance in some impact studies is tropospheric ozone. This is toxic for a wide range
+ of living organisms, its concentrations being highly variable in space and time, registering its highest
+ concentrations over industrial regions under certain weather conditions. Time series of ozone
+ concentrations are available for some regions, especially in developed countries. They are usually
+ expressed in terms of background concentrations and peak concentrations. Global model estimates of
+ ozone abundance and gridded model results are available from the DDC.</p>
+ 
+ <p><strong><a name="StratO" id="StratO"></a>Stratospheric ozone:</strong><br />
+ Concentrations of stratospheric ozone have been measured operationally at many high latitude sites in
+ recent years, especially following the discovery of the seasonal "ozone hole" over Antarctica in 1985.
+ Ozone depletion is associated with increased ultraviolet radiation, which can be harmful for life on
+ earth. Daily forecasts of exposure risk to UV-radiation are issued in many countries at mid to high
+ latitudes, especially during the spring and early summer when levels of stratospheric ozone are generally
+ at a minimum.</p>
+ 
+ <p><strong><a name="SO2" id="S02"></a>Sulphur and nitrogen compounds:</strong><br />
+ Concentrations of sulphur and nitrogen compounds, which are both major contributors to acid
+ precipitation in many parts of the world, are also measured in some regions. Furthermore, it has been
+ estimated that sulphate aerosol concentrations in industrial regions have contributed a cooling effect on
+ climate in some regions in past decades, which has counteracted the warming effect of greenhouse
+ gases.</p>
+ 
+ <p><strong><a name="Smoke" id="Smoke"></a>Smoke and particulates:</strong><br />
+ Smoke and other particulate matter in the atmosphere, bi-products of fossil fuel burning, land clearance
+ or other human activities, can have important regional impacts on visibility and human health. These are
+ increasingly being observed using satellites as well as ground based instruments.</p>
+ 
+ <p><strong><a name="SLR" id="SLR"></a>Sea level:</strong><br />
+ One of the key factors to evaluate for many impact studies in low lying coastal regions is the current
+ level of the sea relative to the land. Globally, eustatic sea level (the volume of water in the oceans)
+ appears to have been rising during the past century. However, there are large
+ regional deviations in relative sea level from this global trend due to local land movements. Subsidence,
+ due to tectonic movements, sedimentation, or human extraction of groundwater or oil, enhances relative
+ sea-level rise. Uplift, due to post glacial isostatic rebound or tectonic processes, reduces or reverses sealevel
+ rise. The main source of information on relative sea level is tide gauge records, and the major global
+ data source is the <a href="http://www.psmsl.org">Permanent Service for Mean Sea
+ Level</a>.</p>
+ 
+ <p>As a reference, most studies of vulnerability to sea-level rise use the mean sea-level at a single date. For
+ instance, studies employing the IPCC Common Methodology use the level in 1990. However, to assess coastal
+ vulnerability to sea-level effects, baseline tide gauge and wave height observations are required. These
+ reflect tidal variations in combination with the effects of weather such as severe storms and atmospheric
+ pressure variations.</p>
+ 
+ <p><strong><a name="InlandWater" id="InlandWater"></a>Inland water levels:</strong><br />
+ The levels of lakes, rivers and groundwater also vary with time, usually for reasons related to the
+ natural balance between water inflow (due to precipitation and runoff) and losses (due to evaporation
+ and seepage). Human intervention can also affect water levels, through flow regulation and
+ impoundment, land use changes, water abstraction and effluent return and large scale river diversions.
+ Sometimes these fluctuations in levels can be very large (often much larger than
+ mean changes anticipated in the future). Thus, where time series are available, it is important to be able
+ to identify the likely causes of fluctuations (i.e. natural or anthropogenic), as this information could
+ influence the selection of an appropriate baseline period.</p>
+ 
+ <p><b>Scenario data the terrestrial environment (land use and land cover - SRES)</b></p>
+ 
+ <p><strong><a name="LandCover" id="LandCover"></a>Land cover and land use:</strong><br />
+ On land, data on land cover and land use change are of great importance in many impact studies.
+ Geographical data and time series have been compiled by a number of research groups working at
+ national, continental and global scale, based on satellite imagery, aerial photographs and ground survey.
+ Many datasets have been collected as part of a major international research effort - the
+ <a href="http://www.igbp.net/researchprojects/igbpcoreprojectsphaseone/landuseandcoverchange.4.1b8ae20512db692f2a680009062.html">Land Use and Cover Change Programme (LUCC)</a>
+ of the <a href="http://www.igbp.net/">International Geosphere Biosphere Programme (IGBP)</a>
+ and <a href="http://www.ihdp.org/">International Human Dimensions Programme on Global Environmental Change (IHDP)</a>. For
+ instance, a global integrated model, <a href="http://www.ciesin.org/datasets/rivm/image2.0-home.html">
+ IMAGE 2</a>, has been used to study the dynamics of land use change.
+ The model was initialised using baseline land use data from 1970. A continually updated time series of
+ observed global land use up to the 1990s can then be used to test the model's predictions during the
+ period after 1970. National land cover/land use statistics have also been tabulated by the IPCC and
+ are available from the DDC.</p>
+ 
+ <p><strong><a name="Soil" id="Soil"></a>Soil:</strong><br />
+ Baseline information is also commonly required on the state of the soil where this has been changing
+ over time, for example, nutrient status, pH and salinity. Data sources for this information tend to be
+ national or regional in scope.</p>
+ 
+ <p><strong><a name="Agri" id="Agri"></a>Agricultural practices:</strong><br />
+ In agriculture, data on farm management practices are of vital importance in describing the reference
+ conditions. This covers, for instance, fertilizer applications, use of pesticides and herbicides, tillage
+ practices, stocking rates and irrigation. Baseline information on these is important, not only because
+ they have been responsible for dramatic increases in productivity in many regions in recent decades, but
+ also because they have contributed to soil erosion or pollution of soils, surface waters and groundwater
+ in many regions. Data for different countries are collected annually by the <a href="http://www.fao.org/">United Nations Food and		Agriculture Organization</a>.</p>
+ 
+ <p><strong><a name="Bio" id="Bio"></a>Biodiversity:</strong><br />
+ There has been considerable concern in recent years about the endangerment and loss of natural species,
+ mainly attributable to human activities. There have been a number of national and international
+ initiatives to document and catalogue biodiversity, and 
+ <a href="http://sedac.ipcc-data.org/ddc/baseline/index.html">baseline statistics
+ representative of the 1990s</a> 
+ have been compiled for each country by the World Conservation Monitoring Centre, were published for
+ an <strong>IPCC report on Regional Impacts of Climate Change</strong> (available from
+ <a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">this page</a>).</p>
+ 
+ <p>&nbsp;</p>
+
+ </div>
+
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>

@@ -1,0 +1,377 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>CRU observational data data quality</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <!-- Apparently google uses description info in the search output page -->
+   <meta name="Description" content="Climate data from the Intergovernmental Panel on Climate Change (IPCC) Assessment Reports"/>
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2012.css" />
+   <link type="text/css" href="/css/jquery-ui-1.8.16.custom.css" rel="Stylesheet" />
+   <link rel="stylesheet" type="text/css" href="/css/ddc_style2011_ps.css" />
+   <script src="/js/2018/jquery-3.3.1.min.js" type="text/javascript"></script>
+   <script src="/js/2018/jquery-ui.min.js" type="text/javascript"></script>
+ </head>
+
+<body class="ddcobs">
+
+<!-- Header Block -->
+ <div id="hdr-c">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="980" height="82" style="background-image: url('/img/Banner_01.jpg'); font-size:30px;text-indent:20px;">
+ Data Distribution Centre (DRAFT)</td>
+ <td width="100%" height="82" style="background-image: url('/img/banner_pad1.jpg');"></td>
+ </tr>
+ <tr>
+ <td>
+   <table width="980" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+         <td width="598" height="36" style="vertical-align:bottom;background-image: url('/img/Banner_02.jpg');">
+            <form action="https://www.google.com/cse" id="cse-search-box" style="vertical-align:center;margin:0px">
+                   <input type="text" name="q" style="width:105pt;height:20pt"/>
+                   <input type="hidden" name="ie" value="UTF-8" />
+                   <input type="hidden" name="cx" value="013451859210749699644:ghsp-nn-2uw" />
+                   <input type="submit" name="sa" value="Search" style="width:60pt;height:18pt;font-size:10pt;"/>
+                   <a href="/ddc_advanced_search.html">Advanced search</a>
+            </form>
+            <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+         </td>
+         <td width="382" style="background-image: url('/img/Banner_03.jpg');">
+           <table>
+           <tr>
+           <td width="25%" align="left">
+             <a href="/ddc_help.html">Help</a>
+           </td>
+           <td width="25%" align="left">
+             <a href="/ddc_sitemap.html">Site map</a>
+           </td>
+           <td width="50%" align="right">
+             <form style="margin:0px" action="/cgi-bin/redirect" method="post">
+               <select name="newurl" onchange="location.href=this.form.newurl.options[ this.form.newurl.selectedIndex ].value;">
+                 <option selected="selected" value="#">IPCC web sites</option>
+                 <option value="http://www.ipcc.ch">IPCC Home</option>
+                 <option value="https://wg1.ipcc.ch/">Working Group I</option>
+                 <option value="http://www.ipcc-wg2.awi.de">Working Group II</option>
+                 <option value="http://www.ipcc-wg3.ac.uk">Working Group III</option>
+                 <option value="http://www.ipcc-nggip.iges.or.jp">NGGIP</option>
+                 <option value="http://www.ipcc.ch/activities/tgica.shtml" title="Task Group on Data and Scenario Support for Impact and Climate Analysis">TGICA</option>
+               </select>
+               <noscript> <input type="submit" value="Go" /> </noscript>
+             </form>
+           </td>
+           </tr>
+           </table>
+         </td>
+      </tr>
+   </table>
+ </td>
+ <td width="100%" style="background-image: url('/img/banner_pad3.jpg');"></td>
+ </tr>
+ <tr><td colspan="2" width="100%" style="background:#ffffff" height="2"></td></tr>
+ </table>
+ </div>
+
+<!-- End of Header Block -->
+
+   <!-- Center Column -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+ <tr style="margin:0;padding:0;border:0;">
+ <td style="margin:0;padding:0;border:0;height:1pt;width:150pt;background:#5492CD;" valign="top" >
+
+ <div id="lh-col2" class="obs_clim">
+   <table class="menumain" bgcolor="#5492CD" cellspacing="0" width="100%" border="0">
+      <tr>
+   <td class="menunav" id="menuipcc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="http://www.ipcc.ch" title="Exit to IPCC site (new page)" target="_IPCC.ch"><img src="/img/forward.png" alt="x" height="12" width="20"/><i>IPCC Site</i></a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddchome"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/index.html">DDC Home</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuddc"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/ddc/ddc_about.html">About the DDC</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuguide"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/guidelines/index.html">Guidance on the use of data</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuar5p"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/index.html">Scenario process for AR5</a>
+   </td> </tr>
+   <tr class="ddcobs">
+   <td class="menunav" id="menuobs"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/observ/index.html">Data: Observations</a></td> </tr>
+<tr class="obs_clim">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/clim/index.html">Physical climate</a></td>
+</tr>
+<tr class="obs_co2">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_co2.html">CO2 concentrations</a></td>
+</tr>
+<tr class="baseline">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/baseline/index.html">Socio-Economic Baseline</a></td>
+</tr>
+<tr class="ar5_impacts">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/observed_ar5/index.html">Observed Impacts (AR5)</a></td>
+</tr>
+<tr class="ar4_impacts">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="http://sedac.ipcc-data.org/ddc/observed/index.html">Observed Impacts (AR4)</a></td>
+</tr>
+<tr class="obs_envdata">
+  <td class="menunav"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+  <td class="navsub"> <a  href="/observ/ddc_envdata.html">Environmental Data and Scenarios</a></td>
+</tr>
+   <tr>
+   <td class="menunav" id="menusim"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/sim/index.html">Data: Simulations</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menusca"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/syn/tar_scatter/index.html">Data: Synthesis</a></td> </tr>
+   <tr>
+   <td class="menunav" id="menuvis"> <img src="/img/pixel.gif" alt="x" height="21" width="9"/> </td>
+   <td class="nav"> <a  href="/maps/">Visualisation</a></td> </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="relatedlinks" align="left">
+ <!-- related links bar -->
+<h3>Quick links</h3>
+	<ul> 
+            <li><a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC Reports</a></li>
+<li><a href="/help/formats.html">General Data formats</a></li>
+<li><a href="/observ/clim/observed_fileformat.html">File naming for CRU data</a></li>
+<li><a href="/observ/clim/climate_quality.html">CRU data quality</a></li>
+        </ul>
+ </div>
+ </td>
+ </tr>
+
+       <tr>
+ <td colspan="2">
+ <div id="logos">
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+ <tr>
+ 			<td height="40" align="center" valign="middle">
+                <a href="http://www.ceda.ac.uk/" title="CEDA - Centre for Environmental Data Analysis">
+                  <img src="/img/ceda_logo_transp_black_h188.png" alt="CEDA - Centre for Environmental Data Analysis" height="60" width="200" hspace="5" vspace="5" border="0" />"
+                </a>
+ </td></tr><tr><td>
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" title="BEIS - Department for Business, Energy &amp; Industrial Strategy">
+                  <img src="/img/BEIS_logo_2018.jpg" alt="BEIS - Department for Business, Energy &amp; Industrial Strategy"  height="60" hspace="5" vspace="5" border="0" />
+                </a>
+             </td>
+                  </tr>
+</table>
+ 	<table width="100px" border="0" align="center" cellpadding="0" cellspacing="0" >
+<tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.nerc.ac.uk" title="Natural Environment Research Council">
+               <b><font color="#ffffff"> NERC </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+               <a href="http://www.ncas.ac.uk" title="National Centre for Atmospheric Science">
+               <b><font color="#ffffff"> NCAS </font></b>
+               </a>
+        </td>
+</tr><tr>
+        <td width="12%" height="30" align="center" valign="middle">
+                <p><a href="http://www.ceda.ac.uk/disclaimer/">
+                <b><font color="#ffffff">CEDA disclaimer</font></b>
+               </a></p>
+        </td>
+</tr>
+ 	</table>
+ </div>
+ </td>
+ </tr>
+
+      
+   </table>
+ </div>
+
+ </td>
+ <td valign="top" >
+ 
+    
+
+ <div id="pagetitle">
+ <h1 align="center">The CRU Climate Baseline Quality Issues</h1>
+ </div>
+<p><!-- End of Page Title Block --></p>
+
+<p></p>
+
+<p><b>Known problems with the CRU 0.5&deg; latitude/longitude 1961-90 terrestrial climatology
+ and 1901-95 grids of monthly surface climate</b></p>
+
+<p> Problems have come to light through user feedback and routine quality control in the Climatic
+ Research Unit (during work towards the construction of an updated version of the 1961-1990
+ climatology). These problems range from systematic errors (for example, due to incorrect units
+ being assumed for a whole country) to single-station errors. Errors at single stations have varying
+ importance depending on the density of the surrounding network. Where the network is sparse, the
+ station error will influence a larger area because of its greater spatial influence during the
+ interpolation.</p>
+
+<p> Systematic errors arise because of varying reporting methods and units adopted by different national
+ meteorological agencies (and other data contributors). The methods used to standardise data to a common
+ format are discussed by New <i>et al. </i>(1999). Some problems are due to shortcomings in the
+ standardisation methods used. In addition, misunderstandings (or a lack of information) about the
+ units in which data were supplied means that the incorrect (or no) standardisation was used.</p>
+
+<p> The majority of problems/errors identified to date are due to confusion of units and shortcomings in
+ the standardisation towards the use of common units. The climate variable with the largest potential for
+ confusion is wind speed. Not only do reporting units vary between metres <i>per</i> second, miles
+ <i>per</i> hour and knots; anemometer heights can vary greatly from the desired 10m (e.g. between 2m
+ and 20m).</p>
+
+<p> The following (variable) gridded files are known to have either systematic or significant single station
+ errors which potential users need to be aware of. The errors are present in the mean-monthly 1961-90
+ terrestrial climatology files and are thus propagated into the gridded 1901-1995 monthly time-series.
+ The affected part of the globe is defined where possible.</p>
+
+<p></p>
+
+<table border="1" align="center" width="95%" cellspacing="0" cellpadding="5">
+ <tr>
+ <td colspan="2"><b>Wet days</b></td>
+ </tr>
+ <tr>
+ <td width="20%" align="left"><b>Area affected</b></td>
+ <td width="80%" align="center"><b>Reason for error</b></td>
+ </tr>
+ <tr>
+ <td>Brazil (Amazonia)</td>
+ <td>Conversion was required from available data (the threshold was 1.0mm). The method used probably
+ gave a positive bias and thus overestimated the number of wet days.</td>
+ </tr>
+ <tr>
+ <td>Spain and Spanish stations in N. Africa</td>
+ <td>Error over definition for approximately 40 stations. Threshold was assumed to be 0.1mm but
+ was in fact 1.0mm.</td>
+ </tr>
+ <tr>
+ <td>Syria</td>
+ <td>Error over definition for all stations. Threshold was assumed to be 0.1mm but was in fact
+ 1.0mm.</td>
+ </tr>
+ </table>
+
+<p></p>
+
+<table border="1" align="center" width="95%" cellspacing="0" cellpadding="5">
+ <tr>
+ <td colspan="2"><b>Diurnal temperature range</b></td>
+ </tr>
+ <tr>
+ <td width="20%" align="left"><b>Area affected</b></td>
+ <td width="80%" align="center"><b>Reason for error</b></td>
+ </tr>
+ <tr>
+ <td>Greenland &#42;(see below)</td>
+ <td>Lack of station data in central Greenland has caused (too) high values to be
+ interpolated to the region.</td>
+ </tr>
+ <tr>
+ <td>Poland</td>
+ <td>Some stations were found to have their range-values based on monthly extreme max.
+ and min. temperature values instead of average values - therefore values too large.</td>
+ </tr>
+ </table>
+
+<p></p>
+
+<table border="1" align="center" width="95%" cellspacing="0" cellpadding="5">
+ <tr>
+ <td colspan="2"><b>Wind speed</b></td>
+ </tr>
+ <tr>
+ <td width="20%" align="left"><b>Area affected</b></td>
+ <td width="80%" align="center"><b>Reason for error</b></td>
+ </tr>
+ <tr>
+ <td>Bolivia</td>
+ <td>Values for several stations found to be in knots &#150; therefore too high</td>
+ </tr>
+ <tr>
+ <td>Greece</td>
+ <td>Values for six stations found to be in knots &#150; therefore too high.</td>
+ </tr>
+ <tr>
+ <td>Honduras</td>
+ <td>Values for all stations were found to be in knots &#150; therefore too high.</td>
+ </tr>
+ <tr>
+ <td>Sierra Leone</td>
+ <td>Values for all stations found to be in knots &#150; therefore too high.</td>
+ </tr>
+ <tr>
+ <td>Sudan</td>
+ <td>Values for all stations originally in miles per hour but incorrect conversion
+ to m/s produced values too low</td>
+ </tr>
+ <tr>
+ <td>Peru (Iquitos &amp; Cajamarca)</td>
+ <td>Values for both stations found to be in error (much higher than is feasible
+ in the area).</td>
+ </tr>
+ </table>
+
+<p></p>
+
+<p><b>Relative humidity</b></p>
+
+<p> Station data relating to humidity was split roughly half-and-half between pressure (VP) or
+ relative humidity (RH). The conversion of VP to RH, or vice versa, (see New <i>et al</i>.) does
+ pose problems in some parts of the world &#150; notably in the coldest areas in winter months.
+ This is due to a loss of instrumental precision at very low temperatures. Small errors are
+ magnified when conversion (using mean temperature) is undertaken. For this reason, systematic
+ differences in winter RH are apparent according to political divisions in areas like the northern
+ Russia and northern Canada.</p>
+
+<p> In addition, mean monthly RH is affected by the timing of daily readings. For this reason,
+ mean RH may be biased if mean monthly values are not based on true daily mean values, or if
+ the time of measurement of daily temperatures and RH do not coincide.</p>
+
+<p></p>
+
+<p><b>* Greenland &#150; all variables</b></p>
+<p> The interior of Greenland is poorly covered by meteorological observation. This coupled with
+ the presence of the high elevation ice cap makes interpolation of climate normals very difficult
+ due to the potential for unusual lapse rates. It is likely that significant bias may be present
+ with all variables for the interior of the landmass (e.g. diurnal temperature range and
+ precipitation too high).</p>
+
+<p></p>
+
+<p><b>References</b></p>
+<p> New, M., Hulme, M. and Jones, P.D., 1999: Representing twentieth century space-time climate
+ variability. Part 1: development of a 1961-90 mean monthly terrestrial climatology. <i>Journal
+ of Climate</i> 12, 829-856.</p>
+
+<p>New, M. G., M. Hulme and P. D. Jones, 2000: Representing 20th century space-time climate
+ variability. II: Development of 1901-1996 monthly terrestrial climate fields. <i>J.
+ Climate</i>, 13, 2217-2238.</p>
+
+  
+    
+ </td>
+ </tr>
+</table>
+
+   <!-- start of google tracker script -->
+   <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+   </script>
+   <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-5141437-1");
+   pageTracker._initData();
+   pageTracker._trackPageview();
+   </script>
+   <!-- end of google tracker script -->
+</body>
+</html>
