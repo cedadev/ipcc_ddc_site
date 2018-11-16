@@ -22,7 +22,6 @@ logos: ssi12/logos/badc.html
  <p>
  The IPCC Fourth Assessment Report discusses four observational temperature datasets:</p>
  
-<p>
  <table class="data-table" border="2" cellpadding="3">
  <tr><td> Dataset </td><td>Information</td><td> Global mean time series</td><td>Literature</td> </tr>
  <tr>
@@ -79,8 +78,6 @@ logos: ssi12/logos/badc.html
  </tr>
  </table>
 
-</p>
- 
  
  <h2>Gridded fields</h2>
  

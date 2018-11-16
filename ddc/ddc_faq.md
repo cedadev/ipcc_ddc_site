@@ -29,26 +29,15 @@ logos: ssi12/logos/badc.html
  
  <p>&nbsp;</p>
  
- <p><li style="font-family:geneva"><A HREF="#anchor1029710">Data
- Download and Availability</A></li></p>
- 
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1031507"
- TARGET="frame256263">GCMs</A></li></font></p>
- 
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1031891"
- TARGET="frame256263">Climate Change Scenarios</A></li></font></p>
- 
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1032161"
- TARGET="frame256263">Observed Climate Data</A></li></font></p>
- 
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#emissions"
- TARGET="frame256263">Observed Emissions Data</A></li></font></p>
- 
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1032433"
- TARGET="frame256263">Non-Climatic Scenarios</A></li></font></p>
- 
- <p><font FACE="Geneva"><li FACE="Geneva"><A HREF="#anchor1032752"
- TARGET="frame256263">Miscellaneous</A></li></font></p>
+<ul style="font-family:geneva">
+ <li><A HREF="#anchor1029710">Data Download and Availability</A></li>
+ <li><A HREF="#anchor1031507" TARGET="frame256263">GCMs</A></li>
+ <li><A HREF="#anchor1031891" TARGET="frame256263">Climate Change Scenarios</A></li>
+ <li><A HREF="#anchor1032161" TARGET="frame256263">Observed Climate Data</A></li>
+ <li><A HREF="#emissions" TARGET="frame256263">Observed Emissions Data</A></li>
+ <li><A HREF="#anchor1032433" TARGET="frame256263">Non-Climatic Scenarios</A></li>
+ <li><A HREF="#anchor1032752" TARGET="frame256263">Miscellaneous</A></li>
+</ul>
  
  <p>&nbsp;</p>
  
