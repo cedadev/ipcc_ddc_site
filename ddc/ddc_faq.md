@@ -54,8 +54,8 @@ logos: ssi12/logos/badc.html
  
  <p><A NAME="anchor555676"></A></p>
  
- <p><A NAME="anchor1029710"></A><b><font SIZE="+1" FACE="Helvetica,Geneva,Arial">Data
- Download and Availability</font></b></p>
+ <p style="font-size:+1;font-style:Geneva"><A NAME="anchor1029710"></A><b>Data
+ Download and Availability</b></p>
  
  <p><b><font SIZE="-1" FACE="Geneva">Q. Are there regional DDCs
  containing duplicate data?</font></b></p>
@@ -90,7 +90,7 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A NAME="anchor555944"></A></p>
  
- <p><A NAME="anchor1031507"></A><b><font SIZE="+1" FACE="Helvetica,Geneva,Arial">GCMs</font></b></p>
+ <p style="font-size:+1;font-style:Geneva"><A NAME="anchor1031507"></A><b>GCMs</b></p>
  
  <p><b><font SIZE="-1" FACE="Geneva">Q. Which GCM output should I use?</font></b></p>
  
@@ -436,8 +436,8 @@ For earlier assessment reports, only monthly data was retained.
  <A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
  
- <p><A NAME="anchor1032161"></A><b><font SIZE="+1" FACE="Helvetica,Geneva,Arial">Observed Climate
- Data</font></b></p>
+ <p style="font-size:+1;font-style:Geneva"><A NAME="anchor1032161"></A><b>Observed Climate
+ Data</b></p>
  
  <p><b><font SIZE="-1" FACE="Geneva">Q. Should I take 1961-90 or
  1990 as my baseline?</font></b></p>
@@ -475,7 +475,7 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
- <p><A NAME="emissions"></A><b><font SIZE="+1" FACE="Helvetica,Geneva,Arial">Observed Emissions Data</font></b></p>
+ <p style="font-size:+1;font-style:Geneva"><A NAME="emissions"></A><b>Observed Emissions Data</b></p>
  
  <p><b><font SIZE="-1" FACE="Geneva">Q. Where can I find current information
  on greenhouse gas emissions?</font></b></p>

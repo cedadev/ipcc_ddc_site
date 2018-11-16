@@ -45,13 +45,13 @@ logos: ssi12/logos/badc.html
  
  <p></p>
  
- <table border="1" align="center" width="95%" height="214" cellspacing="0" cellpadding="5">
+ <table border="1" align="center" width="95%" cellspacing="0" cellpadding="5">
  <tr>
  <td colspan="2"><b>Wet days</b></td>
  </tr>
  <tr>
- <td width="20%" align="LEFT"><b>Area affected</b></td>
- <td width="80%" align="CENTER"><b>Reason for error</b></td>
+ <td width="20%" align="left"><b>Area affected</b></td>
+ <td width="80%" align="center"><b>Reason for error</b></td>
  </tr>
  <tr>
  <td>Brazil (Amazonia)</td>
@@ -77,11 +77,11 @@ logos: ssi12/logos/badc.html
  <td colspan="2"><b>Diurnal temperature range</b></td>
  </tr>
  <tr>
- <td width="20%" align="LEFT"><b>Area affected</b></td>
- <td width="80%" align="CENTER"><b>Reason for error</b></td>
+ <td width="20%" align="left"><b>Area affected</b></td>
+ <td width="80%" align="center"><b>Reason for error</b></td>
  </tr>
  <tr>
- <td>Greenland *(see below)</td>
+ <td>Greenland &#42;(see below)</td>
  <td>Lack of station data in central Greenland has caused (too) high values to be
  interpolated to the region.</td>
  </tr>
@@ -99,8 +99,8 @@ logos: ssi12/logos/badc.html
  <td colspan="2"><b>Wind speed</b></td>
  </tr>
  <tr>
- <td width="20%" align="LEFT"><b>Area affected</b></td>
- <td width="80%" align="CENTER"><b>Reason for error</b></td>
+ <td width="20%" align="left"><b>Area affected</b></td>
+ <td width="80%" align="center"><b>Reason for error</b></td>
  </tr>
  <tr>
  <td>Bolivia</td>
