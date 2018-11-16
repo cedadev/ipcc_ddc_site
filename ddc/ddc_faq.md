@@ -46,21 +46,21 @@ logos: ssi12/logos/badc.html
  <p style="font-size:+1;font-style:Geneva"><A NAME="anchor1029710"></A><b>Data
  Download and Availability</b></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. Are there regional DDCs
- containing duplicate data?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. Are there regional DDCs
+ containing duplicate data?</b></p>
  
  <p><b>A. </b>At present the DDC web site is housed between Hamburg
  (DKRZ, Germany), BADC (UK) and CIESIN (USA). 
  There are no plans to introduce mirror sites.</p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. Are results from RCMs available?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. Are results from RCMs available?</b></p>
  
  <p><b>A. </b>The DDC is not presently handling any data from Regional
  Climate Model experiments and has no current plans to do so.
  </p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. How do I get daily GCM
- data?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. How do I get daily GCM
+ data?</b></p>
  
  <p><b>A.</b> For the 5th IPCC Assessment Report the DDC is providing data at
 a range of frequencies from their <a href="/sim/gcm_monthly/">climate model output pages.</a>
@@ -132,7 +132,7 @@ For earlier assessment reports, only monthly data was retained.
  <p><b><font SIZE="-1" FACE="Geneva">Q. How do I get climate change projections for a particular location?
  </font></b></p>
  
- <p><b>A.</b> To get climate projections for a specific location, go to <a href="/cgi-bin/ddc_nav/dataset=ar4_gcm"> the DDC Navigator</a> and select a variable, model, scenario, and time period, and then choose your region of interest.
+ <p><b>A.</b> To get climate projections for a specific location, go to <a href="/cgi-bin/ddc_nav/dataset=ar4_gcm"> the DDC Navigator</a> and select a variable, model, scenario, and time period, and then choose your region of interest.</p>
  
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
@@ -185,7 +185,7 @@ For earlier assessment reports, only monthly data was retained.
  depends on how the model calculates these daily quantities and
  on the shape of the diurnal cycle.</p>
  
- <p>Changes in 30-year mean diurnal temperature range (*DTR) for
+ <p>Changes in 30-year mean diurnal temperature range (&#42;DTR) for
  the DDC results are calculated as the difference between the changes
  in the 30-year mean monthly Tmax and Tmin changes.</p>
  
