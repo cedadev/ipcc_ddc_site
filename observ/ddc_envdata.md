@@ -117,8 +117,8 @@ logos: ssi12/logos/All.html
  Geographical data and time series have been compiled by a number of research groups working at
  national, continental and global scale, based on satellite imagery, aerial photographs and ground survey.
  Many datasets have been collected as part of a major international research effort - the
- <a href="http://www.geo.ucl.ac.be/LUCC/lucc.html">Land Use and Land Cover Change Programme (LUCC)</a>
- of the <a href="http://www.igbp.kva.se/">International Geosphere Biosphere Programme (IGBP)</a>
+ <a href="http://www.igbp.net/researchprojects/igbpcoreprojectsphaseone/landuseandcoverchange.4.1b8ae20512db692f2a680009062.html">Land Use and Cover Change Programme (LUCC)</a>
+ of the <a href="http://www.igbp.net/">International Geosphere Biosphere Programme (IGBP)</a>
  and <a href="http://www.ihdp.org/">International Human Dimensions Programme on Global Environmental Change (IHDP)</a>. For
  instance, a global integrated model, <a href="http://www.ciesin.org/datasets/rivm/image2.0-home.html">
  IMAGE 2</a>, has been used to study the dynamics of land use change.

@@ -519,9 +519,9 @@ For earlier assessment reports, only monthly data was retained.
  <p><b><font SIZE="-1" FACE="Geneva">Q. Is there a Kyoto Protocol scenario
  available?</font></b></p>
  
- <p><b>A. </b>The <A HREF="http://unfccc.int/resource/docs/convkp/kpeng.html"
+ <p><b>A. </b>The <A HREF="https://unfccc.int/resource/docs/convkp/kpeng.html"
  TARGET="frame256263">Kyoto Protocol</A> agreed at the Third Conference of the
- Parties to the <A HREF="http://unfccc.int/" TARGET="frame256263">UN Framework
+ Parties to the <A HREF="https://unfccc.int/" TARGET="frame256263">UN Framework
  Convention on Climate Change</A> in December 1997, sets a target for developed
  countries to reduce net emissions of greenhouse gases by about 5% by the period
  2008-2012 with respect to 1990 levels. Should this Protocol be ratified and
@@ -558,10 +558,10 @@ For earlier assessment reports, only monthly data was retained.
  <UL>
 <li>for the IPCC home page: <A HREF="http://www.ipcc.ch/" TARGET="frame256263">http://www.ipcc.ch</A></li>
 <li>for details regarding COP3 and
- Kyoto Protocol: <A HREF="http://unfccc.int/cop3/resource/protintr.html"
- TARGET="frame256263">http://unfccc.int/cop3/home.html</A></li>
+ Kyoto Protocol: <A HREF="https://unfccc.int/cop3/resource/protintr.html"
+ TARGET="frame256263">https://unfccc.int/cop3/home.html</A></li>
 <li>for details regarding all other aspects of the UNFCCC see their <A
- HREF="http://unfccc.int/" TARGET="frame256263">home page</A></li>
+ HREF="https://unfccc.int/" TARGET="frame256263">home page</A></li>
 </UL>
  
  <p><A HREF="#anchor559935" TARGET="gwp">Back to Top</A></p>

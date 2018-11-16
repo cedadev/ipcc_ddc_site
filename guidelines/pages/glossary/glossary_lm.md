@@ -47,7 +47,8 @@ logos: ssi12/logos/All.html
 <a name="markerScenario"></a>
 <h3>Marker Scenario</h3><p> See <a href="glossary_s.html#scenarioMarker">Scenario (Marker)</a>.</p>
 <a name="MnD"></a>
-<h3>M &amp D </h3><p><a href="http://www.mad.zmaw.de" target="_blank">Model and Data Group </a></p>
+<h3>M &amp; D </h3><p>Model and Data Group: In 2010, the Model and Data Group became the Data Management
+department at <a href="https://www.dkrz.de">DKRZ (Deutsches Klimarechenzentrum)</a></p>
 <a name="measures"></a>
 <h3>Measures</h3><p>In climate policy, measures are technologies, processes, and practices that contribute to mitigation, for example <a href="glossary_r.html#re">renewable energy</a> technologies, waste minimization processes and public transport commuting practices.  See also <a href="glossary_pq.html#policies">Policies (for mitigation of or adaptation to climate change)</a>. <b>WGIII</b></p>
 <a name="metadata"></a>

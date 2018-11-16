@@ -45,12 +45,12 @@ logos: ssi12/logos/badc.html
  <a href="http://www.ncdc.noaa.gov/monitoring-references/faq">Info</a>
  </td>
  <td>
-<!-- <a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/annual.land_ocean.90S.90N.df_1901-2000mean.dat">Data</a> -->
+<!-- <a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/usingGHCNMv2/annual.land_ocean.90S.90N.df_1901-2000mean.dat">Data</a> -->
 <a href="/documents/ar4_obs_gm/annual.land_ocean.90S.90N.df_1901-2000mean.dat">Archived data</a>
  </td>
  <td>
  Smith, T. M., and R. W. Reynolds (2005), A global merged land air and sea surface temperature reconstruction based on historical observations (1880-1997), J. Climate, 18, 2021-2036.
-<a href="ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/blended/ghcnm-v3.pdf">Summary of changes implemented up to 2011</a>.
+<a href="ftp://ftp.ncdc.noaa.gov/pub/data/cmb/ghcnm/ghcnm-v3.pdf">Summary of changes implemented up to 2011</a>.
  </td>
  </tr>
  <tr>
