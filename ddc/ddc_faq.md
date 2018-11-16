@@ -27,8 +27,6 @@ logos: ssi12/logos/badc.html
  A number of different sections have been constructed. Some questions
  may be common more than one section and are, therefore, repeated.</p>
  
- <p>&nbsp;</p>
- 
 <ul style="font-family:geneva">
  <li><A HREF="#anchor1029710">Data Download and Availability</A></li>
  <li><A HREF="#anchor1031507" TARGET="frame256263">GCMs</A></li>
@@ -38,8 +36,6 @@ logos: ssi12/logos/badc.html
  <li><A HREF="#anchor1032433" TARGET="frame256263">Non-Climatic Scenarios</A></li>
  <li><A HREF="#anchor1032752" TARGET="frame256263">Miscellaneous</A></li>
 </ul>
- 
- <p>&nbsp;</p>
  
  <p><A NAME="anchor555676"></A></p>
  
@@ -81,12 +77,10 @@ For earlier assessment reports, only monthly data was retained.
  
  <p style="font-size:+1;font-style:Geneva"><A NAME="anchor1031507"></A><b>GCMs</b></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. Which GCM output should I use?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. Which GCM output should I use?</b></p>
  
- <p><b>A. </b>Many climate change experiments have been performed
- with GCMs.
- Four criteria for selection
- of which GCM(s)' output to use for an impact study have been suggested:
+ <p><b>A. </b>Many climate change experiments have been performed with GCMs.
+ Four criteria for selection of which GCM(s)' output to use for an impact study have been suggested:
  vintage, resolution, validity and representativeness of results.</p>
  
  <p><I>Vintage.</I> In general, recent model simulations are likely
@@ -129,8 +123,8 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A HREF="#projection_local" TARGET="frame256263">Back to Top</A></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. How do I get climate change projections for a particular location?
- </font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. How do I get climate change projections for a particular location?
+</b></p>
  
  <p><b>A.</b> To get climate projections for a specific location, go to <a href="/cgi-bin/ddc_nav/dataset=ar4_gcm"> the DDC Navigator</a> and select a variable, model, scenario, and time period, and then choose your region of interest.</p>
  
@@ -166,8 +160,8 @@ For earlier assessment reports, only monthly data was retained.
  
  
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. Why are changes in Tmean
- not always the average of changes in Tmin and Tmax?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. Why are changes in Tmean
+ not always the average of changes in Tmin and Tmax?</b></p>
  
  <p><b>A.</b> Whether or not the change in mean monthly mean temperature
  is the average of the changes in mean monthly Tmin and Tmax depends
@@ -200,8 +194,8 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. What is the climate sensitivity
- of a GCM?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. What is the climate sensitivity
+ of a GCM?</b></p>
  
  <p>The term &quot;climate sensitivity&quot; refers to the steady-state
  increase in the global annual mean surface air temperature associated
@@ -224,8 +218,8 @@ For earlier assessment reports, only monthly data was retained.
  combination of different forcing factors (solar, aerosols, CO2,
  CH4, etc.) that produce a given global-mean forcing.</p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. How should I define a GCM
- change field?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. How should I define a GCM
+ change field?</b></p>
  
  <p>It is usual practise in climate scenario construction to use
  the <I>change</I> in climate from present to future conditions
@@ -258,7 +252,7 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. What are GCM ensembles?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b>Q. What are GCM ensembles?</b></p>
  
  <p><b>A. </b>GCM predictions of climate change may depend upon
  the choice of point on the control run at which increasing greenhouse
@@ -282,8 +276,8 @@ For earlier assessment reports, only monthly data was retained.
  have been used in this way and results from individual ensemble
  members, as well as the ensemble-mean, may be downloaded.</p>
  
- <p><A NAME="anchor1175477"></A><b><font SIZE="-1" FACE="Geneva">Q.
- How do I add the GCM fields to my baseline data?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><A NAME="anchor1175477"></A><b>Q.
+ How do I add the GCM fields to my baseline data?</b></p>
  
  <p>GCM change fields generally exist on coarser space scales than
  the observational climate data being used in a project. For example,
@@ -314,8 +308,8 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
- <p><A NAME="anchor1173464"></A><b><font SIZE="-1" FACE="Geneva">Q.
- How can I downscale the GCM data to smaller scales?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><A NAME="anchor1173464"></A><b>Q.
+ How can I downscale the GCM data to smaller scales?</b></p>
  
  <p>One of the simplest ways of adding spatial detail to GCM-based
  climate change scenarios is to interpolate GCM-scale changes to
@@ -371,7 +365,7 @@ For earlier assessment reports, only monthly data was retained.
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. How do I introduce changes
+ <p style="font-size:-1;font-style:Geneva"><b><font SIZE="-1" FACE="Geneva">Q. How do I introduce changes
  in interannual or interdaily variability into my scenario?</font></b></p>
  
  <p>The 30-year mean monthly GCM change fields <!-- available from the
@@ -396,7 +390,7 @@ For earlier assessment reports, only monthly data was retained.
  centres to gain access.<BR>
  </p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. What are weather generators?</font></b></p>
+ <p style="font-size:-1;font-style:Geneva"><b><font SIZE="-1" FACE="Geneva">Q. What are weather generators?</font></b></p>
  
  <p>Weather generators can be used to construct site-specific or
  small-scale climate change scenarios, although they rely on a
@@ -428,7 +422,7 @@ For earlier assessment reports, only monthly data was retained.
  <p style="font-size:+1;font-style:Geneva"><A NAME="anchor1032161"></A><b>Observed Climate
  Data</b></p>
  
- <p><b><font SIZE="-1" FACE="Geneva">Q. Should I take 1961-90 or
+ <p style="font-size:-1;font-style:Geneva"><b><font SIZE="-1" FACE="Geneva">Q. Should I take 1961-90 or
  1990 as my baseline?</font></b></p>
  
  <p><b>A. </b>IPCC have usually taken the year '1990' as the baseline
@@ -561,17 +555,19 @@ For earlier assessment reports, only monthly data was retained.
  information regarding the IPCC, COP3 and the Kyoto Protocol or the UN FCCC you
  should visit the following sites:</p>
  
- <UL> <LI>for the IPCC home page: <A HREF="http://www.ipcc.ch/"
- TARGET="frame256263">http://www.ipcc.ch</A> <LI>for details regarding COP3 and
+ <UL>
+<li>for the IPCC home page: <A HREF="http://www.ipcc.ch/" TARGET="frame256263">http://www.ipcc.ch</A></li>
+<li>for details regarding COP3 and
  Kyoto Protocol: <A HREF="http://unfccc.int/cop3/resource/protintr.html"
- TARGET="frame256263">http://unfccc.int/cop3/home.html</A> <LI>for details
- regarding all other aspects of the UNFCCC see their <A
- HREF="http://unfccc.int/" TARGET="frame256263">home page</A> </UL>
+ TARGET="frame256263">http://unfccc.int/cop3/home.html</A></li>
+<li>for details regarding all other aspects of the UNFCCC see their <A
+ HREF="http://unfccc.int/" TARGET="frame256263">home page</A></li>
+</UL>
  
  <p><A HREF="#anchor559935" TARGET="gwp">Back to Top</A></p>
  
- <H5><font FACE="Geneva">Q. Where can I get information about Global Warming
- Potentials?</font></H5>
+ <H5>Q. Where can I get information about Global Warming
+ Potentials?</H5>
  
  There is a table of global warming potentials on p212 of the IPCC 4th
  Assessment Report, Working Group 1, chapter 2: <a
@@ -579,10 +575,9 @@ For earlier assessment reports, only monthly data was retained.
  Note that the value of the GWP is not uniquely defined, it depends on the
  choice of time horizon.
  
- <p><A NAME="anchormisc"></A><b><font SIZE="+1"
- FACE="Helvetica,Geneva,Arial">Miscellaneous</font></b></p>
+ <p><A NAME="anchormisc"></A><b><font SIZE="+1" FACE="Helvetica,Geneva,Arial">Miscellaneous</font></b></p>
  
- <h5><font FACE="Geneva">Q. Can you provide a sample URL for an image from the DDC WMS?</h5>
+ <h5>Q. Can you provide a sample URL for an image from the DDC WMS?</h5>
  
  <a href="/maps/wms/tar?FORMAT=image%2Fgif&VERSION=1.3.0&CRS=CRS%3A84&SERVICE=WMS&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&LAYERS=nies99%3Aa1%2Ftmp200&TIME=1984-1-15T0%3A0%3A0.0Z&SRS=EPSG%3A4326&BBOX=-180,-90,180,90&WIDTH=256&HEIGHT=256">Example WMS image request</a>
  
@@ -592,6 +587,4 @@ For earlier assessment reports, only monthly data was retained.
  
  <!-- End Main Text Box -->
  
- <p>&nbsp;</p>
- 
- <!-- end of center column --> </div> </td> </tr> <tr> <td> <!-- end c-block -->
+ <!-- end of center column -->  <!-- end c-block -->
