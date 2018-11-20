@@ -25,6 +25,7 @@ w3cValid: yes
    
    <p/>  The DDC is designed primarily for climate change researchers, but materials contained on the site may also be of interest to educators, governmental and non-governmental organisations, and the general public.
  
+ {% const first_constant %}
  </td>
 
 <td style="width:215px;height:1px;" valign="top">
