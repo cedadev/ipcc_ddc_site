@@ -85,14 +85,6 @@ Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: 
 </table>
 
 <br/>
-<h2> <a name="anim">Animation</a></h2>
-
-  The NIES group have published an animation of their A1B projection, with a commentary, which
-     can be downloaded <a href="http://www.team-6.jp/cc-sim/english/">here</a>.
-<br/>
-<br/>
-
-<br/>
 
 <h2>Anomalies</h2>
 
@@ -283,7 +275,7 @@ start of the experiment for the pre-industrial control (PICTL) and the
       <a href="/ar4/info/NIES-MIROC3_2-HI_SRB1_vas.html">info</a></td>
 </tr>
 </table>
-</div>
+
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>
