@@ -230,7 +230,6 @@ start of the experiment for the pre-industrial control (PICTL) and the
       <a href="/ar4/info/NIES-MIROC3_2-MED_SRA2_tasmin.html">info</a></td>
 </tr>
 </table>
-</div>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>
