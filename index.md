@@ -45,7 +45,15 @@ w3cValid: yes
 
      </td>
      <td style="width:215px;height:1px;" valign="top">
-<!--#include virtual="/ssi12/right-col/homeHighlights.html" -->
+       <div id="latestnews" align="left">
+        <h2 align="center">Highlights</h2>
+          <p>
+          <a href="docs/factsheets/TGICA_Fact_Sheet_CMIP5_data_provided_at_the_IPCC_DDC_Ver_1_2016.pdf">Factsheet</a> on CMIP5 data in the DDC.
+          </p>
+          <p>
+          <a href="ddc/user_surveys.html">Results</a> from the 2015 user survey.
+          </p>
+       </div>
      </td>
      </tr>
      <tr >
