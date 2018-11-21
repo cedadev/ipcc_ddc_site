@@ -54,7 +54,7 @@ logos: ssi12/logos/badc.html
  
  <p><b>Viewing and availability</b></p>
  <p> Selected fields and time series from this climatology can be viewed through the
- <a href="/maps/">Data Visualisation pages of the DDC</a>. <a href="get_10yr_means.html">Decadal-mean</a> 
+ <a href="http://apps.ipcc-data.org/maps/">Data Visualisation pages of the DDC</a>. <a href="get_10yr_means.html">Decadal-mean</a> 
  and <a href="get_30yr_means.html">30-year mean</a> monthly fields can also be downloaded.
  Monthly data can be obtained from the Climatic Research Unit <a href="http://www.cru.uea.ac.uk/cru/data/hrg">high resolution data</a> page.
  </p>
