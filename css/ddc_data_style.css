@@ -1,0 +1,52 @@
+
+/* Right-hand Column Layout (floating) */
+#rh-col-data {
+   position:relative;
+   float:right;
+   width:13em;
+   color: #006600;
+   background: #dddddd;
+   }
+
+ 
+#lh-col-data {
+   position:relative;
+   float:left;
+   width:13em;
+   color: #006600;
+   background: #dddddd;
+   }
+
+ 
+
+.data-table {
+   position:relative;
+   left:.7em;
+   border:1;
+   width:75%;
+   align: center;
+   padding: 1px;
+   background-color: #ccccff;
+   }
+
+
+.data-table-col1 { background-color: #ffffcc; border: solid; border-color: #99aa99; padding: 5px; }
+.data-table-item { background-color: #ccccff; border: solid; border-color: #99aa99; padding: 5px; }
+.data-table-empty { background-color: #ffcccc; padding: 3px; align:center; }
+ 
+
+.meta-data-table {
+   position:relative;
+   width:60%;
+   left:.7em;
+   border:4;
+   align: center;
+   padding: 1px;
+   background-color: #00ff00;
+   }
+
+
+.meta-data-table tr { padding: 5px; margin: 5px;  background-color: #bbbbee; }
+
+/* .meta-table-col1 { background-color: #ffffcc; border: solid; border-color: #333333; padding: 5px; } */
+.meta-table-col1 { background-color: #ffffcc; padding: 5px; } */
