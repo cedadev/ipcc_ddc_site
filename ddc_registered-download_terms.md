@@ -17,7 +17,7 @@ logos: ssi12/logos/All.html
 
 <h2>Privacy</h2>
 
- We collect no personal information about you when you visit this Web site, unless otherwise stated or unless you choose to provide this information to us. However, we collect and store certain information automatically. What we collect and store automatically is:
+ <p>We collect no personal information about you when you visit this Web site, unless otherwise stated or unless you choose to provide this information to us. However, we collect and store certain information automatically. What we collect and store automatically is:</p>
 
 <ul>
 <li> The Internet Protocol (IP) address of the domain from which you access the Internet (e.g., 123.456.789.012) whether yours individually or provided as a proxy by your Internet Service Provider (ISP)</li>
@@ -26,8 +26,8 @@ logos: ssi12/logos/All.html
 <li> And, the Internet address of the Web site from which you linked directly to our site. </li>
 </ul>
 
-    We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
+<p>We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.</p>
 
-      This information is not shared with anyone beyond the support staff to this Web site,
+<p>This information is not shared with anyone beyond the support staff to this Web site,
       except when required by law enforcement investigation, and is used only as a source
-      of anonymous statistical information.
+      of anonymous statistical information.</p>

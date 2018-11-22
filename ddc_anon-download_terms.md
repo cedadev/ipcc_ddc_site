@@ -16,10 +16,10 @@ logos: ssi12/logos/All.html
 
 <h2>Proper use of data</h2>
 
-Access to this data is free and unrestricted. If the data is to be used for any publication
-we encourage registration, so that you may be notified of any changes. 
+<p>Access to this data is free and unrestricted. If the data is to be used for any publication
+we encourage registration, so that you may be notified of any changes. </p>
 
-When the data is used in publications, proper credit should be given to the data producers.
+<p>When the data is used in publications, proper credit should be given to the data producers.</p>
 
 <h2>Privacy</h2>
 
@@ -32,8 +32,8 @@ When the data is used in publications, proper credit should be given to the data
 <li> And, the Internet address of the Web site from which you linked directly to our site.</li>
 </ul>
 
-                 We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.
+<p>We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas.</p>
 
-      This information is not shared with anyone beyond the support staff to this Web site,
-      except when required by law enforcement investigation, and is used only as a source
-      of anonymous statistical information. 
+      <p>This information is not shared with anyone beyond the support staff to this Web site,
+except when required by law enforcement investigation, and is used only as a source
+of anonymous statistical information. </p>

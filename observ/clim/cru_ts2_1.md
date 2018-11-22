@@ -27,8 +27,8 @@ logos: ssi12/logos/badc.html
  
  <h3>Data access</h3>
  
- Select the time period, variable and format in the 3 columns of the table, and then click on `Get Data' or
- `View Metadata' to respectively, download the file or see more information about the file contents.
+ Select the time period, variable and format in the 3 columns of the table, and then click on &lsquo;Get Data&rsquo; or
+ &lsquo;View Metadata&rsquo; to respectively, download the file or see more information about the file contents.
  
  <center>
 <form name="cruts21" action="/cgi-bin/downl_form/cruts21" method="get">
