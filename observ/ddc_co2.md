@@ -23,8 +23,8 @@ logos: ssi12/logos/badc.html
  <a class="ipcc" href="http://www.ipcc.ch/ipccreports/sres/emission/index.htm">SRES report</a> discusses emissions projections
  produced by a range of Integrated Assessment Models for a range of
  socio-economic storylines.
- Four `marker scenarios' are recommended as the 
- basis of climate model projections, together with two further `illustrative scenarios':
+ Four &lsquo;marker scenarios&rsquo; are recommended as the 
+ basis of climate model projections, together with two further &lsquo;illustrative scenarios&rsquo;:
  <table border="1" cellpadding="2" cellspacing="2" align="center">
  <tr><td>Storyline</td><td>Integrated Assessment Model</td> <td>Status</td></tr>
  <tr><td><a class="ipcc" href="/sim/gcm_clim/SRES_TAR/ddc_sres_emissions.html#a1b">A1 (A1B)</a></td><td>AIM</td><td>Marker</td></tr>
