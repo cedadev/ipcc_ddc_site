@@ -134,78 +134,78 @@ start of the experiment for the pre-industrial control (PICTL) and the
 </tr>
 <tr><td class="data-table-col1"><a href="var-precipitation_flux.html">precipitation flux</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO2X_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO2X_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO2X_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO2X_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO2X_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO2X_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO2X_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO4X_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO4X_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO4X_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO4X_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO4X_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_1PTO4X_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO4X_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_SRB1_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/BCCM1_SRB1_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_SRB1_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/BCCM1_SRB1_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_SRB1_pr.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_pressure_at_sea_level.html">air pressure at sea<br/> level</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO2X_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO2X_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO2X_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO2X_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO2X_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO2X_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO2X_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO4X_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO4X_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO4X_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO4X_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO4X_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_1PTO4X_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO4X_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_SRB1_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/BCCM1_SRB1_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_SRB1_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/BCCM1_SRB1_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_SRB1_psl.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature.html">air temperature</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO2X_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO2X_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO2X_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO2X_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO2X_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO2X_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO2X_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO4X_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO4X_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO4X_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO4X_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO4X_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_1PTO4X_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO4X_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_SRB1_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/BCCM1_SRB1_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_SRB1_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/BCCM1_SRB1_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_SRB1_tas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-eastward_wind.html">eastward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO2X_uas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO2X_uas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO2X_uas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO2X_uas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO2X_uas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO2X_uas_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO2X_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO4X_uas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO4X_uas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO4X_uas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO4X_uas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO4X_uas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_1PTO4X_uas_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO4X_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_SRB1_uas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/BCCM1_SRB1_uas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_SRB1_uas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/BCCM1_SRB1_uas_c30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_SRB1_uas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-northward_wind.html">northward wind</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/BCCM1_1PTO4X_vas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/BCCM1_1PTO4X_vas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/BCCM1_1PTO4X_vas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/BCCM1_1PTO4X_vas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/BCCM1_1PTO4X_vas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/BCCM1_1PTO4X_vas_oc30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_1PTO4X_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/BCCM1_SRB1_vas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/BCCM1_SRB1_vas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/BCCM1_SRB1_vas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/BCCM1_SRB1_vas_c30b.tar">30b</a>;
       <a href="/ar4/info/BCC-CM1_SRB1_vas.html">info</a></td>
 </tr>
 </table>

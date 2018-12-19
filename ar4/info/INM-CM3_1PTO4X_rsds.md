@@ -41,60 +41,60 @@ Period covered by experiment: 1871 to 2160<br/>
 Time periods are in years from the start of the experiment<br/>
 Standard name: surface_downwelling_shortwave_flux_in_air (Anomaly)<br>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0011-0030.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0011-0030.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0011-0030.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0011-0030.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0011-0030.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0046-0065.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0046-0065.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0046-0065.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0046-0065.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0046-0065.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0080-0099.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0080-0099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0080-0099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0080-0099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0080-0099.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0180-0199.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0180-0199.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0180-0199.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0180-0199.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0180-0199.cyto180.nc"> Lon180</a><br/>
 <br/><h2>INCM3_1PTO4X_rsds-change_oc30a.tar</h2>
 Time periods are in years from the start of the experiment<br/>
 Standard name: surface_downwelling_shortwave_flux_in_air (Anomaly)<br>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0001-0030.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0001-0030.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0001-0030.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0001-0030.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0001-0030.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0031-0060.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0031-0060.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0031-0060.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0031-0060.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0031-0060.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0061-0090.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0061-0090.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0061-0090.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0061-0090.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0061-0090.cyto180.nc"> Lon180</a><br/>
 <br/><h2>INCM3_1PTO4X_rsds-change_oc30b.tar</h2>
 Time periods are in years from the start of the experiment<br/>
 Standard name: surface_downwelling_shortwave_flux_in_air (Anomaly)<br>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0010-0039.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0010-0039.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0010-0039.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0010-0039.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0010-0039.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0040-0069.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0040-0069.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0040-0069.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0040-0069.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0040-0069.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds-change_o0070-0099.nc [159196 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0070-0099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0070-0099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0070-0099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds-change_o0070-0099.cyto180.nc"> Lon180</a><br/>
 <br/><h2>INCM3_1PTO4X_rsds_oc20x.tar</h2>
 Time periods are in years from the start of the experiment<br/>
 Standard name: surface_downwelling_shortwave_flux_in_air<br>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0011-0030.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0011-0030.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0011-0030.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0011-0030.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0011-0030.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0046-0065.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0046-0065.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0046-0065.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0046-0065.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0046-0065.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0080-0099.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0080-0099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0080-0099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0080-0099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0080-0099.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0180-0199.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0180-0199.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0180-0199.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0180-0199.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0180-0199.cyto180.nc"> Lon180</a><br/>
 <br/><h2>INCM3_1PTO4X_rsds_oc30a.tar</h2>
 Time periods are in years from the start of the experiment<br/>
 Standard name: surface_downwelling_shortwave_flux_in_air<br>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0001-0030.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0001-0030.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0001-0030.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0001-0030.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0001-0030.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0031-0060.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0031-0060.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0031-0060.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0031-0060.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0031-0060.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0061-0090.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0061-0090.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0061-0090.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0061-0090.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0061-0090.cyto180.nc"> Lon180</a><br/>
 <br/><h2>INCM3_1PTO4X_rsds_oc30b.tar</h2>
 Time periods are in years from the start of the experiment<br/>
 Standard name: surface_downwelling_shortwave_flux_in_air<br>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0010-0039.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0010-0039.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0010-0039.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0010-0039.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0010-0039.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0040-0069.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0040-0069.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0040-0069.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0040-0069.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0040-0069.cyto180.nc"> Lon180</a><br/>
 <br/><h3>INCM3_1PTO4X_1_rsds_o0070-0099.nc [159060 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0070-0099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0070-0099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0070-0099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/INCM3_1PTO4X_1_rsds_o0070-0099.cyto180.nc"> Lon180</a><br/>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>

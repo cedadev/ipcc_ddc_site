@@ -87,7 +87,7 @@ Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: 
     Further details from <a href="http://www-pcmdi.llnl.gov/ipcc/model_documentation/ipcc_model_documentation.php">
           the pcmdi model documentation page</a>
 <br/>
-<br/>Land sea mask: <a href="/cgi-bin/downl/ar4_nc/sftlf/GIEH_sftlf.nc">netcdf</a><br/>
+<br/>Land sea mask: <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/sftlf/GIEH_sftlf.nc">netcdf</a><br/>
 <h2> Data Tables</h2>
 
 Each block in the table contains links to one or more data files and
@@ -132,135 +132,135 @@ start of the experiment for the pre-industrial control (PICTL) and the
 </tr>
 <tr><td class="data-table-col1"><a href="var-specific_humidity.html">specific humidity</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_1PTO2X_huss_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_1PTO2X_huss_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_1PTO2X_huss_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_1PTO2X_huss_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_1PTO2X_huss_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_1PTO2X_huss_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_20C3M_huss_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_20C3M_huss_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_PICTL_huss_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_PICTL_huss_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_PICTL_huss_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_PICTL_huss_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_PICTL_huss_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_PICTL_huss_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_SRA1B_huss_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/GIEH_SRA1B_huss_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_SRA1B_huss_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIEH_SRA1B_huss_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_huss.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-precipitation_flux.html">precipitation flux</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_1PTO2X_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_1PTO2X_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_1PTO2X_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_1PTO2X_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_1PTO2X_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_1PTO2X_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_20C3M_pr_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_20C3M_pr_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_PICTL_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_PICTL_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_PICTL_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_PICTL_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_PICTL_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_PICTL_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_SRA1B_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/GIEH_SRA1B_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_SRA1B_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/GIEH_SRA1B_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_pr.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_pressure_at_sea_level.html">air pressure at sea<br/> level</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_1PTO2X_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_1PTO2X_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_1PTO2X_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_1PTO2X_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_1PTO2X_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_1PTO2X_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_20C3M_psl_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_20C3M_psl_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_PICTL_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_PICTL_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_PICTL_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_PICTL_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_PICTL_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_PICTL_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_SRA1B_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/GIEH_SRA1B_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_SRA1B_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/GIEH_SRA1B_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_psl.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-surface_downwelling_shortwave_flux_in_air.html">surface downwelling<br/> shortwave flux in air</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_1PTO2X_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_1PTO2X_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_1PTO2X_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_1PTO2X_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_1PTO2X_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_1PTO2X_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_20C3M_rsds_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_20C3M_rsds_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_PICTL_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_PICTL_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_PICTL_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_PICTL_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_PICTL_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_PICTL_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_SRA1B_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/GIEH_SRA1B_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_SRA1B_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/GIEH_SRA1B_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_rsds.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature.html">air temperature</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_1PTO2X_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_1PTO2X_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_1PTO2X_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_1PTO2X_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_1PTO2X_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_1PTO2X_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_20C3M_tas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_20C3M_tas_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_PICTL_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_PICTL_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_PICTL_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_PICTL_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_PICTL_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_PICTL_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_SRA1B_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/GIEH_SRA1B_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_SRA1B_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/GIEH_SRA1B_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_tas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-eastward_wind.html">eastward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_1PTO2X_uas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_1PTO2X_uas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_1PTO2X_uas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_1PTO2X_uas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_1PTO2X_uas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_1PTO2X_uas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_20C3M_uas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_20C3M_uas_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_PICTL_uas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_PICTL_uas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_PICTL_uas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_PICTL_uas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_PICTL_uas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_PICTL_uas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_SRA1B_uas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/GIEH_SRA1B_uas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_SRA1B_uas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/GIEH_SRA1B_uas_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_uas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-northward_wind.html">northward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_1PTO2X_vas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_1PTO2X_vas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_1PTO2X_vas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_1PTO2X_vas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_1PTO2X_vas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_1PTO2X_vas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_1PTO2X_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_20C3M_vas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_20C3M_vas_c30a.tar">30a</a>;
       <a href="/ar4/info/NASA-GISS-EH_20C3M_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_PICTL_vas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_PICTL_vas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_PICTL_vas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_PICTL_vas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_PICTL_vas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_PICTL_vas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_PICTL_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_SRA1B_vas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/GIEH_SRA1B_vas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_SRA1B_vas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/GIEH_SRA1B_vas_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-EH_SRA1B_vas.html">info</a></td>
 </tr>
 </table>

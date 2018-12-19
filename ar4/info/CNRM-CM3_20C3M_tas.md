@@ -42,11 +42,11 @@ Period covered by experiment: 1860 to 1999<br/>
 <br/><h2>CNCM3_20C3M_tas_c30a.tar</h2>
 Standard name: air_temperature<br>
 <br/><h3>CNCM3_20C3M_1_tas_1901-1930.nc [397564 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1901-1930.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1901-1930.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/tas/CNCM3_20C3M_1_tas_1901-1930.zip">Gis GeoTiff format; </a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1901-1930.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1901-1930.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/tas/CNCM3_20C3M_1_tas_1901-1930.zip">Gis GeoTiff format; </a><br/>
 <br/><h3>CNCM3_20C3M_1_tas_1931-1960.nc [397564 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1931-1960.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1931-1960.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/tas/CNCM3_20C3M_1_tas_1931-1960.zip">Gis GeoTiff format; </a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1931-1960.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1931-1960.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/tas/CNCM3_20C3M_1_tas_1931-1960.zip">Gis GeoTiff format; </a><br/>
 <br/><h3>CNCM3_20C3M_1_tas_1961-1990.nc [397564 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1961-1990.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1961-1990.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/tas/CNCM3_20C3M_1_tas_1961-1990.zip">Gis GeoTiff format; </a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1961-1990.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CNCM3_20C3M_1_tas_1961-1990.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/tas/CNCM3_20C3M_1_tas_1961-1990.zip">Gis GeoTiff format; </a><br/>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>

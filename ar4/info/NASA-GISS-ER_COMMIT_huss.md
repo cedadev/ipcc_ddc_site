@@ -40,51 +40,51 @@ Period covered by experiment: 1880 to 2100<br/>
 <br/><h2>GIER_COMMIT_huss-change_c20x.tar</h2>
 Standard name: specific_humidity (Anomaly)<br>
 <br/><h3>GIER_COMMIT_1_huss-change_2011-2030.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2011-2030.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2011-2030.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2011-2030.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2011-2030.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss-change_2046-2065.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2046-2065.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2046-2065.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2046-2065.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2046-2065.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss-change_2080-2099.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2080-2099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2080-2099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2080-2099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2080-2099.cyto180.nc"> Lon180</a><br/>
 <br/><h2>GIER_COMMIT_huss-change_c30a.tar</h2>
 Standard name: specific_humidity (Anomaly)<br>
 <br/><h3>GIER_COMMIT_1_huss-change_1901-1930.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1901-1930.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1901-1930.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1901-1930.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1901-1930.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss-change_1931-1960.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1931-1960.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1931-1960.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1931-1960.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1931-1960.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss-change_1961-1990.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1961-1990.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1961-1990.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1961-1990.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_1961-1990.cyto180.nc"> Lon180</a><br/>
 <br/><h2>GIER_COMMIT_huss-change_c30b.tar</h2>
 Standard name: specific_humidity (Anomaly)<br>
 <br/><h3>GIER_COMMIT_1_huss-change_2010-2039.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2010-2039.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2010-2039.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2010-2039.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2010-2039.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss-change_2040-2069.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2040-2069.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2040-2069.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2040-2069.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2040-2069.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss-change_2070-2099.nc [162588 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2070-2099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2070-2099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2070-2099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss-change_2070-2099.cyto180.nc"> Lon180</a><br/>
 <br/><h2>GIER_COMMIT_huss_c20x.tar</h2>
 Standard name: specific_humidity<br>
 <br/><h3>GIER_COMMIT_1_huss_2011-2030.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2011-2030.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2011-2030.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2011-2030.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2011-2030.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss_2046-2065.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2046-2065.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2046-2065.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2046-2065.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2046-2065.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss_2080-2099.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2080-2099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2080-2099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2080-2099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2080-2099.cyto180.nc"> Lon180</a><br/>
 <br/><h2>GIER_COMMIT_huss_c30a.tar</h2>
 Standard name: specific_humidity<br>
 <br/><h3>GIER_COMMIT_1_huss_1901-1930.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1901-1930.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1901-1930.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1901-1930.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1901-1930.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss_1931-1960.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1931-1960.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1931-1960.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1931-1960.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1931-1960.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss_1961-1990.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1961-1990.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1961-1990.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1961-1990.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_1961-1990.cyto180.nc"> Lon180</a><br/>
 <br/><h2>GIER_COMMIT_huss_c30b.tar</h2>
 Standard name: specific_humidity<br>
 <br/><h3>GIER_COMMIT_1_huss_2010-2039.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2010-2039.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2010-2039.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2010-2039.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2010-2039.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss_2040-2069.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2040-2069.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2040-2069.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2040-2069.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2040-2069.cyto180.nc"> Lon180</a><br/>
 <br/><h3>GIER_COMMIT_1_huss_2070-2099.nc [162448 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2070-2099.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2070-2099.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2070-2099.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/GIER_COMMIT_1_huss_2070-2099.cyto180.nc"> Lon180</a><br/>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>

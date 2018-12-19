@@ -94,7 +94,7 @@ Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: 
     Further details from <a href="http://www-pcmdi.llnl.gov/ipcc/model_documentation/ipcc_model_documentation.php">
           the pcmdi model documentation page</a>
 <br/>
-<br/>Land sea mask: <a href="/cgi-bin/downl/ar4_nc/sftlf/NCPCM_sftlf.nc">netcdf</a><br/>
+<br/>Land sea mask: <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/sftlf/NCPCM_sftlf.nc">netcdf</a><br/>
 <h2> Data Tables</h2>
 
 Each block in the table contains links to one or more data files and
@@ -141,116 +141,116 @@ start of the experiment for the pre-industrial control (PICTL) and the
 </tr>
 <tr><td class="data-table-col1"><a href="var-precipitation_flux.html">precipitation flux</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_1PTO2X_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_1PTO2X_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_1PTO2X_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_1PTO2X_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_1PTO2X_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_1PTO2X_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO2X_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_20C3M_pr_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_20C3M_pr_c30a.tar">30a</a>;
       <a href="/ar4/info/NCAR-PCM_20C3M_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_PICTL_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_PICTL_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_PICTL_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_PICTL_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_PICTL_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_PICTL_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_PICTL_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA1B_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA1B_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA1B_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA1B_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA1B_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA2_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA2_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA2_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/NCPCM_SRA2_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA2_pr.html">info</a></td>
       <td class="data-table-empty">--</td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_pressure_at_sea_level.html">air pressure at sea<br/> level</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO2X_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO2X_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO2X_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO2X_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO2X_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO2X_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO2X_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_20C3M_psl_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_20C3M_psl_c30a.tar">30a</a>;
       <a href="/ar4/info/NCAR-PCM_20C3M_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_PICTL_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_PICTL_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_PICTL_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_PICTL_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_PICTL_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_PICTL_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_PICTL_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA1B_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA1B_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA1B_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA1B_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA1B_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA2_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA2_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA2_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_SRA2_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA2_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO4X_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO4X_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO4X_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO4X_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO4X_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/NCPCM_1PTO4X_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO4X_psl.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-surface_downwelling_shortwave_flux_in_air.html">surface downwelling<br/> shortwave flux in air</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO2X_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO2X_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO2X_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO2X_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO2X_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO2X_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO2X_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_20C3M_rsds_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_20C3M_rsds_c30a.tar">30a</a>;
       <a href="/ar4/info/NCAR-PCM_20C3M_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_PICTL_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_PICTL_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_PICTL_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_PICTL_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_PICTL_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_PICTL_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_PICTL_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA1B_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA1B_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA1B_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA1B_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA1B_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA2_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA2_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA2_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_SRA2_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA2_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO4X_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO4X_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO4X_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO4X_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO4X_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/NCPCM_1PTO4X_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO4X_rsds.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature.html">air temperature</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO2X_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO2X_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO2X_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO2X_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO2X_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO2X_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO2X_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_20C3M_tas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_20C3M_tas_c30a.tar">30a</a>;
       <a href="/ar4/info/NCAR-PCM_20C3M_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_PICTL_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_PICTL_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_PICTL_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_PICTL_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_PICTL_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_PICTL_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_PICTL_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA1B_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA1B_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA1B_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA1B_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA1B_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA2_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA2_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA2_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_SRA2_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_SRA2_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO4X_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO4X_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO4X_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO4X_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO4X_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/NCPCM_1PTO4X_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/NCAR-PCM_1PTO4X_tas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature_daily_max.html">air temperature daily<br/> max</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tasmax/NCPCM_20C3M_tasmax_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmax/NCPCM_20C3M_tasmax_c30a.tar">30a</a>;
       <a href="/ar4/info/NCAR-PCM_20C3M_tasmax.html">info</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-empty">--</td>
@@ -260,7 +260,7 @@ start of the experiment for the pre-industrial control (PICTL) and the
 <tr><td class="data-table-col1"><a href="var-air_temperature_daily_min.html">air temperature daily<br/> min</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tasmin/NCPCM_20C3M_tasmin_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmin/NCPCM_20C3M_tasmin_c30a.tar">30a</a>;
       <a href="/ar4/info/NCAR-PCM_20C3M_tasmin.html">info</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-empty">--</td>

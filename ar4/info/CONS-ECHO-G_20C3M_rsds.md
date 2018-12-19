@@ -40,11 +40,11 @@ Period covered by experiment: 1860 to 2000<br/>
 <br/><h2>ECHOG_20C3M_rsds_c30a.tar</h2>
 Standard name: surface_downwelling_shortwave_flux_in_air<br>
 <br/><h3>ECHOG_20C3M_1_rsds_1901-1930.nc [225048 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1901-1930.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1901-1930.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1901-1930.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1901-1930.cyto180.nc"> Lon180</a><br/>
 <br/><h3>ECHOG_20C3M_1_rsds_1931-1960.nc [225048 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1931-1960.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1931-1960.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1931-1960.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1931-1960.cyto180.nc"> Lon180</a><br/>
 <br/><h3>ECHOG_20C3M_1_rsds_1961-1990.nc [225048 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1961-1990.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1961-1990.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1961-1990.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/ECHOG_20C3M_1_rsds_1961-1990.cyto180.nc"> Lon180</a><br/>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>

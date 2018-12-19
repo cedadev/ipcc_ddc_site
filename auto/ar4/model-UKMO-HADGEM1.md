@@ -82,7 +82,7 @@ Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: 
     Further details from <a href="http://www-pcmdi.llnl.gov/ipcc/model_documentation/ipcc_model_documentation.php">
           the pcmdi model documentation page</a>
 <br/>
-<br/>Land sea mask: <a href="/cgi-bin/downl/ar4_nc/sftlf/HADGEM_sftlf.nc">netcdf</a><br/>
+<br/>Land sea mask: <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/sftlf/HADGEM_sftlf.nc">netcdf</a><br/>
 <h2> Data Tables</h2>
 
 Each block in the table contains links to one or more data files and
@@ -128,140 +128,140 @@ start of the experiment for the pre-industrial control (PICTL) and the
 </tr>
 <tr><td class="data-table-col1"><a href="var-precipitation_flux.html">precipitation flux</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_1PTO2X_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_1PTO2X_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_1PTO2X_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_1PTO2X_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_1PTO2X_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_1PTO2X_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_1PTO2X_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_20C3M_pr_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_20C3M_pr_c30a.tar">30a</a>;
       <a href="/ar4/info/UKMO-HADGEM1_20C3M_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_PICTL_pr_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_PICTL_pr_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_PICTL_pr_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_PICTL_pr_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_PICTL_pr_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_PICTL_pr_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_PICTL_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA1B_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA1B_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA1B_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA1B_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA1B_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA2_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA2_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA2_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/HADGEM_SRA2_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA2_pr.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_pressure_at_sea_level.html">air pressure at sea<br/> level</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_1PTO2X_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_1PTO2X_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_1PTO2X_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_1PTO2X_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_1PTO2X_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_1PTO2X_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_1PTO2X_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_20C3M_psl_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_20C3M_psl_c30a.tar">30a</a>;
       <a href="/ar4/info/UKMO-HADGEM1_20C3M_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_PICTL_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_PICTL_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_PICTL_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_PICTL_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_PICTL_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_PICTL_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_PICTL_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA1B_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA1B_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA1B_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA1B_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA1B_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA2_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA2_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA2_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/HADGEM_SRA2_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA2_psl.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-surface_downwelling_shortwave_flux_in_air.html">surface downwelling<br/> shortwave flux in air</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_1PTO2X_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_1PTO2X_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_1PTO2X_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_1PTO2X_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_1PTO2X_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_1PTO2X_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_1PTO2X_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_20C3M_rsds_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_20C3M_rsds_c30a.tar">30a</a>;
       <a href="/ar4/info/UKMO-HADGEM1_20C3M_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_PICTL_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_PICTL_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_PICTL_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_PICTL_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_PICTL_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_PICTL_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_PICTL_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA1B_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA1B_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA1B_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA1B_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA1B_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA2_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA2_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA2_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/HADGEM_SRA2_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA2_rsds.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature.html">air temperature</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_1PTO2X_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_1PTO2X_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_1PTO2X_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_1PTO2X_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_1PTO2X_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_1PTO2X_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_1PTO2X_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_20C3M_tas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_20C3M_tas_c30a.tar">30a</a>;
       <a href="/ar4/info/UKMO-HADGEM1_20C3M_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_PICTL_tas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_PICTL_tas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_PICTL_tas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_PICTL_tas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_PICTL_tas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_PICTL_tas_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_PICTL_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA1B_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA1B_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA1B_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA1B_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA1B_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA2_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA2_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA2_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/HADGEM_SRA2_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA2_tas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-eastward_wind.html">eastward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_1PTO2X_uas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_1PTO2X_uas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_1PTO2X_uas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_1PTO2X_uas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_1PTO2X_uas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_1PTO2X_uas_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_1PTO2X_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_20C3M_uas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_20C3M_uas_c30a.tar">30a</a>;
       <a href="/ar4/info/UKMO-HADGEM1_20C3M_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_PICTL_uas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_PICTL_uas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_PICTL_uas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_PICTL_uas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_PICTL_uas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_PICTL_uas_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_PICTL_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA1B_uas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA1B_uas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA1B_uas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA1B_uas_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA1B_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA2_uas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA2_uas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA2_uas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/HADGEM_SRA2_uas_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA2_uas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-northward_wind.html">northward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_1PTO2X_vas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_1PTO2X_vas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_1PTO2X_vas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_1PTO2X_vas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_1PTO2X_vas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_1PTO2X_vas_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_1PTO2X_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_20C3M_vas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_20C3M_vas_c30a.tar">30a</a>;
       <a href="/ar4/info/UKMO-HADGEM1_20C3M_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_PICTL_vas_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_PICTL_vas_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_PICTL_vas_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_PICTL_vas_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_PICTL_vas_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_PICTL_vas_oc30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_PICTL_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA1B_vas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA1B_vas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA1B_vas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA1B_vas_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA1B_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA2_vas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA2_vas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA2_vas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/HADGEM_SRA2_vas_c30b.tar">30b</a>;
       <a href="/ar4/info/UKMO-HADGEM1_SRA2_vas.html">info</a></td>
 </tr>
 </table>

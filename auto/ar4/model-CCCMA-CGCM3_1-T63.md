@@ -127,112 +127,112 @@ start of the experiment for the pre-industrial control (PICTL) and the
 </tr>
 <tr><td class="data-table-col1"><a href="var-specific_humidity.html">specific humidity</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_20C3M_huss_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_20C3M_huss_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_PICTL_huss_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_PICTL_huss_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_PICTL_huss_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_PICTL_huss_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_PICTL_huss_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_PICTL_huss_oc30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_PICTL_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_SRA1B_huss_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_SRA1B_huss_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_SRA1B_huss_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_SRA1B_huss_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_SRB1_huss_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss/CGHR_SRB1_huss_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_SRB1_huss_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss/CGHR_SRB1_huss_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_huss.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-precipitation_flux.html">precipitation flux</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/CGHR_20C3M_pr_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/CGHR_20C3M_pr_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_pr.html">info</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/CGHR_SRA1B_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/CGHR_SRA1B_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/CGHR_SRA1B_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/CGHR_SRA1B_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr/CGHR_SRB1_pr_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr/CGHR_SRB1_pr_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/CGHR_SRB1_pr_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/CGHR_SRB1_pr_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_pr.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_pressure_at_sea_level.html">air pressure at sea<br/> level</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_20C3M_psl_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_20C3M_psl_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_PICTL_psl_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_PICTL_psl_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_PICTL_psl_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_PICTL_psl_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_PICTL_psl_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_PICTL_psl_oc30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_PICTL_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_SRA1B_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_SRA1B_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_SRA1B_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_SRA1B_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_SRB1_psl_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl/CGHR_SRB1_psl_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_SRB1_psl_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl/CGHR_SRB1_psl_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_psl.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-surface_downwelling_shortwave_flux_in_air.html">surface downwelling<br/> shortwave flux in air</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_20C3M_rsds_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_20C3M_rsds_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_PICTL_rsds_oc20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_PICTL_rsds_oc30a.tar">30a</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_PICTL_rsds_oc30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_PICTL_rsds_oc20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_PICTL_rsds_oc30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_PICTL_rsds_oc30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_PICTL_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_SRA1B_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_SRA1B_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_SRA1B_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_SRA1B_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_SRB1_rsds_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds/CGHR_SRB1_rsds_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_SRB1_rsds_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds/CGHR_SRB1_rsds_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_rsds.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature.html">air temperature</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/CGHR_20C3M_tas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CGHR_20C3M_tas_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_tas.html">info</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/CGHR_SRA1B_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/CGHR_SRA1B_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CGHR_SRA1B_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CGHR_SRA1B_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas/CGHR_SRB1_tas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas/CGHR_SRB1_tas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CGHR_SRB1_tas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas/CGHR_SRB1_tas_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_tas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-eastward_wind.html">eastward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/CGHR_20C3M_uas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/CGHR_20C3M_uas_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_uas.html">info</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/CGHR_SRA1B_uas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/CGHR_SRA1B_uas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/CGHR_SRA1B_uas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/CGHR_SRA1B_uas_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas/CGHR_SRB1_uas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas/CGHR_SRB1_uas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/CGHR_SRB1_uas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/CGHR_SRB1_uas_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_uas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-northward_wind.html">northward wind</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/CGHR_20C3M_vas_c30a.tar">30a</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/CGHR_20C3M_vas_c30a.tar">30a</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_20C3M_vas.html">info</a></td>
       <td class="data-table-empty">--</td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/CGHR_SRA1B_vas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/CGHR_SRA1B_vas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/CGHR_SRA1B_vas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/CGHR_SRA1B_vas_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRA1B_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas/CGHR_SRB1_vas_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas/CGHR_SRB1_vas_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/CGHR_SRB1_vas_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas/CGHR_SRB1_vas_c30b.tar">30b</a>;
       <a href="/ar4/info/CCCMA-CGCM3_1-T63_SRB1_vas.html">info</a></td>
 </tr>
 </table>

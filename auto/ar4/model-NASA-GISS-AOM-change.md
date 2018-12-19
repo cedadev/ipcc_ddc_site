@@ -90,7 +90,7 @@ the 1961-1990 mean of the 20th century simulation, 20C3M. Anomalies for the
     Further details from <a href="http://www-pcmdi.llnl.gov/ipcc/model_documentation/ipcc_model_documentation.php">
           the pcmdi model documentation page</a>
 <br/>
-<br/>Land sea mask: <a href="/cgi-bin/downl/ar4_nc/sftlf/GIAOM_sftlf.nc">netcdf</a><br/>
+<br/>Land sea mask: <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/sftlf/GIAOM_sftlf.nc">netcdf</a><br/>
 <h2> Data Tables</h2>
 
 Each block in the table contains links to one or more data files and
@@ -133,92 +133,92 @@ start of the experiment for the pre-industrial control (PICTL) and the
 </tr>
 <tr><td class="data-table-col1"><a href="var-specific_humidity-change.html">specific<br/> humidity (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRA1B_huss-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRA1B_huss-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRA1B_huss-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRA1B_huss-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_huss.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRB1_huss-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRB1_huss-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRB1_huss-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/huss-change/GIAOM_SRB1_huss-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_huss.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-precipitation_flux-change.html">precipitation<br/> flux (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRA1B_pr-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRA1B_pr-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRA1B_pr-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRA1B_pr-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_pr.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRB1_pr-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRB1_pr-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRB1_pr-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr-change/GIAOM_SRB1_pr-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_pr.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_pressure_at_sea_level-change.html">air pressure at sea<br/> level (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRA1B_psl-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRA1B_psl-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRA1B_psl-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRA1B_psl-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_psl.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRB1_psl-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRB1_psl-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRB1_psl-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/psl-change/GIAOM_SRB1_psl-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_psl.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-surface_downwelling_shortwave_flux_in_air-change.html">surface downwelling<br/> shortwave flux in<br/> air (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRA1B_rsds-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRA1B_rsds-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRA1B_rsds-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRA1B_rsds-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_rsds.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRB1_rsds-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRB1_rsds-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRB1_rsds-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/rsds-change/GIAOM_SRB1_rsds-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_rsds.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature-change.html">air<br/> temperature (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRA1B_tas-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRA1B_tas-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRA1B_tas-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRA1B_tas-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_tas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRB1_tas-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRB1_tas-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRB1_tas-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tas-change/GIAOM_SRB1_tas-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_tas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature_daily_max-change.html">air temperature daily<br/> max (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRA1B_tasmax-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRA1B_tasmax-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRA1B_tasmax-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRA1B_tasmax-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_tasmax.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRB1_tasmax-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRB1_tasmax-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRB1_tasmax-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmax-change/GIAOM_SRB1_tasmax-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_tasmax.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-air_temperature_daily_min-change.html">air temperature daily<br/> min (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRA1B_tasmin-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRA1B_tasmin-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRA1B_tasmin-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRA1B_tasmin-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_tasmin.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRB1_tasmin-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRB1_tasmin-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRB1_tasmin-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/tasmin-change/GIAOM_SRB1_tasmin-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_tasmin.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-eastward_wind-change.html">eastward wind (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRA1B_uas-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRA1B_uas-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRA1B_uas-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRA1B_uas-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_uas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRB1_uas-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRB1_uas-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRB1_uas-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas-change/GIAOM_SRB1_uas-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_uas.html">info</a></td>
 </tr>
 <tr><td class="data-table-col1"><a href="var-northward_wind-change.html">northward wind (Anomaly)</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRA1B_vas-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRA1B_vas-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRA1B_vas-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRA1B_vas-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRA1B_vas.html">info</a></td>
       <td class="data-table-item">
-      <a href="/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRB1_vas-change_c20x.tar">20x</a>;
-      <a href="/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRB1_vas-change_c30b.tar">30b</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRB1_vas-change_c20x.tar">20x</a>;
+      <a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/vas-change/GIAOM_SRB1_vas-change_c30b.tar">30b</a>;
       <a href="/ar4/info/NASA-GISS-AOM_SRB1_vas.html">info</a></td>
 </tr>
 </table>

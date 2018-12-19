@@ -42,11 +42,11 @@ Period covered by experiment: 1851 to 2000<br/>
 <br/><h2>MRCGCM_20C3M_pr_c30a.tar</h2>
 Standard name: precipitation_flux<br>
 <br/><h3>MRCGCM_20C3M_1_pr_1901-1930.nc [397584 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1901-1930.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1901-1930.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/pr/MRCGCM_20C3M_1_pr_1901-1930.zip">Gis GeoTiff format; </a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1901-1930.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1901-1930.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/pr/MRCGCM_20C3M_1_pr_1901-1930.zip">Gis GeoTiff format; </a><br/>
 <br/><h3>MRCGCM_20C3M_1_pr_1931-1960.nc [397584 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1931-1960.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1931-1960.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/pr/MRCGCM_20C3M_1_pr_1931-1960.zip">Gis GeoTiff format; </a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1931-1960.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1931-1960.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/pr/MRCGCM_20C3M_1_pr_1931-1960.zip">Gis GeoTiff format; </a><br/>
 <br/><h3>MRCGCM_20C3M_1_pr_1961-1990.nc [397584 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1961-1990.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1961-1990.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/pr/MRCGCM_20C3M_1_pr_1961-1990.zip">Gis GeoTiff format; </a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1961-1990.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/pr/MRCGCM_20C3M_1_pr_1961-1990.cyto180.nc"> Lon180</a>; <a href="/cgi-bin/downl/ar4_tif/pr/MRCGCM_20C3M_1_pr_1961-1990.zip">Gis GeoTiff format; </a><br/>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>

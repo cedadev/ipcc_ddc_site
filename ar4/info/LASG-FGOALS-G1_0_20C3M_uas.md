@@ -40,11 +40,11 @@ Period covered by experiment: 1850 to 1999<br/>
 <br/><h2>FGOALS_20C3M_uas_c30a.tar</h2>
 Standard name: eastward_wind<br>
 <br/><h3>FGOALS_20C3M_1_uas_1901-1930.nc [372948 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1901-1930.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1901-1930.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1901-1930.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1901-1930.cyto180.nc"> Lon180</a><br/>
 <br/><h3>FGOALS_20C3M_1_uas_1931-1960.nc [372948 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1931-1960.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1931-1960.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1931-1960.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1931-1960.cyto180.nc"> Lon180</a><br/>
 <br/><h3>FGOALS_20C3M_1_uas_1961-1990.nc [372948 bytes]</h3>
-<a href="/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1961-1990.nc">Data; </a><a href="/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1961-1990.cyto180.nc"> Lon180</a><br/>
+<a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1961-1990.nc">Data; </a><a href="http://apps.ipcc-data.org/cgi-bin/downl/ar4_nc/uas/FGOALS_20C3M_1_uas_1961-1990.cyto180.nc"> Lon180</a><br/>
 <!-- Breadcrumb2 -->
 <div id="breadcrumb2" align="left">
 Location: <a href="/index.html">DDC Home</a> > <a href="/sim/gcm_clim/">Models: Summary Data</a>
