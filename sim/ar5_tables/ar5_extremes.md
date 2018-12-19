@@ -63,7 +63,7 @@ Errata: the table is missing a row of data and there are errors in the RCP2.6 Ca
 <ul>
 <li><a name="seneviratne2012">Seneviratne, S. I., et al., 2012</a>: Changes in climate extremes and their impacts on the
 natural physical environment. In:
-<a href="http://www.ipcc.ch/report/srex/">Managing the Risks of Extreme Events and
+<a class="IPCC" href="http://www.ipcc.ch/report/managing-the-risks-of-extreme-events-and-disasters-to-advance-climate-change-adaptation/">Managing the Risks of Extreme Events and
 Disasters to Advance Climate Change Adaptation. A Special Report of Working
 Groups I and II of the Intergovernmental Panel on Climate Change (IPCC) [C. B.
 Field, V. Barros, T. F. Stocker, D. Qin, D. J. Dokken, K. L. Ebi, M. D. Mastrandrea, K. J.

@@ -476,13 +476,13 @@ For earlier assessment reports, only monthly data was retained.
  this is based on observing the increase in atmospheric concentrations and estimating the sources
  
  Information on CFCs is in:
- <a href="http://www.ipcc.ch/pdf/special-reports/sroc/sroc_full.pdf">Safeguarding the Ozone Layer and the Global Climate System:
+ <a class="IPCC" href="http://www.ipcc.ch/report/safeguarding-the-ozone-layer-and-the-global-climate-system/">Safeguarding the Ozone Layer and the Global Climate System:
  Issues related to hydrofluorocarbons and perfluorocarbons</a>,
  IPCC/TEAP, 2005 - Bert Metz, Lambert Kuijpers,
  Susan Solomon, Stephen O. Andersen, Ogunlade Davidson, Jos&eacute; Pons,
  David de Jager, Tahl Kestin, Martin Manning, and Leo Meyer (Eds)
  Cambridge University Press, UK. pp 478
- (see <a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">IPCC special reports</a> for translations).
+ (see <a class="IPCC" href="http://www.ipcc.ch/reports">IPCC reports</a> for translations).
  
  <p/> Emissions of N2O from various research papers listed in Chapt. 7, table 7.7 of 4th Assessment Report, WG1.
  
@@ -556,7 +556,7 @@ For earlier assessment reports, only monthly data was retained.
  should visit the following sites:</p>
  
  <UL>
-<li>for the IPCC home page: <A HREF="http://www.ipcc.ch/" TARGET="frame256263">http://www.ipcc.ch</A></li>
+<li>for the IPCC home page: <A class="IPCC" HREF="http://www.ipcc.ch/" TARGET="frame256263">http://www.ipcc.ch</A></li>
 <li>for details regarding COP3 and
  Kyoto Protocol: <A HREF="https://unfccc.int/cop3/resource/protintr.html"
  TARGET="frame256263">https://unfccc.int/cop3/home.html</A></li>
@@ -570,8 +570,8 @@ For earlier assessment reports, only monthly data was retained.
  Potentials?</H5>
  
  There is a table of global warming potentials on p212 of the IPCC 4th
- Assessment Report, Working Group 1, chapter 2: <a
- href="http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter2.pdf">(download)</a>.
+ Assessment Report, Working Group 1, chapter 2: <a class="IPCC"
+ href="http://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf">(download)</a>.
  Note that the value of the GWP is not uniquely defined, it depends on the
  choice of time horizon.
  

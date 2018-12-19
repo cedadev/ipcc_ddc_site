@@ -20,7 +20,7 @@ logos: ssi12/logos/badc.html
  
  The greenhouse gas forcing used by the AR4 models are derived from
  SRES emissions scenarios. The
- <a class="ipcc" href="http://www.ipcc.ch/ipccreports/sres/emission/index.htm">SRES report</a> discusses emissions projections
+ <a class="IPCC" href="http://www.ipcc.ch/report/emissions-scenarios/">SRES report</a> discusses emissions projections
  produced by a range of Integrated Assessment Models for a range of
  socio-economic storylines.
  Four &lsquo;marker scenarios&rsquo; are recommended as the 
