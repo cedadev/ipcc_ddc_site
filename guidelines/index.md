@@ -158,7 +158,7 @@ Notes for authors preparing technical guidelines for the IPCC Task Group on Data
 Notes for authors preparing Fact Sheets for the IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>
 <br/>
-<sup>(<a name="ftnote3" id="ftnote3"></a>3)</sup> Supporting material is defined in the <a href="http://www.ipcc.ch/pdf/ipcc-principles/ipcc-principles-appendix-a.pdf" target="new">
+<sup>(<a name="ftnote3" id="ftnote3"></a>3)</sup> Supporting material is defined in the <a class="IPCC" href="https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles-appendix-a.pdf" target="new">
  Procedures for the Preparation, Review, Acceptance, Adoption, Approval,
  and Publication of IPCC  Reports.
  <img src="../img/pdf.gif" hspace="5" vspace="0" border="0" align="middle" alt="pdf"/></a>

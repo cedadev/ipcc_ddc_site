@@ -57,7 +57,7 @@ logos: ssi12/logos/All.html
 <a name="troposphere"></a>
 <h3>Troposphere</h3><p>The lowest part of the <a href="glossary_a.html#atmosphere">atmosphere</a>, from the surface to about 10 km in altitude at mid-latitudes (ranging from 9 km at high latitude to 16 km in the tropics on average), where clouds and weather phenomena occur. In the troposphere, temperatures generally decrease with height.  See also <a href="glossary_s.html#stratosphere">Stratosphere</a>. <b>WGI</b></p>
 <a name="tsu"></a> 
-<h3>TSU</h3><p><a href="http://www.ipcc.ch/organization/organization_secretariat.shtml#2" target="_blank">Technical Support Unit (IPCC) </a></p>
+<h3>TSU</h3><p><a class="IPCC" href="https://www.ipcc.ch/about/structure/" target="_blank">Technical Support Unit (IPCC) </a></p>
 <a name="troposphericOzone"></a> 
 <h3>Tropospheric Ozone</h3><p>See <a href="glossary_no.html#ozone">Ozone</a></p>
 
