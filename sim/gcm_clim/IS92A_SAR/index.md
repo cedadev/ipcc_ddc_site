@@ -62,7 +62,7 @@ logos: ssi12/logos/All.html
  <p>From these pages predefined climate change scenarios for 30-year timeslices and an observed
  climate dataset can be downloaded. The scenarios have been constructed from the results of the
  GCM climate change experiments that can be found at the <a href="/sim/gcm_monthly/IS92A_SAR/index.html">DDC GCM Data Archive</a> and are the same
- data that can be viewed at the <a href="/maps/">Data Visualisation Pages</a>.
+ data that can be viewed at the <a href="http://apps.ipcc-data.org/maps/">Data Visualisation Pages</a>.
  Please note that daily fields are only available directly from the respective modelling centres.</p>
  
  <p><b>GCM Climate Change Scenarios</b></p>

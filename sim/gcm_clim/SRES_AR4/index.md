@@ -19,7 +19,7 @@ logos: ssi12/logos/All.html
  climatologies are available. Each entry on the table links to a page which displays 
  the data available for that model/scenario/variable.<br/>
  
- <p/>You can also browse the file contents and download selections of data as spreadsheet files (comma-separated-variable [CSV] format) through the <a href="/cgi-bin/ddc_nav/dataset=ar4_gcm">DDC file navigator</a>.<br/>
+ <p/>You can also browse the file contents and download selections of data as spreadsheet files (comma-separated-variable [CSV] format) through the <a href="http://apps.ipcc-data.org/cgi-bin/ddc_nav/dataset=ar4_gcm">DDC file navigator</a>.<br/>
  
  
  <table style="position:relative;left:.7em;width:65%;font-size:95%;">

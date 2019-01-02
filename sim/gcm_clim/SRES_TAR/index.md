@@ -24,10 +24,10 @@ logos: ssi12/logos/All.html
  <table>
  <tr><td>
  <UL>
- <LI>be full 3D coupled ocean-atmospheric GCMs,
- <LI>be documented in the peer reviewed literature,
- <LI>have performed a multi-century control run (for stability reasons)and
- <LI>have participated in CMIP2 (Second Coupled Model Intercomparison Project).
+ <li>be full 3D coupled ocean-atmospheric GCMs,</li>
+ <li>be documented in the peer reviewed literature,</li>
+ <li>have performed a multi-century control run (for stability reasons)and</li>
+ <li>have participated in CMIP2 (Second Coupled Model Intercomparison Project).</li>
  </UL>
  </td></tr>
  </table>
@@ -35,10 +35,10 @@ logos: ssi12/logos/All.html
  <p>
  In addition,the models preferably should:
  <UL>
- <LI>have performed a 2 x CO2 mixed layer run,
- <LI>have participated in AMIP (Atmospheric Model Intercomparison Project)
- <LI>have a resolution of at least T40, R30 or 3&ordm; latitude x 3&ordm; longitude
- <LI>consider explicit greenhouse gases (e.g. CO2, CH4, etc.)
+ <li>have performed a 2 x CO2 mixed layer run,</li>
+ <li>have participated in AMIP (Atmospheric Model Intercomparison Project)</li>
+ <li>have a resolution of at least T40, R30 or 3&ordm; latitude x 3&ordm; longitude</li>
+ <li>consider explicit greenhouse gases (e.g. CO2, CH4, etc.)</li>
  </UL>
  </p>
  
@@ -49,7 +49,7 @@ logos: ssi12/logos/All.html
  
  <h2>Data</h2>
  
- <p/>You can browse the file contents and download selections of data as spreadsheet files (comma-separated-variable [CSV] format) through the <a href="/cgi-bin/ddc_nav/dataset=tar_gcm">DDC file navigator</a>, or download complete datasets from the links below:
+ <p/>You can browse the file contents and download selections of data as spreadsheet files (comma-separated-variable [CSV] format) through the <a href="http://apps.ipcc-data.org/cgi-bin/ddc_nav/dataset=tar_gcm">DDC file navigator</a>, or download complete datasets from the links below:
 </p>
  
  
