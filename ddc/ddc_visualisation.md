@@ -48,18 +48,16 @@ logos: ssi12/logos/badc.html
  
  <p><b>BASELINE CLIMATE DATA:</b></p>
  
- <p><b><a href="/java/visualisation.html">View observed fields</a></b></p>
+ <p><b><a href="http://apps.ipcc-data.org/java/visualisation.html">View observed fields</a></b></p>
  
  <p>This option allows you to view global maps of observed surface climate variables over land areas
  for 1961-90 and other periods, and also to examine the differences between observed and modelled
  1961-90 mean fields.</p>
  
- <p><b><a href="/java/time_series.html">View observed regional time series</a></b></p>
+ <p><b><a href="http://apps.ipcc-data.org/java/time_series.html">View observed regional time series</a></b></p>
  
  <p>This option allows you to plot observed climate timeseries for the period 1901-1995 for a user-defined
  region of the global land surface, and for a selection of variables and months or seasons.</p>
- 
- </p>&nbsp;<p>
  
  <p><b>IPCC SRES SCENARIOS:</b></p>
  
@@ -67,7 +65,7 @@ logos: ssi12/logos/badc.html
  
  <p>This option allows you to view observed and modelled global/hemispheric-mean
  temperature and  precipitation series for the DDC Models.</p>
- <p><b><a href="/cgi-bin/ddcvis/gcmcf">View SRES GCM change fields</a></b></p>
+ <p><b><a href="http://apps.ipcc-data.org/cgi-bin/ddcvis/gcmcf">View SRES GCM change fields</a></b></p>
  <p>This option allows you to examine any of the various GCM change fields for any of the three
  30-year future timeslices and also to examine the difference between two user-defined GCM change
  fields, whether different GCMs, ensemble members or different timeslices.</p>
@@ -85,13 +83,13 @@ logos: ssi12/logos/badc.html
  <p>This option allows you to view observed and modelled global/hemispheric-mean
  temperature and  precipitation series for the DDC Models.</p>
  
- <p><b><a href="/java/gcm.html">View GCM change fields</a></b></p>
+ <p><b><a href="http://apps.ipcc-data.org/java/gcm.html">View GCM change fields</a></b></p>
  
  <p>This option allows you to examine any of the various GCM change fields for any of the three
  30-year future timeslices and also to examine the difference between two user-defined GCM change
  fields, whether different GCMs, ensemble members or different timeslices.</p>
  
- <p><b><a href="/java/obs_plus_gcm.html">View Observed and GCM fields
+ <p><b><a href="http://apps.ipcc-data.org/java/obs_plus_gcm.html">View Observed and GCM fields
  combined</a></b></p>
  
  <p>This option allows you to combine the observed 1961-90 global land fields with a user-defined
