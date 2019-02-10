@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule ^query$ http://apps.ipcc-data.org/query
