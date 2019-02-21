@@ -16,7 +16,7 @@ logos: ssi12/logos/dkrz.html
 
 <p>The data is provided in <a href="/sim/gcm_monthly/INFO/formats.html">NetCDF/CF format</a>. Information on requested variables are summarised in <a target="_blank" href="/sim/gcm_monthly/INFO/HAPPI_request_diagnostics_final.pdf">HAPPI_request_diagnostics_final.pdf</a>. A table entry represents a HAPPI-MIP experiment. In addition the corresponding data reference for citing the data in literature for each modelling group's contribution are given.</p>
 
-<h2>Available SR1.5 related data</h2>
+<h2 align="CENTER">Available SR1.5 related data</h2>
 
 <table id="customers" width="75%" border="1" cellpadding="5" bgcolor="#f0fFf0"  align="center">
 
@@ -27,7 +27,7 @@ logos: ssi12/logos/dkrz.html
 <th width="50">Centre<br />Acronym</th>
 <th width="70">Model</th>
 <th width="300">Data Reference</th>
-<th bgcolor="#c0eec0" width="35">historical</th>
+<th bgcolor="#c0eec0" width="30">historical</th>
 <th bgcolor="#c0eec0" width="30">Plus15</th>
 <th bgcolor="#c0eec0" width="30">Plus20</th>
 <th bgcolor="#f0fFf0" width="30">add. data</th>
@@ -87,11 +87,10 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="left"><a target="_blank" href="http://www.mpimet.mpg.de/">MPI-M</a></td>
 <td align="left">ECHAM6-3-LR</td>
 <td align="left">Lierhammer, Ludwig; Mauritsen, Thorsten; Legutke, Stephanie; Esch, Monika; Wieners, Karl-Hermann; Saeed, Fahad (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the ECHAM6.3 atmospheric model of the Max Planck Institute for Meteorology (MPI-M). WDCC at DKRZ. <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-ECHAM6.3_v2">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-ECHAM6.3_v2</a>.</td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v10_v2" ><span style="color:LightSlateGrey;">historical</span></a><br />
-<a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v11_v2" ><span style="color:LightSlateGrey;">historical (v1-1)</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v10_v2" ><span style="color:LightSlateGrey;">historical</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP15m1v20_v2"><span style="color:LightSlateGrey;">Plus15</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP20m1v20_v2"><span style="color:LightSlateGrey;">Plus20</span></a>
-<td align="center">-<br /></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v11_v2" ><span style="color:LightSlateGrey;">historical_(v1-1)</span></a></td>
 <td align="center">-<br /></td>
 </tr>
 
