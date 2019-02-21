@@ -3,7 +3,7 @@ layout: ddc02
 title: SR1.5 GCM Data
 bodyclass: ddcsim
 banner: ssi/header/Header2012.html
-menuclass: ar4_mon
+menuclass: ar5_mon
 menu: ssi12/menu1/Menu_sim_gcmm.html
 links: ssi12/links/home.html
 logos: ssi12/logos/dkrz.html
@@ -17,22 +17,23 @@ logos: ssi12/logos/dkrz.html
 <p>The data is provided in <a href="/sim/gcm_monthly/INFO/formats.html">NetCDF/CF format</a>. Information on requested variables are summarised in <a target="_blank" href="/sim/gcm_monthly/INFO/HAPPI_request_diagnostics_final.pdf">HAPPI_request_diagnostics_final.pdf</a>. A table entry represents a HAPPI-MIP experiment. In addition the corresponding data reference for citing the data in literature for each modelling group's contribution are given.</p>
 
 <h2>Available SR1.5 related data</h2>
-<table id="customers" width="75%" border="1" cellpadding="5" bgcolor="#f0fFf0"  align="center">
-<tbody>
 
+<table id="customers" width="75%" border="1" cellpadding="5" bgcolor="#f0fFf0"  align="center">
+
+<tbody>
 
 <tr>
 <th width="200">Centre</th>
 <th width="50">Centre<br />Acronym</th>
 <th width="70">Model</th>
-<th width="200">Data Reference</th>
-<th bgcolor="#c0eec0" width="30">historical</th>
+<th width="300">Data Reference</th>
+<th bgcolor="#c0eec0" width="35">historical</th>
 <th bgcolor="#c0eec0" width="30">Plus15</th>
 <th bgcolor="#c0eec0" width="30">Plus20</th>
 <th bgcolor="#f0fFf0" width="30">add. data</th>
 <th bgcolor="#f0fFf0" width="30">known issues</th>
 </tr>
-<tr></tr>
+
 <!-- darkgreen-->
 
 <!-- CCCma -->
@@ -55,7 +56,7 @@ logos: ssi12/logos/dkrz.html
          <strong>Switzerland</strong></td>
 <td align="left"><a target="_blank" href="https://www.ethz.ch/en.html">ETH</a></td>
 <td align="left">CAM4-2degree</td>
-<td align="left">Beyerle, Urs (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the CAM4-2degree atmospheric model and on the CLM4-2degree land model of the National Center for Atmospheric Research - Department of Energy (NCAR-DOE). WDCC at DKRZ. <a target="_blank"http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-CAM4-2degree">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-CAM4-2degree</a>.</td>
+<td align="left">Beyerle, Urs (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the CAM4-2degree atmospheric model and on the CLM4-2degree land model of the National Center for Atmospheric Research - Department of Energy (NCAR-DOE). WDCC at DKRZ. <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-CAM4-2degree">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-CAM4-2degree</a>.</td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4AHs1v10" ><span style="color:LightSlateGrey;">historical</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4P15m1v20"><span style="color:LightSlateGrey;">Plus15</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4P20m1v20"><span style="color:LightSlateGrey;">Plus20</span></a>
@@ -71,7 +72,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
                  <strong>Japan</strong></td>
 <td align="left"><a target="_blank" href="http://www.aori.u-tokyo.ac.jp/english/">MIROC</a></td>
 <td align="left">MIROC5</td>
-<td align="left">Shiogama, Hideo (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the MIROC5 atmospheric model of the University of Tokyo, NIES and JAMSTEC (MIROC). WDCC at DKRZ. <a target="_blank"http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-MIROC5">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-MIROC5</a>.</td>
+<td align="left">Shiogama, Hideo (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the MIROC5 atmospheric model of the University of Tokyo, NIES and JAMSTEC (MIROC). WDCC at DKRZ. <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-MIROC5">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-MIROC5</a>.</td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5AHs1v20" ><span style="color:LightSlateGrey;">historical</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5P15m1v30"><span style="color:LightSlateGrey;">Plus15</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5P20m1v30"><span style="color:LightSlateGrey;">Plus20</span></a>
@@ -85,7 +86,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
         <strong>Germany</strong></td>
 <td align="left"><a target="_blank" href="http://www.mpimet.mpg.de/">MPI-M</a></td>
 <td align="left">ECHAM6-3-LR</td>
-<td align="left">Lierhammer, Ludwig; Mauritsen, Thorsten; Legutke, Stephanie; Esch, Monika; Wieners, Karl-Hermann; Saeed, Fahad (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the ECHAM6.3 atmospheric model of the Max Planck Institute for Meteorology (MPI-M). WDCC at DKRZ. <a target="_blank"http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-ECHAM6.3_v2">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-ECHAM6.3_v2</a>.</td>
+<td align="left">Lierhammer, Ludwig; Mauritsen, Thorsten; Legutke, Stephanie; Esch, Monika; Wieners, Karl-Hermann; Saeed, Fahad (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the ECHAM6.3 atmospheric model of the Max Planck Institute for Meteorology (MPI-M). WDCC at DKRZ. <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-ECHAM6.3_v2">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-ECHAM6.3_v2</a>.</td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v10_v2" ><span style="color:LightSlateGrey;">historical</span></a><br />
 <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v11_v2" ><span style="color:LightSlateGrey;">historical (v1-1)</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP15m1v20_v2"><span style="color:LightSlateGrey;">Plus15</span></a></td>
@@ -99,10 +100,10 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="left">Bjerknes Centre for Climate Research,<br />
                  Norwegian Meteorological Institute<br />
          <strong>Norway</strong></td>
-<td align="left"><a target="_blank" href="http://www.bjerknes.uib.no/">NCC</a><br />
+<td align="left"><a target="_blank" href="http://www.bjerknes.uib.no/">NCC</a>,<br />
 <a target="_blank" href="http://met.no/en">NMI</a></td>
 <td align="left">NorESM1-HAPPI</td>
-<td align="left">Bentsen, Mats; Bethke, Ingo; Debernard, Jens; Fuglestvedt, Jan; Heinze, Christoph; Iversen, Trond; Li, Camille; Michel, Clio; Seland, Øyvind; Schaller, Nathalie; Seland Graff, Lise; Gurdrun, Sylte (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the NorESM1-HAPPI atmospheric model of the NorESM Climate modeling Consortium (NCC). WDCC at DKRZ. <a target="_blank"http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-NorESM1-HAPPI">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-NorESM1-HAPPI</a>.</td>
+<td align="left">Bentsen, Mats; Bethke, Ingo; Debernard, Jens; Fuglestvedt, Jan; Heinze, Christoph; Iversen, Trond; Li, Camille; Michel, Clio; Seland, Øyvind; Schaller, Nathalie; Seland Graff, Lise; Gurdrun, Sylte (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the NorESM1-HAPPI atmospheric model of the NorESM Climate modeling Consortium (NCC). WDCC at DKRZ. <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-NorESM1-HAPPI">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-NorESM1-HAPPI</a>.</td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHAHs1v10" ><span style="color:LightSlateGrey;">historical</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHP15m1v2-0"><span style="color:LightSlateGrey;">Plus15</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHP20m1v2-0"><span style="color:LightSlateGrey;">Plus20</span></a>
@@ -110,9 +111,11 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="center">-<br /></td>
 </tr>
 
+
 </tbody>
 </table>
-</center>
+
+<p>&nbsp;</p>
 
 <p>
 <font size="-1" face="arial">This work, including access to the data and technical assistance, is provided by the German Climate Computing Centre (DKRZ), with funding from the Federal Ministry for Education and Research.</font>
