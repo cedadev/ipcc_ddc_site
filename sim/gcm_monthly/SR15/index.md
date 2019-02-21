@@ -41,7 +41,7 @@ logos: ssi12/logos/dkrz.html
 <td align="left">Canadian Centre for Climate Modelling and Analysis<br />
          <strong>Canada</strong></td>
 <td align="left"><a target="_blank" href="http://www.ec.gc.ca/ccmac-cccma/">CCCma</a></td>
-<td align="left">CanAm4</td>
+<td align="left">CanAM4</td>
 <td align="left">Scinocca, John (2018): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the CanAM4 atmospheric model of the Canadian Centre for Climate Modelling and Analysis (CCCma). WDCC at DKRZ. <a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-CanAM4">http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAPPI-global-CanAM4</a>.</td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4AHs1v10" ><span style="color:LightSlateGrey;">historical</span></a></td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4P15m1v10"><span style="color:LightSlateGrey;">Plus15</span></a></td>
