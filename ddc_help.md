@@ -33,6 +33,6 @@ logos: ssi12/logos/All.html
  
  <p> Finally, if you have any questions about the DDC, find errors on the site, or have general
  questions about climate scenarios that we can add to our FAQs, then please contact the DDC management
- at: <a href="mailto:badc@rl.ac.uk">badc@rl.ac.uk.</a>
+ at: <a href="mailto:support@ceda.ac.uk">support@ceda.ac.uk.</a>
  We will do our best to reply.</p>
  </div>
