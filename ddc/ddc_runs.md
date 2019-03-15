@@ -44,7 +44,7 @@ logos: ssi12/logos/All.html
   </p>
   
   <p> The DDC is advised and guided by the
-<a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica"/>
+<a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
 Task Group on Data Support for Climate Change Assessments (TG-DATA)
 </a>
 (formely the Task Group on Data and Scenario Support for Impact and Climate Analysis - TGICA).

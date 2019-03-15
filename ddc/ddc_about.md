@@ -26,15 +26,13 @@ w3cValid: yes
   review process of the IPCC.</p>
   
   <p>	The initiative to establish a DDC grew out of a recommendation by the
-  <a href="http://www.ipcc.ch/activities/tgica.shtml" target="new">
-  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)</a>.
+  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA).
   This Task Group was itself formed following a recommendation made at the IPCC Workshop on
   Regional Climate Change Projections for Impact Assessment (London, 24-26 September 1996).
-At its 47th Session in March 2018, the Panel decided to rename the TGICA the
- <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica"/>
+At its 47th Session in March 2018, the Panel decided to rename TGICA the
+ <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
 Task Group on Data Support for Climate Change Assessments (TG-DATA)
-</a>.
-</p>
+</a>.  </p>
   
   <p>	The establishment of the DDC was approved by the IPCC Bureau at its Thirteenth session
   (9-11 July 1997) and it was subsequently determined at the XIIIth IPCC Plenary (Maldives, 22-28

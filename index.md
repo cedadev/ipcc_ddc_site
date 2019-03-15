@@ -32,7 +32,7 @@ w3cValid: yes
 <p/>  The DDC is designed primarily for climate change researchers, but materials contained on the site may also be of interest to educators, governmental and non-governmental organisations, and the general public.
 
 <p/> The DDC is overseen by the IPCC
- <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica"/>
+ <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
 Task Group on Data Support for Climate Change Assessments (TG-DATA)
 </a>
 (formely the Task Group on Data and Scenario Support for Impact and Climate Analysis - TGICA)
