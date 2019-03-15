@@ -19,8 +19,8 @@ w3cValid: yes
   
   
   <p>	The IPCC Data Distribution Centre (DDC) was established in 1998, following a recommendation by
-  the <a href="http://www.ipcc.ch/activities/tgica.shtml" target="new">
-  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)</a>,
+  the
+  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA),
   to facilitate the timely distribution of a consistent set of up-to-date scenarios of
   changes in climate and related environmental and socio-economic factors for use in climate impact
   and adaptation assessment. While impact researchers are free to use whatever simulations are
