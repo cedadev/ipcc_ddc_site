@@ -33,8 +33,9 @@ w3cValid: yes
   <p>Data are being provided by the DDC over the World Wide Web. All research groups supplying datasets have agreed to these being distributed by the IPCC: users are asked to cite the data suppliers when data are used in any publication. The data are provided free of charge. In some cases registration is required and commercial use is prohibited, but much of the data are unrestricted. Users are requested to register for unrestricted data so that they can be informed of possible modifications, additions and other new developments at the DDC. All data and information distributed by the DDC are governed by the DDC <a href="/docs/IPCCDDC_DataAttributionPolicy_v1-0.pdf">Data and Information Attribution Policy</a> which ensures that clear and unambiguous attribution is given to a) the authors of the resource; b) the distributor of the resource; and c) the organization or institution responsible for reviewing or ensuring the quality of the resource (e.g., the IPCC).
 </p>
   
-  <p> The DDC is a shared operation between the <a href="http://badc.nerc.ac.uk/home/index.html" target="new">British
-  Atmospheric Data Centre (BADC)</a> in the United Kingdom, the
+  <p> The DDC is a shared operation between the
+<a href="http://ceda.ac.uk" target="new" title="formerly the British Atmospheric Data Centre (BADC)">Centre for Environmental Data Analysis (CEDA)</a>
+in the United Kingdom, the
   <a href="http://www.dkrz.de/about-en?set_language=en" target="new">Deutsches Klimarechenzentrum (DKRZ)</a> in
   Germany and the <a href="http://www.ciesin.columbia.edu/" target="new">Center for International
   Earth Science Information Network (CIESIN)</a> at Columbia University, New York, USA.

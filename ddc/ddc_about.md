@@ -38,7 +38,8 @@ w3cValid: yes
   United Kingdom and the Deutsches Klimarechenzentrum (DKRZ) in Germany. In 2003 a third centre,
   the <a href="http://www.ciesin.columbia.edu/" target="new">Center for International Earth Science
   Information Network (CIESIN)</a> in the USA, joined the DDC collaboration.
-  From February 1st, 2007 <a href="http://badc.nerc.ac.uk" target="new">British Atmospheric Data Centre (BADC)</a>
+  From February 1st, 2007 the British Atmospheric Data Centre (BADC) (which later became the
+<a href="http://ceda.ac.uk" target="new">Centre for Environmental Data Analysis (CEDA)</a>)
   has replaced CRU as the United Kingdom partner.</p>
   
   <h2> TGICA Mandate and DDC Governance</h2>
