@@ -162,8 +162,7 @@ logos: ssi12/logos/badc.html
  and 
  <a class="x" href="http://www.ncdc.noaa.gov/paleo/pubs/siegenthaler2005/siegenthaler2005.html">Epica</a> ice cores
  (see Fig. 6.3 of the 
- <a class="ipcc" href="http://www.ipcc.ch/ipccreports/ar4-wg1.htm">IPCC AR4,
- the physical science basis</a>
+ <a class="ipcc" href="https://www.ipcc.ch/report/ar4/wg1/">IPCC AR4, the physical science basis</a>
  are plotted together in figure 3.
  Also shown are the AD2007 annual mean concentration measured at
  Mauna Loa and the 

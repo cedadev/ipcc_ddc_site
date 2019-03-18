@@ -43,9 +43,12 @@ logos: ssi12/logos/All.html
   and Space Administration (NASA)</a>.
   </p>
   
-  <p> The DDC is advised and guided by the <a class="IPCC" href="http://archive.ipcc.ch/activities/tgica.shtml" target="new">
-  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)</a>,
-  co-chaired by Timothy Carter and Bruce Hewitson. Both the DDC and the TGICA are supported by the IPCC
+  <p> The DDC is advised and guided by the
+<a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
+Task Group on Data Support for Climate Change Assessments (TG-DATA)
+</a>
+(formely the Task Group on Data and Scenario Support for Impact and Climate Analysis - TGICA).
+  Both the DDC and the TG-DATA are supported by the IPCC
   Technical Support Units of <a class="IPCC" href="http://www.ipcc.ch/working-group/wg1/">Working Group
   I</a>, <a class="IPCC" href="http://www.ipcc.ch/working-group/wg2/">Working Group II</a>, and <a class="IPCC" href="http://www.ipcc.ch/working-group/wg3/">Working group III</a>, through whom they are accountable to the IPCC. The contact details of the relevant personnel
   are as follows:</p>

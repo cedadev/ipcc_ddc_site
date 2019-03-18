@@ -1,3 +1,6 @@
 RewriteEngine on
 
-RewriteRule ^query$ http://apps.ipcc-data.org/query
+RewriteRule ^query$ http://apps.ipcc-data.org/cgi-bin/query
+RewriteRule ^downl_form/(.*)$ http://apps.ipcc-data.org/cgi-bin/downl_form/$1
+RewriteRule ^ddc_nav/(.*)$ http://apps.ipcc-data.org/cgi-bin/ddc_nav/$1
+RewriteRule ^downl/(.*)$ http://apps.ipcc-data.org/cgi-bin/downl/$1

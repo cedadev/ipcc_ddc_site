@@ -26,10 +26,13 @@ w3cValid: yes
   review process of the IPCC.</p>
   
   <p>	The initiative to establish a DDC grew out of a recommendation by the
-  <a href="http://www.ipcc.ch/activities/tgica.shtml" target="new">
-  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA)</a>.
+  IPCC Task Group on Data and Scenario Support for Impact and Climate Analysis (TGICA).
   This Task Group was itself formed following a recommendation made at the IPCC Workshop on
-  Regional Climate Change Projections for Impact Assessment (London, 24-26 September 1996). </p>
+  Regional Climate Change Projections for Impact Assessment (London, 24-26 September 1996).
+At its 47th Session in March 2018, the Panel decided to rename TGICA the
+ <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
+Task Group on Data Support for Climate Change Assessments (TG-DATA)
+</a>.  </p>
   
   <p>	The establishment of the DDC was approved by the IPCC Bureau at its Thirteenth session
   (9-11 July 1997) and it was subsequently determined at the XIIIth IPCC Plenary (Maldives, 22-28
@@ -38,7 +41,8 @@ w3cValid: yes
   United Kingdom and the Deutsches Klimarechenzentrum (DKRZ) in Germany. In 2003 a third centre,
   the <a href="http://www.ciesin.columbia.edu/" target="new">Center for International Earth Science
   Information Network (CIESIN)</a> in the USA, joined the DDC collaboration.
-  From February 1st, 2007 <a href="http://badc.nerc.ac.uk" target="new">British Atmospheric Data Centre (BADC)</a>
+  From February 1st, 2007 the British Atmospheric Data Centre (BADC) (which later became the
+<a href="http://ceda.ac.uk" target="new">Centre for Environmental Data Analysis - CEDA</a>)
   has replaced CRU as the United Kingdom partner.</p>
   
   <h2> TGICA Mandate and DDC Governance</h2>
