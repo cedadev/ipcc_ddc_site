@@ -449,7 +449,7 @@ Centre Europ&eacute;en de Recherche et de Formation Avanc&eacute;e en Calcul Sci
 <tr>
 <td align="left">The First Institute of Oceanography, SOA<br />
                                  <strong>China</strong></td>
-<td align="left"><a target="_blank" href="http://www.fio.org.cn/en/">FIO</a></td>
+<td align="left"><a target="_blank" href="http://en.fio.org.cn/">FIO</a></td>
 <td align="left">FIO-ESM</td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.FIFIpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="center">-<br /></td>
@@ -519,7 +519,7 @@ Centre Europ&eacute;en de Recherche et de Formation Avanc&eacute;e en Calcul Sci
 <tr>
 <td align="left">National Institute For Space Research<br />
                                  <strong>Brazil</strong></td>
-<td align="left"><a target="_blank" href="http://www.inpe.br/ingles/">INPE</a></td>
+<td align="left"><a target="_blank" href="http://www.inpe.br">INPE</a></td>
 <td align="left">HadGEM2-ES</td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>

@@ -107,7 +107,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 
 		<tr>
 		<td align="left">Bjerknes Centre for Climate Research <br> <b>Norway</b></td>
-		<td align="center"><A HREF="http://www.bjerknes.uib.no/default.asp?lang=2">BCCR</A></td>
+		<td align="center"><A HREF="http://www.bjerknes.uib.no">BCCR</A></td>
 		<td align="center">BCM2.0</td>
 		<td align="center" bgcolor="#e0e0ff"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=BCCR_BCM2.0_COMMIT_1">run_1</a></td>
 		<td align="center" bgcolor="#e0e0ff"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=BCCR_BCM2.0_PICNTRL_1">run_1</a></td>
@@ -587,7 +587,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 
 	<tr>
 		<td align="left">National Institute of Geophysics and Volcanology <br> <b>Italy</b></td>
-		<td align="center"><A HREF="http://www.bo.ingv.it/contents/homepage.html">INGV</a></td>
+		<td align="center"><A HREF="http://www.ingv.it/en/">INGV</a></td>
 		<td align="center">SXG 2005</td>
 		<td align="center" bgcolor="#e0e0ff"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=INGV_SXG_COMMIT_1" -->run_1<!-- /a --></td>
 		<td align="center" bgcolor="#e0e0ff"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=INGV_SXG_PICNTRL_1">run_1</a></td>
