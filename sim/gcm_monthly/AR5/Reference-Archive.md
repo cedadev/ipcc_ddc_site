@@ -9,7 +9,7 @@ links: ssi12/links/home.html
 logos: ssi12/logos/dkrz.html
 ---
 <div id="pagetitle-ln">
-<h1 align="CENTER">DDC AR5 Reference snapshot</h1>
+<h1 align="center">DDC AR5 Reference snapshot</h1>
 </div>
 
 <p>The DDC AR5 Reference snapshot was collected by the <a target="_blank" href="http://wdc-climate.de/">World Data Center Climate (WDCC) at the DKRZ in Germany</a>, the <a target="_blank" href="http://badc.nerc.ac.uk/home/index.html">British Atmospheric Data Centre (BADC) in the UK</a> and the <a target="_blank" href="https://pcmdi.llnl.gov/">Program for Climate Model Diagnosis and Intercomparison (PCMDI) University of California in the US</a>. The DDC AR5 Reference snapshot is based on the status of the CMIP5 data archive as of March 15, 2013.<a href="#footnote-ESGF-data"><sup>1</sup></a> The corresponding IPCC WGI AR5 data snapshot can be found <a target="_blank" href="WG1-Archive.html">here</a>.
@@ -24,7 +24,7 @@ For corrections of data sets published under later versions in ESGF please look 
 <p id="footnote-ESGF-data"><sup>1</sup> Please note that the full CMIP5 data archive continues to be updated with new results, corrections etc. in contrast to the two archives available from the DDC.</p>
 
 <br>
-<table width="75%" cellspacing="0" cellpadding="3" border="1" align="center" table="">
+<table width="75%" cellspacing="0" cellpadding="3" border="1" align="center">
 <tbody>
 <tr>
 <td bgcolor="#ffd0d0">
@@ -57,8 +57,8 @@ For the data download from the IPCC DDC an account (free of charge) is required:
 <!-- Currently only file-based access is provided. Field-based access will become available later. -->
 
 <p>&nbsp;</p>
-<!--<h2 align="CENTER">Long-Term (century and longer) Scenarios</h2> -->
-<h2 align="CENTER">Long-term Projections: Centennial and longer Scenarios</h2>
+<!--<h2 align="center">Long-Term (century and longer) Scenarios</h2> -->
+<h2 align="center">Long-term Projections: Centennial and longer Scenarios</h2>
 <p>&nbsp;</p>
 
 <table id="customers" width="75%" border="1" cellpadding="5" bgcolor="#f0fFf0"  align="center">
@@ -519,7 +519,7 @@ Centre Europ&eacute;en de Recherche et de Formation Avanc&eacute;e en Calcul Sci
 <tr>
 <td align="left">National Institute For Space Research<br />
                                  <strong>Brazil</strong></td>
-<td align="left"><a target="_blank" href="http://www.inpe.br">INPE</a></td>
+<td align="left"><a target="_blank" href="http://www.inpe.br/">INPE</a></td>
 <td align="left">HadGEM2-ES</td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
@@ -1476,8 +1476,8 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <p>&nbsp;</p>
 
 
-<!-- <h2 align="CENTER">Near-Term (decadal) Scenarios</h2> -->
-<h2 align="CENTER">Near-term Predictions: Decadal Scenarios</h2>
+<!-- <h2 align="center">Near-Term (decadal) Scenarios</h2> -->
+<h2 align="center">Near-term Predictions: Decadal Scenarios</h2>
 <p><b>What are the Near-term Predictions?</b></p>
 <p>The near-term decadal prediction experiments are initialized from observed states of the climate system to explore climate predictability and prediction on decadal to multidecadal time scales. In these simulations, the models will not only respond, as in the long-term runs, to climate forcing (e.g., increasing atmospheric CO2 concentration) but also potentially track to some degree the actual trajectory of climate change, including (within the currently unknown predictability limits of the climate system) the unforced component of climate evolution.</p>
 <p>Note that decadal predictions with climate models are in an exploratory stage. A number of different methods are being tried to assimilate ocean observations into the models, and no single method has gained widespread acceptance. Moreover, the quality and completeness of ocean observations may be insufficient to realize but a fraction of the predictability inherent in the system. Thus, the forecast systems being assembled for CMIP5 are clearly not considered operational, nor will they necessarily provide more realistic simulations than the long-term simulations.</p> 
@@ -1506,8 +1506,6 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="left"><a target="_blank" href="http://forecast.bcccsm.ncc-cma.net">BCC</a></td>
 <td align="left"><a target="_blank" href="http://forecast.bcccsm.ncc-cma.net/web/channel-34.htm">BCC-CSM1.1</a></td>
 <td align="left">
-<table cellpadding="3">
-<col width="80"><col width="80"><col width="80"><col width="80"><col width="80">
 <tr>
   <td align="left" colspan="5"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.BCB1DEC"><span style="color:darkgreen;">ALL DECADALs (yearly 1960-2006)</span></a></td>
 </tr>
@@ -1584,9 +1582,8 @@ Japan Agency for Marine-Earth Science and Technology<br />
   <td></td>
   <td></td>
 </tr>
-</table>
-</td>
-
+<tr></tr>
+<tr>
 <td align="left" valign="top"><br /><br /><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.BCB1v6"><span style="color:darkgreen;">noVolc1960</span></a> <br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.BCB1v7"><span style="color:darkgreen;">noVolc1975</span></a> <br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.BCB1v0"><span style="color:darkgreen;">noVolc1980</span></a> <br />
@@ -2772,7 +2769,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 </table>
 
 
-<p align="CENTER">&nbsp;</p>
+<p align="center">&nbsp;</p>
 
 <table width="75%" cellspacing="0" cellpadding="3" border="1" align="center" table="">
 <tbody>

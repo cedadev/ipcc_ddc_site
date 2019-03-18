@@ -9,18 +9,18 @@ links: ssi12/links/home.html
 logos: ssi12/logos/dkrz.html
 ---
 <div id="pagetitle-ln">
-<h1 align="CENTER">CMIP5 Experiments</h1>
+<h1 align="center">CMIP5 Experiments</h1>
 </div>
 <p>Detailed CMIP5 scenario descriptions are available at:</p>
 <ul>
-<li><b>Moss et al. (2008)</b>. Towards New Scenarios for Analysis of Emissions, Climate Change, Impacts, and Response Strategies. Intergovernmental Panel on Climate Change, Geneva, 132 pp. [ <a target="_blank" href="http://www.ipcc.ch/pdf/supporting-material/expert-meeting-report-scenarios.pdf">http://www.ipcc.ch/pdf/supporting-material/expert-meeting-report-scenarios.pdf</a> ]</li>
+<li><b>Moss et al. (2008)</b>. Towards New Scenarios for Analysis of Emissions, Climate Change, Impacts, and Response Strategies. Intergovernmental Panel on Climate Change, Geneva, 132 pp. [ <a target="_blank" href="https://www.ipcc.ch/site/assets/uploads/2018/08/expert-meeting-report-scenarios.pdf">https://www.ipcc.ch/site/assets/uploads/2018/08/expert-meeting-report-scenarios.pdf</a> ]</li>
 <li><b>Taylor et al. (2009/2011)</b>. A Summary of the CMIP5 Experiment Design [ <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/experiment_design.html">https://pcmdi.llnl.gov/mips/cmip5/experiment_design.html</a> ]</li>
 <li><b>Taylor, Karl E., Ronald J. Stouffer, Gerald A. Meehl (2012)</b>. An Overview of CMIP5 and the Experiment Design. Bull. Amer. Meteor. Soc., 93, 485-498.  <a target="_blank" href="http://dx.doi.org/10.1175/BAMS-D-11-00094.1">doi:10.1175/BAMS-D-11-00094.1</a>.</li>
 </ul>
 
 <p>&nbsp;</p>
-<!--<h2 align="CENTER">Long-Term (century and longer) Scenarios</h2> -->
-<h2 align="CENTER">Long-term Projections: Centennial and longer Scenarios</h2>
+<!--<h2 align="center">Long-Term (century and longer) Scenarios</h2> -->
+<h2 align="center">Long-term Projections: Centennial and longer Scenarios</h2>
 <p>&nbsp;</p>
 <table id="customers" width="75%" border="1" cellpadding="5" bgcolor="#f0fFf0" align="center">
 <tbody>
@@ -304,8 +304,8 @@ logos: ssi12/logos/dkrz.html
 </table>
 
 <p>&nbsp;</p>
-<!-- <h2 align="CENTER">Near-Term (decadal) Scenarios</h2> -->
-<h2 align="CENTER">Near-term Predictions: Decadal Scenarios</h2>
+<!-- <h2 align="center">Near-Term (decadal) Scenarios</h2> -->
+<h2 align="center">Near-term Predictions: Decadal Scenarios</h2>
 <p><b>What are the Near-term Predictions?</b></p>
 <p>The near-term decadal prediction experiments are initialized from observed states of the climate system to explore climate predictability and prediction on decadal to multidecadal time scales. In these simulations, the models will not only respond, as in the long-term runs, to climate forcing (e.g., increasing atmospheric CO2 concentration) but also potentially track to some degree the actual trajectory of climate change, including (within the currently unknown predictability limits of the climate system) the unforced component of climate evolution.</p>
 <p>Note that decadal predictions with climate models are in an exploratory stage. A number of different methods are being tried to assimilate ocean observations into the models, and no single method has gained widespread acceptance. Moreover, the quality and completeness of ocean observations may be insufficient to realize but a fraction of the predictability inherent in the system. Thus, the forecast systems being assembled for CMIP5 are clearly not considered operational, nor will they necessarily provide more realistic simulations than the long-term simulations.</p> 
@@ -482,6 +482,7 @@ logos: ssi12/logos/dkrz.html
 <td align="left">1.1-I 10-year hindcast/prediction initialized in year 2002 - additional start dates</td>
 <td align="left">As in experiments 1.1 and 1.1-E, but initialized near the end of 2002 to take advantage of the better ocean data of the Argo float era.</td>
 </tr>
+<tr>
 <td align="right">1.1</td>
 <td align="left"><a id="decadal2003">decadal2003</a></td>
 <td align="left">1.1 10-year hindcast/prediction initialized in year 2003</td>
@@ -493,7 +494,6 @@ logos: ssi12/logos/dkrz.html
 <td align="left">1.1-I 10-year hindcast/prediction initialized in year 2003 - additional start dates</td>
 <td align="left">As in experiments 1.1 and 1.1-E, but initialized near the end of 2003 to take advantage of the better ocean data of the Argo float era.</td>
 </tr>
-<tr>
 <tr>
 <td align="right">1.1</td>
 <td align="left"><a id="decadal2004">decadal2004</a></td>
@@ -631,7 +631,7 @@ logos: ssi12/logos/dkrz.html
 
 <p>&nbsp;</p>
 
-<p align="CENTER">&nbsp;</p>
+<p align="center">&nbsp;</p>
 <p align="left">
 <i>Source: CMIP5 Questionnaire (<a target="_blank" href="http://q.cmip5.ceda.ac.uk/feeds/cmip5/experiment/">http://q.cmip5.ceda.ac.uk/feeds/cmip5/experiment/</a>; last access: 2014-01-08)<br />
 Contact: dataATdkrz.de</i></p>
