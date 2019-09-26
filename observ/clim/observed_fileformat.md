@@ -20,69 +20,69 @@ logos: ssi12/logos/badc.html
  <p>The files have been given an eight letter prefix and three letter suffix to make them compatible
  with all computers and media, thus the filename structure is:</p>
  
- <p align=CENTER><b>cxxxyyyy.dat</b></p>
+ <p align="center"><b>cxxxyyyy.dat</b></p>
  
  <p>An example, therefore, is &quot;cpre1120.dat&quot;: which contains mean monthly 1911-1920 precipitation.</p>
  
  <table border="1" cellspacing="2" width="598" cellpadding="0" align="center">
  <tr>
  <td width="23%" height="17">
- <p align=CENTER>yyyy = Timeslice</p>
+ <p align="center">yyyy = Timeslice</p>
  </td>
  <td width="78%" colspan="2" height="17">
- <p align=CENTER>e.g. 6190 = 1961-1990; 0110=1901-1910; etc.</p>
+ <p align="center">e.g. 6190 = 1961-1990; 0110=1901-1910; etc.</p>
  </td>
  </tr>
  <tr>
  <td width="23%" height="17">
- <p align=CENTER>xxx= Variable Code</p>
+ <p align="center">xxx= Variable Code</p>
  </td>
  <td width="39%" height="17">
- <p align=CENTER>Variable</p>
+ <p align="center">Variable</p>
  </td>
  <td width="39%" height="17">
- <p align=CENTER>Units</p>
+ <p align="center">Units</p>
  </td>
  </tr>
  <tr>
  <td width="23%" height="17">
- <p align=CENTER>cld</p>
- <p align=CENTER>dtr</p>
- <p align=CENTER>frs</p>
- <p align=CENTER>pre</p>
- <p align=CENTER>rad</p>
- <p align=CENTER>wet</p>
- <p align=CENTER>tmp</p>
- <p align=CENTER>tmx</p>
- <p align=CENTER>tmn</p>
- <p align=CENTER>vap</p>
- <p align=CENTER>wnd</p>
+ <p align="center">cld</p>
+ <p align="center">dtr</p>
+ <p align="center">frs</p>
+ <p align="center">pre</p>
+ <p align="center">rad</p>
+ <p align="center">wet</p>
+ <p align="center">tmp</p>
+ <p align="center">tmx</p>
+ <p align="center">tmn</p>
+ <p align="center">vap</p>
+ <p align="center">wnd</p>
  </td>
  <td width="39%" height="17">
- <p align=CENTER>Cloud Cover</p>
- <p align=CENTER>Diurnal Temperature Range</p>
- <p align=CENTER>Ground-frost Frequency</p>
- <p align=CENTER>Precipitation</p>
- <p align=CENTER>Radiation</p>
- <p align=CENTER>Wet Day Frequency</p>
- <p align=CENTER>Mean Temperature</p>
- <p align=CENTER>Maximum Temperature</p>
- <p align=CENTER>Minimum Temperaure</p>
- <p align=CENTER>Vapour Pressure</p>
- <p align=CENTER>Wind</p>
+ <p align="center">Cloud Cover</p>
+ <p align="center">Diurnal Temperature Range</p>
+ <p align="center">Ground-frost Frequency</p>
+ <p align="center">Precipitation</p>
+ <p align="center">Radiation</p>
+ <p align="center">Wet Day Frequency</p>
+ <p align="center">Mean Temperature</p>
+ <p align="center">Maximum Temperature</p>
+ <p align="center">Minimum Temperaure</p>
+ <p align="center">Vapour Pressure</p>
+ <p align="center">Wind</p>
  </td>
  <td width="39%" height="17">
- <p align=CENTER>Percent</p>
- <p align=CENTER>Deg. C * 10</p>
- <p align=CENTER>Days *10</p>
- <p align=CENTER>(millimetres/day) *10</p>
- <p align=CENTER>W/sq.metre</p>
- <p align=CENTER>Days *10</p>
- <p align=CENTER>Deg. C * 10</p>
- <p align=CENTER>Deg. C * 10</p>
- <p align=CENTER>Deg. C * 10</p>
- <p align=CENTER>hPa * 10</p>
- <p align=CENTER>(metre/se<!--SELECTION--><!--/SELECTION-->c) * 10</p>
+ <p align="center">Percent</p>
+ <p align="center">Deg. C * 10</p>
+ <p align="center">Days * 10</p>
+ <p align="center">(millimetres/day) * 10</p>
+ <p align="center">W/sq.metre</p>
+ <p align="center">Days * 10</p>
+ <p align="center">Deg. C * 10</p>
+ <p align="center">Deg. C * 10</p>
+ <p align="center">Deg. C * 10</p>
+ <p align="center">hPa * 10</p>
+ <p align="center">(metre/sec) * 10</p>
  </td>
  </tr>
  </table>
@@ -97,7 +97,7 @@ logos: ssi12/logos/badc.html
  <p><tt>grd_sz xmin ymin xmax ymax n_cols n_rows n_months missing</tt><br/>
  <tt>0.5 0.25 -89.75 359.75 89.75 720 360 12 -9999</tt></p>
  
- <p></p></p>
+ <p></p>
  
  <p>This is followed by 12 monthly grids that are n_cols by n_rows in size. Each record contains
  n_cols (=720) columns longitude values, format 720i5, starting at xmin (= 0.25 deg East) and
