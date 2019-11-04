@@ -48,9 +48,9 @@ D. Mitchell et al. (2017). Half a degree additional warming, prognosis and proje
 <td align="left"><a target="_blank" href="http://www.ec.gc.ca/ccmac-cccma/">CCCma</a></td>
 <td align="left">CanAM4</td>
 <td align="left">Scinocca, John (2019): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the CanAM4 atmospheric model of the Canadian Centre for Climate Modelling and Analysis (CCCma). WDCC at DKRZ. <a target="_blank" href="http://doi.org/10.26050/WDCC/HAPPI-global-CanAM4">doi:10.26050/WDCC/HAPPI-global-CanAM4</a>.</td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4AHs1v10" ><span style="color:LightSlateGrey;">historical</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4P15m1v10"><span style="color:LightSlateGrey;">Plus15</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4P20m1v10"><span style="color:LightSlateGrey;">Plus20</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4AHs1v10" ><span style="color:darkgreen;">historical</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4P15m1v10"><span style="color:darkgreen;">Plus15</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4P20m1v10"><span style="color:darkgreen;">Plus20</span></a></td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
 </tr>
@@ -62,9 +62,9 @@ D. Mitchell et al. (2017). Half a degree additional warming, prognosis and proje
 <td align="left"><a target="_blank" href="https://www.ethz.ch/en.html">ETHZ</a></td>
 <td align="left">CAM4-2degree</td>
 <td align="left">Beyerle, Urs (2019): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the CAM4-2degree atmospheric model and on the CLM4-2degree land model of the National Center for Atmospheric Research - Department of Energy (NCAR-DOE). WDCC at DKRZ. <a target="_blank" href="http://doi.org/10.26050/WDCC/HAPPI-global-CAM4-2degree">doi:10.26050/WDCC/HAPPI-global-CAM4-2degree</a>.</td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4AHs1v10" ><span style="color:LightSlateGrey;">historical</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4P15m1v20"><span style="color:LightSlateGrey;">Plus15</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4P20m1v20"><span style="color:LightSlateGrey;">Plus20</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4AHs1v10" ><span style="color:darkgreen;">historical</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4P15m1v20"><span style="color:darkgreen;">Plus15</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAETHC4P20m1v20"><span style="color:darkgreen;">Plus20</span></a></td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
 </tr>
@@ -78,9 +78,9 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="left"><a target="_blank" href="http://www.aori.u-tokyo.ac.jp/english/">MIROC</a></td>
 <td align="left">MIROC5</td>
 <td align="left">Shiogama, Hideo (2019): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the MIROC5 atmospheric model of the University of Tokyo, NIES and JAMSTEC (MIROC). WDCC at DKRZ. <a target="_blank" href="http://doi.org/10.26050/WDCC/HAPPI-global-MIROC5">doi:10.26050/WDCC/HAPPI-global-MIROC5</a>.</td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5AHs1v20" ><span style="color:LightSlateGrey;">historical</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5P15m1v30"><span style="color:LightSlateGrey;">Plus15</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5P20m1v30"><span style="color:LightSlateGrey;">Plus20</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5AHs1v20" ><span style="color:darkgreen;">historical</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5P15m1v30"><span style="color:darkgreen;">Plus15</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMIM5P20m1v30"><span style="color:darkgreen;">Plus20</span></a></td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
 </tr>
@@ -92,10 +92,10 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="left"><a target="_blank" href="http://www.mpimet.mpg.de/">MPI-M</a></td>
 <td align="left">ECHAM6-3-LR</td>
 <td align="left">Lierhammer, Ludwig; Mauritsen, Thorsten; Legutke, Stephanie; Esch, Monika; Wieners, Karl-Hermann; Saeed, Fahad (2019): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the ECHAM6.3 atmospheric model of the Max Planck Institute for Meteorology (MPI-M). WDCC at DKRZ. <a target="_blank" href="http://doi.org/10.26050/WDCC/HAPPI-global-ECHAM6.3_v2">doi:10.26050/WDCC/HAPPI-global-ECHAM6.3_v2</a>.</td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v10_v2" ><span style="color:LightSlateGrey;">historical</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP15m1v20_v2"><span style="color:LightSlateGrey;">Plus15</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP20m1v20_v2"><span style="color:LightSlateGrey;">Plus20</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v11_v2" ><span style="color:LightSlateGrey;">historical_(v1-1)</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v10_v2" ><span style="color:darkgreen;">historical</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP15m1v20_v2"><span style="color:darkgreen;">Plus15</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELP20m1v20_v2"><span style="color:darkgreen;">Plus20</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HAMXELAHs1v11_v2" ><span style="color:darkgreen;">historical_(v1-1)</span></a></td>
 <td align="center">-<br /></td>
 </tr>
 
@@ -108,9 +108,9 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <a target="_blank" href="http://met.no/en">NMI</a></td>
 <td align="left">NorESM1-HAPPI</td>
 <td align="left">Bentsen, Mats; Bethke, Ingo; Debernard, Jens; Fuglestvedt, Jan; Heinze, Christoph; Iversen, Trond; Li, Camille; Michel, Clio; Seland, Øyvind; Schaller, Nathalie; Seland Graff, Lise; Gurdrun, Sylte (2019): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the NorESM1-HAPPI atmospheric model of the NorESM Climate modeling Consortium (NCC). WDCC at DKRZ. <a target="_blank" href="http://doi.org/10.26050/WDCC/HAPPI-global-NorESM1-HAPPI">doi:10.26050/WDCC/HAPPI-global-NorESM1-HAPPI</a>.</td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHAHs1v10" ><span style="color:LightSlateGrey;">historical</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHP15m1v2-0"><span style="color:LightSlateGrey;">Plus15</span></a></td>
-<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHP20m1v2-0"><span style="color:LightSlateGrey;">Plus20</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHAHs1v10" ><span style="color:darkgreen;">historical</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHP15m1v2-0"><span style="color:darkgreen;">Plus15</span></a></td>
+<td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HANCCNHP20m1v2-0"><span style="color:darkgreen;">Plus20</span></a></td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
 </tr>
