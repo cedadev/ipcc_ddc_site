@@ -25,7 +25,7 @@ w3cValid: yes
   use in climate impacts assessments. The intention is that these new assessments can feed into the
   review process of the IPCC. The operation of the DDC is overseen by the <a href="https://www.ipcc.ch/data/">IPCC Task Group on Data</a> (<a href="#ref1">[1]</a>).</p>
   
-    <p>	The establishment of the DDC was approved by the IPCC Bureau at its Thirteenth session
+<p>	The establishment of the DDC was approved by the IPCC Bureau at its Thirteenth session
   (9-11 July 1997) and it was subsequently determined at the XIIIth IPCC Plenary (Maldives, 22-28
   September 1997) that the DDC would be a shared operation between the
   <a href="http://www.cru.uea.ac.uk" target="new">Climatic Research Unit (CRU)</a> in the
@@ -43,8 +43,8 @@ w3cValid: yes
 At its 47th Session in March 2018, the Panel decided to rename TGICA the
  <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
 Task Group on Data Support for Climate Change Assessments (TG-DATA) 
-</a> and developed a new mandate for TG-Data and guidance for the DDC (replacing the previous governance document). This panel decision recognises the
-importance of continuity in the operations of the DDC across multiple assessment cycles, which distinguishes the DDC from TG-Data and other IPCC bodies which are dis-banded at the end of each assessment cycle to be recreated at the start of the next one.</p>
+</a> and developed a new mandate for TG-Data and <a href="https://www.ipcc.ch/site/assets/uploads/2018/12/Guidance_DDC.pdf">guidance for the DDC</a> (replacing the previous governance document). This panel decision recognises the
+importance of continuity in the operations of the DDC across multiple assessment cycles, which distinguishes the DDC from TG-Data and other IPCC bodies which are dis-banded at the end of each assessment cycle to be recreated at the start of the next one (<a href="#ref1">[3]</a>).</p>
   
   <h2>References</h2>
  
