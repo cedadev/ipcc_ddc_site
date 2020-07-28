@@ -44,63 +44,17 @@ Task Group on Data Support for Climate Change Assessments (TG-DATA)
   From February 1st, 2007 the British Atmospheric Data Centre (BADC) (which later became the
 <a href="http://ceda.ac.uk" target="new">Centre for Environmental Data Analysis - CEDA</a>)
   has replaced CRU as the United Kingdom partner.</p>
-  
-  <h2> TGICA Mandate and DDC Governance</h2>
-  
-  <p>The conduct of TGICA is governed by its
-  <a href="/docs/TGICA_Mandate_031207.htm">mandate</a>, which
-  can be downloaded here as <a href="/docs/TGICA_Mandate_031207.pdf">an Adbobe pdf document</a>.
-  The TGICA has established a set of procedures for
-  managing content on the DDC as described in the
-  <a href="/docs/TGICA_DDC_Governance_2012feb08.html">DDC Governance document</a>, which
-  can be downloaded here as <a href="/docs/TGICA_DDC_Governance_2012feb08.pdf">an Adbobe pdf document</a>.
-  </p>
-  
-  <h2> TGICA Members</h2>
  
-  <table align="center" style="width:90%;font-size:95%;">
-  <tr>
-  <td class="odd-table-column"> Co-Chairs </td>
-  <td class="even-table-column">     Members </td>
-  <td class="even-table-column">      </td>
-  <td class="odd-table-column"> Ex officio  </td>
-  </tr>
- <tr>
-  <td class="odd-table-column" valign="top">
- Timothy R. Carter, Finland<br/>
- Bruce Hewitson, South Africa<br/>
-  </td>
- <td class="even-table-column"> 
- Daniel Bouille, Argentina<br/>
- Stewart J. Cohen, Canada<br/>
- Suraje Dessai, UK<br/>
- Mariane Diop-Kane, Senegal<br/>
- Seita Emori, Japan<br/>
- Gregory E. Insarov, Russia<br/>
- Kejun Jiang, China<br/>
- Volker Krey, Austria<br/>
- </td>
- <td class="even-table-column"> 
- Won-Tae Kwon, South Korea<br/>
- Jason Lowe, UK<br/>
- Francisco Meza, Chile<br/>
- Andy Reisinger, New Zealand<br/>
- Fredrick Semazzi, USA<br/>
- Allison Thomson, USA<br/>
- Rachel Warren, UK (co-chair elect)<br/>
- Arthur Webb, Fiji<br/>
- Fernanda Zermoglio, Sweden</td>
- <td class="odd-table-column">
-  Martin Juckes (DDC, BADC)  <br/>
-  Martina Stockhause (DDC, DKRZ) <br/>
-  Robert Chen (DDC, CIESIN) <br/>
-Gian-Kasper Plattner (IPCC, WG I TSU)<br/>
- Michael Mastrandrea (IPCC, WG2 TSU)<br/>
- Jan Minx (IPCC, WG3 TSU)<br/>
- Karl Taylor (PCMDI)<br/> 
- Xianfu Lu (UNFCCC)</td></tr>
- </table>
+ <p>At its 47th Session on 13-16 March 2018, the IPCC adopted Decision IPCC-XLVII-9 where TGICA was renamed to Task Group on Data Support for Climate Change Assessments (TG-Data) with new Terms of Reference for TG-Data as well as Guidance for the Data Distribution Centre (DDC). This panel decision recognises the
+importance of continuity in the operations of the DDC across multiple assessment cycles, which distinguishes the DDC from TG-Data and other IPCC bodies which are dis-banded at the end of each assessment cycle to be recreated at the start of the next one.</p>
+  
+  <h2>References</h2>
  
+ [1] Information about TG-Data is provided in the <a href="https://www.ipcc.ch/data/">Data section</a> of the IPCC web site.
+ 
+ [2] The mandate for TGICA, valid from 2007 to 2018, and the correspionding DDC governance document are available here: <a href="/docs/TGICA_Mandate_031207.pdf">former TGICA mandate</a> and <a href="/docs/TGICA_DDC_Governance_2012feb08.pdf">former DDC Governance</a>.
+ 
+ [3] Current <a href="https://www.ipcc.ch/site/assets/uploads/2018/12/Guidance_DDC.pdf">Guidance for the core functions of the IPCC Data Distribution Centre (DDC)</a>.
   
   
 </div>  
