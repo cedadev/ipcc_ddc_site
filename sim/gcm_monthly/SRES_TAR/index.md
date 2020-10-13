@@ -74,13 +74,13 @@ or the
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NN" --><b>A1FI</b><!-- /a --></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">
-  <b><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2" ><b>A2</b></a> <br>
+     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2" ><b>A2</b></a> <br>
      <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2b"><b>A2b</b></a><br>
-     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2c"><b>A2c</b></a></b>
+     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_A2c"><b>A2c</b></a>
 </td>
 <td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B1" --><b>B1</b><!-- /a --></td>
 <td ALIGN="center">
-     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B2" ><b>B2&nbsp;</b></a>  <br>
+     <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B2" ><b>B2</b></a>  <br>
      <!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HADCM3_SRES_B2b" --><b>B2b</b><!-- /a --></td>
 <td ALIGN="center">&nbsp;</td>
 </tr>
@@ -103,7 +103,7 @@ or the
 
 <tr>
 <td ALIGN="left" ROWSPAN="2">National Centre for Atmospheric Research&nbsp; <br><b>USA</b></td>
-<td ALIGN="center" ROWSPAN="2"><a href="http://www.ncar.ucar.edu">NCAR&nbsp;</a></td>
+<td ALIGN="center" ROWSPAN="2"><a href="http://www.ncar.ucar.edu">NCAR</a></td>
 <td ALIGN="center"><a href="http://www.cesm.ucar.edu/models/">NCAR-CSM</a></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
@@ -119,9 +119,9 @@ or the
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCARPCM_SRES_A1B"><b>A1B</b></a></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
-<td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCARPCM_SRES_A2"><b>A2</b></a></td>
+<td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCARPCM_SRES_A2" --><b>A2</b><!-- /a --></td>
 <td ALIGN="center">&nbsp;</td>
-<td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCARPCM_SRES_B2"><b>B2</b></a></td>
+<td ALIGN="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCARPCM_SRES_B2" --><b>B2</b><!-- /a --></td>
 <td ALIGN="center">&nbsp;</td>
 </tr>
 
@@ -145,12 +145,12 @@ or the
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
-<td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2"><b>A2&nbsp;</b></a>
+<td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2"><b>A2</b></a>
              <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2b" --><b>A2b</b><!-- /a -->
              <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_A2c" --><b>A2c</b><!-- /a -->
 </td>
 <td ALIGN="center">&nbsp;</td>
-<td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2"><b>B2&nbsp;</b></a>
+<td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2"><b>B2</b></a>
              <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2b" --><b>B2b</b><!-- /a -->
              <br><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CCCma_CGCM2_SRES_B2c" --><b>B2c</b><!-- /a --></td>
 <td ALIGN="center"><a href="http://climate-modelling.canada.ca/data/cgcm2/cgcm2.shtml">daily data<br>(remote)</a></td>
