@@ -48,7 +48,7 @@ DDC-AR5 data should be cited by its DataCite DOI and according to the <a target=
 <span style="color:darkgreen"><strong>Green experiments</strong></span> have completed the quality control process and are assigned <a target="_blank" href="http://datacite.org">DataCite</a> DOIs (Digital Object Identifiers). The underlying links resolve to the DOI landing pages, which provide basic information related to the data including access.</p>
 <!-- For <span style="color:LightSlateGrey"><strong>grey experiments</strong></span> the data is archived at least at WDCC (stable data). The quality control process is ongoing. The underlying links resolve to web pages displaying basic information related to the data including access.<br> -->
 <p>
-For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a>. How to download data is explained in the <b><a target="_blank" href="http://cera-www.dkrz.de/CERA/docs/IPCC-DDC-AR5-data.html">data download guide</a></b>.
+For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a>. How to download data is explained in the <b><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/info?site=IPCC-DDC-AR5-data">data download guide</a></b>.
 </p>
 
 <!-- <p>&nbsp;</p>

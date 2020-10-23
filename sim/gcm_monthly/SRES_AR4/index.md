@@ -21,7 +21,7 @@ retrieve the data files <font color="#0000ff">one by one</font>.
 <p>The list of requested variables can be find <a href="/gcm/misc/List_of_AR4_variables.pdf">here</a>
 </p>
 
-<P>These data represent a subset of the IPCC-Mode Ouput archive run by <a href="http://www-pcmdi.llnl.gov/ipcc/about_ipcc.php"> PCMDI</a>. There you
+<P>These data represent a subset of the IPCC-Mode Ouput archive run for CMIP3 by <a href="https://pcmdi.llnl.gov/ipcc/historical_details.html"> PCMDI</a>. There you
 may also find the complete set of variables in monthly, daily or 3 hourly temporal resolution.
 </p>
 
@@ -59,8 +59,9 @@ Data provided by the UK Met. Office/Hadley Centre are expected to be acknowledge
 <TR>
 <td colspan="15"  align="center">
 <font color="#FF0000"> <b> Status of data : August 2006 </b>   </font>
-<br>
-For correction and replacement of data sets please look at the <a href="http://esg.llnl.gov:8080/about/errata.do">errata page</a> of PCMDI</td>
+<!-- <br>
+For correction and replacement of data sets please look at the <a href="http://esg.llnl.gov:8080/about/errata.do">errata page</a> of PCMDI -->
+</td>
 </tr>
 <tr>
 <td bgcolor="#e0e0ff"> <b>&nbsp;Please note</b> <br></td>
@@ -90,7 +91,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 <!-- New set of centers  -->
 		<tr>
 		<td align="left">Beijing Climate Center <br>  <b>China</b></td>
-		<td align="center"><A HREF="http://forecast.bcccsm.cma.gov.cn">BCC</a></td>
+		<td align="center"><A HREF="http://forecast.bcccsm.ncc-cma.net/">BCC</a></td>
 		<td align="center">CM1</td>
 		<td align="center">&nbsp;</td>
 		<td align="center" bgcolor="#e0e0ff"> </td>
@@ -390,7 +391,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 
 		<tr>
 		<td align="left">Institute for Numerical Mathematics <br> <b>Russia</b></td>
-		<td align="center"><a HREF="http://www.inm.ras.ru/inm_en_ver/">INM</a></td>
+		<td align="center"><a HREF="http://www.inm.ras.ru/en/">INM</a></td>
 		<td align="center">CM3.0</td>
 		<td align="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=INM_CM3.0_COMMIT_1">run_1</a>    </td>
 		<td align="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=INM_CM3.0_PICNTRL_1">run_1</a>   </td>
@@ -496,7 +497,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 
 		<tr>
 		<td rowspan="2" align="left">National Centre for Atmospheric Research <br> <b>USA</b>&nbsp;</td>
-		<td rowspan="2" align="center"><a href="http://www2.cgd.ucar.edu/">NCAR</a></td>
+		<td rowspan="2" align="center"><a href="http://www.cgd.ucar.edu/">NCAR</a></td>
 		<td align="center">PCM</td>
 		<td align="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCAR_PCM_COMMIT_1" -->run_1<!-- a --><br>
                                    <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NCAR_PCM_COMMIT_2">run_2</a><br>

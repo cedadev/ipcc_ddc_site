@@ -39,7 +39,7 @@ The GRIB specification is maintained and reviewed by the World Meteorological
 Organisation (WMO), through its Commission for Basic Systems (CBS) and Working Group
 on Data Management. The WMO make available the specifications of binary representation
 forms such as GRIB within the publication WMO - No. 306 Manual on Codes, Volume 1,
-International Codes, Part B - Binary Codes (find it <a href="http://www.wmo.int/pages/prog/www/WMOCodes.html">here</a>).</p>
+International Codes, Part B - Binary Codes (find it <a href="https://community.wmo.int/activity-areas/wmo-codes">here</a>).</p>
 
 
 <p>WDCC at DKRZ recommends and has experiences with the following tool packages for GRIB data analysis:</p>

@@ -125,7 +125,7 @@ the GRIB data locally. For data format conversion you can either use
 
 <tr>
 <td ALIGN="left" ROWSPAN="2">National Centre for Atmospheric Research&nbsp; <br><b>USA</b></td>
-<td ALIGN="center" ROWSPAN="2"><a href="http://www.ncar.ucar.edu">NCAR&nbsp;</a></td>
+<td ALIGN="center" ROWSPAN="2"><a href="https://ncar.ucar.edu">NCAR&nbsp;</a></td>
 <td ALIGN="center"><a href="http://www.cesm.ucar.edu/models/">NCAR-CSM</a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NC01CI01"><b>control</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=NC01GG01"><b>ghg</b></a></td>

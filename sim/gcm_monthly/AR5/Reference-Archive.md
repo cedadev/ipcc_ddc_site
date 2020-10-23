@@ -12,7 +12,7 @@ logos: ssi12/logos/dkrz.html
 <h1 align="center">DDC AR5 Reference snapshot</h1>
 </div>
 
-<p>The DDC AR5 Reference snapshot was collected by the <a target="_blank" href="http://wdc-climate.de/">World Data Center Climate (WDCC) at the DKRZ in Germany</a>, the <a target="_blank" href="http://badc.nerc.ac.uk/home/index.html">British Atmospheric Data Centre (BADC) in the UK</a> and the <a target="_blank" href="https://pcmdi.llnl.gov/">Program for Climate Model Diagnosis and Intercomparison (PCMDI) University of California in the US</a>. The DDC AR5 Reference snapshot is based on the status of the CMIP5 data archive as of March 15, 2013.<a href="#footnote-ESGF-data"><sup>1</sup></a> The corresponding IPCC WGI AR5 data snapshot can be found <a target="_blank" href="WG1-Archive.html">here</a>.
+<p>The DDC AR5 Reference snapshot was collected by the <a target="_blank" href="http://wdc-climate.de/">World Data Center Climate (WDCC) at the DKRZ in Germany</a>, the <a target="_blank" href="http://badc.nerc.ac.uk/">British Atmospheric Data Centre (BADC) in the UK</a> and the <a target="_blank" href="https://pcmdi.llnl.gov/">Program for Climate Model Diagnosis and Intercomparison (PCMDI) University of California in the US</a>. The DDC AR5 Reference snapshot is based on the status of the CMIP5 data archive as of March 15, 2013.<a href="#footnote-ESGF-data"><sup>1</sup></a> The corresponding IPCC WGI AR5 data snapshot can be found <a target="_blank" href="WG1-Archive.html">here</a>.
 </p>
 
 <p>CMIP5 data provided through the IPCC DDC has undergone a <a target="_blank" href="http://cmip5qc.wdc-climate.de">quality control procedure</a>. To find individual information on data, data creation and data quality for an experiment, please follow the links in the below tables.</p>
@@ -31,7 +31,7 @@ For corrections of data sets published under later versions in ESGF please look 
 <b>CMIP5 License Statement</b>
 <p>
 <font size="-1" face="arial">
-<b>These data were first published under the license of CMIP5. Terms of use for CMIP5 are applied for DDC-AR5 data. They are provided at <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html">https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html</a>. Data from some modelling centres are licensed for use in non-commercial research and for educational purposes, other for unrestricted use. Please refer to the <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/docs/CMIP5_modeling_groups.pdf">terms of use for the CMIP5 modeling groups</a> for details. 
+<b>These data were first published under the license of CMIP5. Terms of use for CMIP5 are applied for DDC-AR5 data. They are provided at <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html">https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html</a>. Data from some modelling centres are licensed for use in non-commercial research and for educational purposes, other for unrestricted use. Please refer to the <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/availability.html">terms of use for the CMIP5 modeling groups</a> for details. 
 <br>
 DDC-AR5 data should be cited by its DataCite DOI and according to the <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/citation.html">citation recommendation of CMIP5</a>.</b>
 </font>
@@ -51,7 +51,7 @@ For <span style="color:LightSlateGrey"><strong>grey experiments</strong></span> 
 <!-- <br /><span style="color: orange;"><strong>Yellow experiments</strong></span> are in the process of long-term archiving at WDCC and <strong><em>not yet available for download</em></strong>. -->
 </p>
 <p>
-For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a>. How to download data is explained in the <b><a target="_blank" href="http://cera-www.dkrz.de/CERA/docs/IPCC-DDC-AR5-data.html">data download guide</a></b>.
+For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a>. How to download data is explained in the <b><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/info?site=IPCC-DDC-AR5-data">data download guide</a></b>.
 </p>
 
 <!-- Currently only file-based access is provided. Field-based access will become available later. -->

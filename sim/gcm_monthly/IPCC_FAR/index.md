@@ -15,7 +15,7 @@ w3cValid: yes
 
 <p>
 The model output data are originally archibed by 
-<a href="http://www.ncar.ucar.edu/">National Center for Atmospheric Research</a> (NCAR). 
+<a href="https://ncar.ucar.edu/">National Center for Atmospheric Research</a> (NCAR). 
 They are now managed by the 
 <a href="http://rda.ucar.edu/">CISL Research Data Archive</a>
 and were included into the IPCC Data Distribution Center model archive with the support of the UCAR Data Section. <br>

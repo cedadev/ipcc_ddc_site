@@ -75,7 +75,7 @@ observed climate for the 1961-1990 period for subcontinental world regions can b
 </p>
 
 <p><b>AR5 Scenarios</b></p>
-<p>AR5 Scenarios are based on scenarios of the <a href="http://cmip-pcmdi.llnl.gov/cmip5/" target="_blank">CMIP5 (Climate Model Intercomparison Project Phase 5)</a>. Details on CMIP5 Scenarios can be found in:<br />
+<p>AR5 Scenarios are based on scenarios of the <a href="http://pcmdi.llnl.gov/mips/cmip5/" target="_blank">CMIP5 (Climate Model Intercomparison Project Phase 5)</a>. Details on CMIP5 Scenarios can be found in:<br />
 <em>Taylor, K.E., R.J. Stouffer, G.A. Meehl</em> (2012): An Overview of CMIP5 and the experiment design. Bull. Amer. Meteor. Soc., 93, 485-498, <a href="http://dx.doi.org/10.1175/BAMS-D-11-00094.1" target="_blank">doi:10.1175/BAMS-D-11-00094.1</a>.<br />
 And details on the RCP Emissions and Land Use scenarios used in AR5 are described <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/RCPs.html" target="_blank">here</a>.</p>
 

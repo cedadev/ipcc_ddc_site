@@ -103,7 +103,7 @@ or the
 
 <tr>
 <td ALIGN="left" ROWSPAN="2">National Centre for Atmospheric Research&nbsp; <br><b>USA</b></td>
-<td ALIGN="center" ROWSPAN="2"><a href="http://www.ncar.ucar.edu">NCAR</a></td>
+<td ALIGN="center" ROWSPAN="2"><a href="https://ncar.ucar.edu">NCAR</a></td>
 <td ALIGN="center"><a href="http://www.cesm.ucar.edu/models/">NCAR-CSM</a></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>

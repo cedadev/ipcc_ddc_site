@@ -178,7 +178,7 @@ logos: ssi12/logos/dkrz.html
 <td align="right">7.3</td>
 <td align="left"><a id="historicalMisc">historicalMisc</a></td>
 <td align="left">7.3 historical</td>
-<td align="left">Historical simulation but with other individual forcing agents, e.g. anthropogenic aerosol, or combinations of forcings. Information on the forcings used in the different model runs are summarized in the <a href="https://cmip.llnl.gov/cmip5/docs/historical_Misc_forcing.pdf" target="_blank">CMIP5 historicalMisc forcing document</a>.</td>
+<td align="left">Historical simulation but with other individual forcing agents, e.g. anthropogenic aerosol, or combinations of forcings. Information on the forcings used in the different model runs are summarized in the <a href="https://doi.org/10.5281/zenodo.4113081" target="_blank">CMIP5 historicalMisc forcing document</a>.</td>
 </tr>
 <tr>
 <td align="right">7.1</td>
