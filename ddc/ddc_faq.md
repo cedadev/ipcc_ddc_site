@@ -32,7 +32,6 @@ logos: ssi12/logos/badc.html
  <li><A HREF="#anchor1031507" TARGET="frame256263">GCMs</A></li>
  <li><A HREF="#anchor1031891" TARGET="frame256263">Climate Change Scenarios</A></li>
  <li><A HREF="#anchor1032161" TARGET="frame256263">Observed Climate Data</A></li>
- <li><A HREF="#emissions" TARGET="frame256263">Observed Emissions Data</A></li>
  <li><A HREF="#anchor1032433" TARGET="frame256263">Non-Climatic Scenarios</A></li>
  <li><A HREF="#anchor1032752" TARGET="frame256263">Miscellaneous</A></li>
 </ul>
@@ -61,7 +60,6 @@ logos: ssi12/logos/badc.html
  <p><b>A.</b> For the 5th IPCC Assessment Report the DDC is providing data at
 a range of frequencies from their <a href="/sim/gcm_monthly/">climate model output pages.</a>
 For earlier assessment reports, only monthly data was retained.
- Some daily data used in the 4th Assessment Report is available from <a href="http://www-pcmdi.llnl.gov/ipcc/about_ipcc.php">PCMDI</a>.
  </p>
  
  <p style="font-size:-1;font-style:Geneva"><b>Q. Where can I find data on mean sea-level rise?</b></p>
@@ -454,40 +452,6 @@ For earlier assessment reports, only monthly data was retained.
  or natural systems are likely to be reasonably well adapted, and
  the period ends in 1990, the year adopted by many IPCC and UN
  FCCC applications.</p>
- 
- 
- <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>
- 
- <p style="font-size:+1;font-style:Geneva"><A NAME="emissions"></A><b>Observed Emissions Data</b></p>
- 
- <p><b><font SIZE="-1" FACE="Geneva">Q. Where can I find current information
- on greenhouse gas emissions?</font></b></p>
- 
- There is data on CO2 emissions by country, up to 2005, in the
- Carbon Dioxide Information Analysis Center (CDIAC) archive:
- <ul>
- <li><a href="http://cdiac.ornl.gov/trends/emis/overview.html">Fossil fuel emissions</a></li>
- <li><a href="http://cdiac.ornl.gov/trends/landuse/houghton/houghton.html">Emissions from land use change</a></li>
- </ul>
- 
- Methane emissions are less well observed: on page 541, of the
- 4th Assessment Report, WG1 Chapt. 7, there is a section describing how
- the IPCC estimate of 582 Tg (CH4)/year emissions was arrived at:
- this is based on observing the increase in atmospheric concentrations and estimating the sources
- 
- Information on CFCs is in:
- <a class="IPCC" href="http://www.ipcc.ch/report/safeguarding-the-ozone-layer-and-the-global-climate-system/">Safeguarding the Ozone Layer and the Global Climate System:
- Issues related to hydrofluorocarbons and perfluorocarbons</a>,
- IPCC/TEAP, 2005 - Bert Metz, Lambert Kuijpers,
- Susan Solomon, Stephen O. Andersen, Ogunlade Davidson, Jos&eacute; Pons,
- David de Jager, Tahl Kestin, Martin Manning, and Leo Meyer (Eds)
- Cambridge University Press, UK. pp 478
- (see <a class="IPCC" href="http://www.ipcc.ch/reports">IPCC reports</a> for translations).
- 
- <p/> Emissions of N2O from various research papers listed in Chapt. 7, table 7.7 of 4th Assessment Report, WG1.
- 
- <p/> Further information can be obtained from the
- <a href="http://www.iea.org/">International Energy Agency (IEA)</a>.</p>
  
  
  <p><A HREF="#anchor559935" TARGET="frame256263">Back to Top</A></p>

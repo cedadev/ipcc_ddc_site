@@ -41,7 +41,7 @@ w3cValid: yes
   This Task Group was itself formed following a recommendation made at the IPCC Workshop on
   Regional Climate Change Projections for Impact Assessment (London, 24-26 September 1996).
 At its 47th Session in March 2018, the Panel decided to rename TGICA the
- <a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
+ <a href="https://www.ipcc.ch/data">
 Task Group on Data Support for Climate Change Assessments (TG-DATA) 
 </a> and developed a new mandate for TG-Data and <a href="https://www.ipcc.ch/site/assets/uploads/2018/12/Guidance_DDC.pdf">guidance for the DDC</a> (replacing the previous governance document). This panel decision recognises the
 importance of continuity in the operations of the DDC across multiple assessment cycles, which distinguishes the DDC from TG-Data and other IPCC bodies which are dis-banded at the end of each assessment cycle to be recreated at the start of the next one (<a href="#ref1">[3]</a>).</p>
