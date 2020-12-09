@@ -28,8 +28,7 @@ logos: ssi12/logos/All.html
 | <a href="glossary_hi.html">H-I</a>
 | <a href="glossary_jk.html">J-K</a>
 | <a href="glossary_lm.html">L-M</a>
-| <a href="glossary_n.html">N</a>
-| <a href="glossary_o.html">O</a>
+| <a href="glossary_no.html">N-O</a>
 | <a href="glossary_pq.html">P-Q</a>
 | <a href="glossary_r.html">R</a>
 | <a href="glossary_s.html">S</a>

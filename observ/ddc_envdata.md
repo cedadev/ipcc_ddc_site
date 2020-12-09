@@ -148,7 +148,7 @@ logos: ssi12/logos/All.html
  representative of the 1990s</a> 
  have been compiled for each country by the World Conservation Monitoring Centre, were published for
  an <strong>IPCC report on Regional Impacts of Climate Change</strong> (available from
- <a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.htm">this page</a>).</p>
+ <a href="https://www.ipcc.ch/report/the-regional-impacts-of-climate-change-an-assessment-of-vulnerability/">this page</a>).</p>
  
  <p>&nbsp;</p>
 

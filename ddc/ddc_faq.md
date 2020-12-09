@@ -104,7 +104,7 @@ For earlier assessment reports, only monthly data was retained.
  with the observed climate. The modelled and observed data are
  projected to the same grid, and statistical methods employed to
  compare, for example, mean values, variability and climatic patterns.
- Some model-observed comparisons are possible using the <a HREF="/maps/"
+ Some model-observed comparisons are possible using the <a HREF="https://apps.ipcc-data.org/maps/"
  TARGET="_top">Data Visualisation Pages</a> of the DDC.</p>
  
  <p><I>Representativeness</I>. If results from more than one GCM
@@ -543,11 +543,11 @@ For earlier assessment reports, only monthly data was retained.
  
  <h5>Q. Can you provide a sample URL for an image from the DDC WMS?</h5>
  
- <a href="/maps/wms/tar?FORMAT=image%2Fgif&VERSION=1.3.0&CRS=CRS%3A84&SERVICE=WMS&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&LAYERS=nies99%3Aa1%2Ftmp200&TIME=1984-1-15T0%3A0%3A0.0Z&SRS=EPSG%3A4326&BBOX=-180,-90,180,90&WIDTH=256&HEIGHT=256">Example WMS image request</a>
+ <a href="https://apps.ipcc-data.org/maps/wms/tar?FORMAT=image%2Fgif&VERSION=1.3.0&CRS=CRS%3A84&SERVICE=WMS&REQUEST=GetMap&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&LAYERS=nies99%3Aa1%2Ftmp200&TIME=1984-1-15T0%3A0%3A0.0Z&SRS=EPSG%3A4326&BBOX=-180,-90,180,90&WIDTH=256&HEIGHT=256">Example WMS image request</a>
  
  
  <br/>
- The WMS does not support a standard getLegendGraphic request, but can provide some information as demonstrated by the following example:<a href="/maps/wms/ar4?FORMAT=text%2Fhtml&VERSION=1.3.0&CRS=CRS%3A84&SERVICE=WMS&REQUEST=GetLegend&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&LAYERS=CGMR%3A20C3M%3Aclim_30%2Fspecific_humidity&TIME=1915-1-16T0%3A0%3A0.0Z&SRS=EPSG%3A4326">colour bar information</a>. 
+ The WMS does not support a standard getLegendGraphic request, but can provide some information as demonstrated by the following example:<a href="https://apps.ipcc-data.org/maps/wms/ar4?FORMAT=text%2Fhtml&VERSION=1.3.0&CRS=CRS%3A84&SERVICE=WMS&REQUEST=GetLegend&STYLES=&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&LAYERS=CGMR%3A20C3M%3Aclim_30%2Fspecific_humidity&TIME=1915-1-16T0%3A0%3A0.0Z&SRS=EPSG%3A4326">colour bar information</a>. 
  
  <!-- End Main Text Box -->
  
