@@ -142,8 +142,8 @@ CMIP5 data provided at the IPCC Data Distribution Centre (Published September 20
  </ul>
  
  <p>Finally, if you have any questions about the DDC, find errors on the site, or have general questions
- about climate scenarios then please contact the DDC managers by using the <a href="/cgi-bin/query">
- feedback form</a><br/>
+ about climate scenarios then please contact the DDC managers
+through the <a href="mailto:support@ceda.ac.uk?subject=[IPCC DDC]">helpdesk (support@ceda.ac.uk).</a>
  </p>
  
  <hr align="left" width="100"/>
