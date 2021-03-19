@@ -125,7 +125,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 
 		<tr>
 		<td rowspan="2" align="left">Canadian Center for Climate Modelling and Analysis <br> <b>Canada</b></td>
-		<td rowspan="2" align="center"><A HREF="http://www.ec.gc.ca/default.asp?lang=En">CCCma</a></td>
+		<td rowspan="2" align="center"><A HREF="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">CCCma</a></td>
 		<td align="center">CGCM3 (T47 resolution)</td>
 		<td align="center"><!-- a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_COMMIT_1" -->run_1<!-- /a --> <br>
                                    <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_COMMIT_2">run_2</a>  <br>

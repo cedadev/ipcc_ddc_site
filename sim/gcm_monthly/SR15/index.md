@@ -19,7 +19,7 @@ D. Mitchell et al. (2017). Half a degree additional warming, prognosis and proje
 
 <p>The data is provided in <a href="/sim/gcm_monthly/INFO/formats.html">NetCDF/CF format</a>. Information on requested variables are summarised in <a target="_blank" href="/sim/gcm_monthly/INFO/HAPPI_request_diagnostics_final.pdf">HAPPI_request_diagnostics_final.pdf</a>. </p>
 
-<p>For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a target="_blank" href="http://cera-www.dkrz.de/">CERA Portal</a>. How to download data is explained in the <strong><a target="_blank" href="https://cera-www.dkrz.de/CERA/docs/IPCC-DDC-AR5-data.html">data download guide.</a></strong> </p>
+<p>For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a target="_blank" href="http://cera-www.dkrz.de/">CERA Portal</a>. How to download data is explained in the <strong><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/info?site=IPCC-DDC-AR5-data">data download guide.</a></strong> </p>
 
 <h2 align="CENTER">Available SR1.5 related data</h2>
 
@@ -45,7 +45,7 @@ D. Mitchell et al. (2017). Half a degree additional warming, prognosis and proje
 <tr>
 <td align="left">Canadian Centre for Climate Modelling and Analysis<br />
          <strong>Canada</strong></td>
-<td align="left"><a target="_blank" href="http://www.ec.gc.ca/ccmac-cccma/">CCCma</a></td>
+<td align="left"><a target="_blank" href="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">CCCma</a></td>
 <td align="left">CanAM4</td>
 <td align="left">Scinocca, John (2019): Simulations of HAPPI (Half a degree Additional warming, Prognosis and Projected Impacts) Tier-1 experiments based on the CanAM4 atmospheric model of the Canadian Centre for Climate Modelling and Analysis (CCCma). WDCC at DKRZ. <a target="_blank" href="http://doi.org/10.26050/WDCC/HAPPI-global-CanAM4">doi:10.26050/WDCC/HAPPI-global-CanAM4</a>.</td>
 <td align="left"><a target="_blank" href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HACCA4AHs1v10" ><span style="color:darkgreen;">historical</span></a></td>

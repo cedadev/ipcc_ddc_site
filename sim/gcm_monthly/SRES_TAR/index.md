@@ -140,7 +140,7 @@ or the
 
 <tr>
 <td ALIGN="left">Canadian Center for Climate Modelling and Analysis <br><b>Canada</b></td>
-<td ALIGN="center"><a href="http://www.ec.gc.ca/ccmac-cccma">CCCma</a></td>
+<td ALIGN="center"><a href="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">CCCma</a></td>
 <td ALIGN="center"><a href="http://www.ec.gc.ca/ccmac-cccma/default.asp?lang=En&n=40D6024E-1">CGCM2</a></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>

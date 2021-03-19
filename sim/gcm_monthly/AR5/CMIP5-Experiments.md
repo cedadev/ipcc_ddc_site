@@ -633,7 +633,7 @@ logos: ssi12/logos/dkrz.html
 
 <p align="center">&nbsp;</p>
 <p align="left">
-<i>Source: CMIP5 Questionnaire (<a target="_blank" href="http://q.cmip5.ceda.ac.uk/feeds/cmip5/experiment/">http://q.cmip5.ceda.ac.uk/feeds/cmip5/experiment/</a>; last access: 2014-01-08)<br />
+<i>Source: CMIP5 Questionnaire (http://q.cmip5.ceda.ac.uk/feeds/cmip5/experiment/; last access: 2014-01-08)<br />
 Contact: dataATdkrz.de</i></p>
 
 
