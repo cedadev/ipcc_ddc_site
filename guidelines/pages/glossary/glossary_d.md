@@ -51,7 +51,8 @@ logos: ssi12/logos/All.html
 <a name="dkrz"></a>
 <h3>DKRZ</h3><p><a href="http://www.dkrz.de/" target="_blank">Deutsches Klimarechensentrum / German Climate Computing Centre </a></p>
 <a name="drs"></a>
-<h3>DRS</h3><p>Data Reference Syntax. DRS is a commmon naming system used in the CMIP5 archive to identify datasets. <a href="http://cmip-pcmdi.llnl.gov/cmip5/docs/cmip5_data_reference_syntax.pdf" target="_blank">More about DRS.</a></p>
+<h3>DRS</h3><p>Data Reference Syntax. DRS is a commmon naming system used in the CMIP5 archive to identify datasets.
+<a href="https://pcmdi.llnl.gov/mips/cmip5/docs/cmip5_data_reference_syntax.pdf" target="_blank">More about DRS.</a></p>
 
  </div><!-- End demo -->
 

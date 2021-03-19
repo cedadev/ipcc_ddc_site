@@ -55,7 +55,7 @@ logos: ssi12/logos/badc.html
  <a class="x" href="http://www.esrl.noaa.gov/gmd/index.html">NOAA Earth System Research
  Laboratory Global Monitoring Division</a>,
  including
- <a class="x" href="http://www.esrl.noaa.gov/gmd/ccgg/trends/co2_data_mlo.html">
+ <a class="x" href="http://www.esrl.noaa.gov/gmd/ccgg/trends/">
  monthly data from Mauna Loa.
  </a>
  

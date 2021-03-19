@@ -40,8 +40,7 @@ logos: ssi12/logos/badc.html
  <li><a class="extern" href="http://www.ncdc.noaa.gov/ghcnm/" target="frame256263">Global Historic Climatology Network (GHCN) monthly data</a></li>
  <li><a class="extern" href="http://ingrid.ldeo.columbia.edu/" target="frame256263">International Research Institute for Climate Prediction/Lamont-Doherty Earth Observation at University of Columbia</a></li>
  <li><a class="extern" href="http://www.esrl.noaa.gov/psd/data/reanalysis/reanalysis.shtml" target="frame256263">NCEP Re-analysis Data</a></li>
- <li><a class="extern" href="http://badc.nerc.ac.uk/home/index.html" target="frame256263">British Atmospheric Data Centre (BADC)</a></li>
- 
+ <li><a class="extern" href="http://ceda.ac.uk/" target="frame256263">Centre for Environmental Data Analysis (CEDA)</a></li>
  <li><a class="extern" href="http://gpcc.dwd.de/" target="frame256263">Global Precipitation Climatology Centre (GPCC)</a></li>
  <li><a class="extern" href="http://www.scd.ucar.edu/dss/" target="frame256263">National Centre for Atmospheric Research (NCAR) Data Support System</a></li>
  <li><a class="extern" href="http://www.cru.uea.ac.uk/cru/data/" target="frame256263">Climatic Research Unit (CRU) data</a></li>
