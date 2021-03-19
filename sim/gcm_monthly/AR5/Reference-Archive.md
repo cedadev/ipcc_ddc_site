@@ -191,7 +191,7 @@ For the data download from the IPCC DDC an account (free of charge) is required:
 <tr>
 <td align="left" rowspan="3">Canadian Centre for Climate Modelling and Analysis<br />
                                  <strong>Canada</strong></td>
-<td align="left" rowspan="3"><a target="_blank" href="http://www.ec.gc.ca/ccmac-cccma/">CCCma</a></td>
+<td align="left" rowspan="3"><a target="_blank" href="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">CCCma</a></td>
 <td align="left"><a target="_blank" href="http://climate-modelling.canada.ca/climatemodeldata/cgcm4/cgcm4.shtml">CanAM4</a></td>
 <td align="center">-<br /></td>
 <td align="left"><a target="_blank"  href="https://doi.org/10.1594/WDCC/CMIP5.CCA4am"><span style="color:darkgreen;">amip</span></a><br />
@@ -494,7 +494,7 @@ Centre Europ&eacute;en de Recherche et de Formation Avanc&eacute;e en Calcul Sci
 <tr>
 <td align="left">Russian Academy of Sciences,<br />
                                  Institute of Numerical Mathematics<br /><strong>Russia</strong></td>
-<td align="left"><a target="_blank" href="http://www.inm.ras.ru/inm_en_ver/">INM</a></td>
+<td align="left"><a target="_blank" href="http://www.inm.ras.ru/en/">INM</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1134/S000143381004002X">INMCM4.0</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.INC4pc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.INC4am"><span style="color:darkgreen">amip</span></a></td>
@@ -639,7 +639,7 @@ Centre Europ&eacute;en de Recherche et de Formation Avanc&eacute;e en Calcul Sci
 Chinese Academy of Sciences<br />
                                  <strong>China</strong></td>
 <td align="left"><a target="_blank" href="http://english.iap.cas.cn">LASG-CESS</a></td>
-<td align="left"><a target="_blank" href="http://www.lasg.ac.cn/fgoals/index2.asp">FGOALS-g2</a></td>
+<td align="left">FGOALS-g2</td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LSF2pc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LSF2am"><span style="color:darkgreen">amip</span></a><br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LSF2a4"><span style="color:darkgreen">amip4K</span></a><br />
@@ -678,7 +678,7 @@ Chinese Academy of Sciences<br />
 Chinese Academy of Sciences<br />
                                  <strong>China</strong></td>
 <td align="left" rowspan="2"><a target="_blank" href="http://english.iap.cas.cn">LASG-IAP</a></td>
-<td align="left"><a target="_blank" href="http://www.lasg.ac.cn/fgoals/index2.asp">FGOALS-gl</a></td>
+<td align="left">FGOALS-gl</td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
@@ -693,7 +693,7 @@ Chinese Academy of Sciences<br />
 </tr>
 
 <tr>
-<td align="left"><a target="_blank" href="http://www.lasg.ac.cn/fgoals/index2.asp">FGOALS-s2</a></td>
+<td align="left">FGOALS-s2</td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LIFSpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LIFSam"><span style="color:darkgreen">amip</span></a></td>
 <td align="center">-<br /></td>
@@ -1078,7 +1078,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="left"  rowspan="4">NASA/GISS (Goddard Institute for Space Studies)<br />
                                  <strong>USA</strong></td>
 <td align="left"  rowspan="4"><a target="_blank" href="http://www.giss.nasa.gov/">NASA-GISS</a></td>
-<td align="left"><a target="_blank" href="http://data.giss.nasa.gov/modelE/ar5">GISS-E2-H</a></td>
+<td align="left"><a target="_blank" href="http://www.giss.nasa.gov/tools/modelE/">GISS-E2-H</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIGHpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="center">-<br /></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIGHhi"><span style="color:darkgreen">historical</span></a><br />
@@ -1094,11 +1094,11 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="center">-<br /></td>
 <td align="center">-<br /></td>
 <td rowspan="4" align="center">-</td>
-<td align="center" rowspan="4"><a target="_blank" href="http://data.giss.nasa.gov/modelE/ar5/">NASA-GISS page</a><br /><a target="_blank"  href="https://pcmdi.llnl.gov/mips/cmip5/errata.html">CMIP5 page</a></td>
+<td align="center" rowspan="4"><a target="_blank" href="http://www.giss.nasa.gov/tools/modelE/">NASA-GISS page</a><br /><a target="_blank"  href="https://pcmdi.llnl.gov/mips/cmip5/errata.html">CMIP5 page</a></td>
 </tr>
 
 <tr>
-<td align="left"><a target="_blank" href="http://data.giss.nasa.gov/modelE/ar5">GISS-E2-H-CC</a></td>
+<td align="left"><a target="_blank" href="http://www.giss.nasa.gov/tools/modelE/">GISS-E2-H-CC</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIHCpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="center">-<br /></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIHChi"><span style="color:darkgreen">historical</span></a></td>
@@ -1110,7 +1110,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="center">-<br /></td>
 </tr>
 <tr>
-<td align="left"><a target="_blank" href="http://data.giss.nasa.gov/modelE/ar5">GISS-E2-R</a></td>
+<td align="left"><a target="_blank" href="http://www.giss.nasa.gov/tools/modelE/">GISS-E2-R</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIGRpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIGRam"><span style="color:darkgreen">amip</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIGRhi"><span style="color:darkgreen">historical</span></a><br />
@@ -1127,7 +1127,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <td align="center">-<br /></td>
 </tr>
 <tr>
-<td align="left"><a target="_blank" href="http://data.giss.nasa.gov/modelE/ar5">GISS-E2-R-CC</a></td>
+<td align="left"><a target="_blank" href="http://www.giss.nasa.gov/tools/modelE/">GISS-E2-R-CC</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIRCpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="center">-<br /></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.GIRChi"><span style="color:darkgreen">historical</span></a></td>
@@ -1145,7 +1145,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <tr>
 <td align="left"  rowspan="6">National Center for Atmospheric Research<br /><strong>USA</strong></td>
 <td align="left" rowspan="6"><a target="_blank" href="http://ncar.ucar.edu/">NCAR<br />NSF-DOE-NCAR</a></td>
-<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CCSM4</a><br /><a target="_blank" href="http://journals.ametsoc.org/page/CCSM4/CESM1">(Journal)</a></td>
+<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CCSM4</a><br /><a target="_blank" href="https://journals.ametsoc.org/browse?t=CCSM4-CESM1">(Journal)</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NRS4pc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NRS4am"><span style="color:darkgreen">amip</span></a><br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NRS4a4"><span style="color:darkgreen">amip4K</span></a><br />
@@ -1179,7 +1179,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 </tr>
 
 <tr>
-<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CESM1(BGC)</a><br /><a target="_blank" href="http://journals.ametsoc.org/page/CCSM4/CESM1">(Journal)</a></td>
+<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CESM1(BGC)</a><br /><a target="_blank" href="https://journals.ametsoc.org/browse?t=CCSM4-CESM1">(Journal)</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCBpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="center">-<br /></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCBhi"><span style="color:darkgreen">historical</span></a></td>
@@ -1201,7 +1201,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 </tr>
 
 <tr>
-<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CESM1(CAM5)</a><br /><a target="_blank" href="http://journals.ametsoc.org/page/CCSM4/CESM1">(Journal)</a></td>
+<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CESM1(CAM5)</a><br /><a target="_blank" href="https://journals.ametsoc.org/browse?t=CCSM4-CESM1">(Journal)</a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCCpc"><span style="color:darkgreen">piControl</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCCam"><span style="color:darkgreen">amip</span></a><br /><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCCa2"><span style="color:darkgreen">amip4xCO2</span></a><br /><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCCaf"><span style="color:darkgreen">amipFuture</span></a></td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.NFCChi"><span style="color:darkgreen">historical</span></a></td>
@@ -1603,7 +1603,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <tr>
 <td align="left">Canadian Centre for Climate Modelling and Analysis<br />
                                  <strong>Canada</strong></td>
-<td align="left"><a target="_blank" href="http://www.ec.gc.ca/ccmac-cccma">CCCma</a></td>
+<td align="left"><a target="_blank" href="https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html">CCCma</a></td>
 <td align="left"><a target="_blank" href="http://climate-modelling.canada.ca/climatemodeldata/cgcm4/cgcm4.shtml">CanCM4</a></td>
 
 <td align="left">
@@ -1909,7 +1909,7 @@ Center for Ocean-Land-Atmosphere Studies<br />
 Chinese Academy of Sciences<br />
                                  <strong>China</strong></td>
 <td align="left"><a target="_blank" href="http://english.iap.cas.cn">LASG-CESS</a></td>
-<td align="left"><a target="_blank" href="http://www.lasg.ac.cn/fgoals/index2.asp">FGOALS-g2</a></td>
+<td align="left">FGOALS-g2</td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LSF260"><span style="color:darkgreen;">decadal1960</span></a> <br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LSF265"><span style="color:darkgreen;">decadal1965</span></a> <br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LSF270"><span style="color:darkgreen;">decadal1970</span></a> <br />
@@ -1933,7 +1933,7 @@ Chinese Academy of Sciences<br />
 Chinese Academy of Sciences<br />
                                  <strong>China</strong></td>
 <td align="left" rowspan="2"><a target="_blank" href="http://english.iap.cas.cn">LASG-IAP</a></td>
-<td align="left"><a target="_blank" href="http://www.lasg.ac.cn/fgoals/index2.asp">FGOALS-s2</a></td>
+<td align="left">FGOALS-s2</td>
 <td align="left"><a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LIFS60"><span style="color:darkgreen;">decadal1960</span></a> <br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LIFS65"><span style="color:darkgreen;">decadal1965</span></a> <br />
 <a target="_blank" href="https://doi.org/10.1594/WDCC/CMIP5.LIFS70"><span style="color:darkgreen;">decadal1970</span></a> <br />
@@ -2503,7 +2503,7 @@ Japan Agency for Marine-Earth Science and Technology<br />
 <tr>
 <td align="left">National Center for Atmospheric Research<br /><strong>USA</strong></td>
 <td align="left"><a target="_blank" href="http://ncar.ucar.edu/">NCAR</a></td>
-<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CCSM4</a> <a target="_blank" href="http://journals.ametsoc.org/page/CCSM4/CESM1">(Journal)</a></td>
+<td align="left"><a target="_blank" href="http://www2.cesm.ucar.edu/">CCSM4</a> <a target="_blank" href="https://journals.ametsoc.org/browse?t=CCSM4-CESM1">(Journal)</a></td>
 
 <td align="left">
 <table cellpadding="3">
