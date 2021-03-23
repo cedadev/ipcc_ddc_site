@@ -32,7 +32,7 @@ logos: ssi12/logos/dkrz.html
 <b>CMIP5 License Statement</b>
 <p>
 <font size="-1" face="arial">
-<b>These data were first published under the license of CMIP5. Terms of use for CMIP5 are applied for DDC-AR5 data. They are provided at <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html">https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html</a>. Data from some modelling centres are licensed for use in non-commercial research and for educational purposes, other for unrestricted use. Please refer to the <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/docs/CMIP5_modeling_groups.pdf">terms of use for the CMIP5 modeling groups</a> for details. 
+<b>These data were first published under the license of CMIP5. Terms of use for CMIP5 are applied for DDC-AR5 data. They are provided at <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html">https://pcmdi.llnl.gov/mips/cmip5/terms-of-use.html</a>. Data from some modelling centres are licensed for use in non-commercial research and for educational purposes, other for unrestricted use. Please refer to the <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/availability.html">terms of use for the CMIP5 modeling groups</a> for details. 
 <br>
 DDC-AR5 data should be cited by its DataCite DOI and according to the <a target="_blank" href="https://pcmdi.llnl.gov/mips/cmip5/citation.html">citation recommendation of CMIP5</a>.</b>
 </font>
