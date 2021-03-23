@@ -75,7 +75,7 @@ Climate change commitment includes other future changes, for example in the hydr
 <a name="cmip"></a>
 <h3>CMIP</h3><p>Coupled Model Intercomparison Project</p>
 <a name="cmip5"></a>
-<h3>CMIP5</h3><p><a href="http://cmip-pcmdi.llnl.gov/cmip5/" target="_blank">Fifth Coupled Model Intercomparison Project</a></p>
+<h3>CMIP5</h3><p><a href="https://pcmdi.llnl.gov/mips/cmip5/" target="_blank">Fifth Coupled Model Intercomparison Project</a></p>
 <a name="cru"></a>
 <h3>CRU</h3><p><a href="http://www.cru.uea.ac.uk/" target="_blank">Climatic Research Unit</a></p>
 <!--<h3>CSU</h3><p> </p>-->
