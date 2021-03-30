@@ -37,15 +37,14 @@ logos: ssi12/logos/All.html
   
   <p> The funding for the DDC has been provided by the German Government through the
   <a href="http://www.bmbf.de">Federal Ministry of Education and Research (BMBF)</a>;
-  by the UK Government through the <a href="http://www.decc.gov.uk/">
-  Department of Energy and Climate Change (DECC)</a>; and by the US Government through
+  by the UK Government through the
+<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy and Insdustrial Strategy (BEIS)</a>; and by the US Government through
   <a href="http://www.nasa.gov">National Aeronautics
   and Space Administration (NASA)</a>.
   </p>
   
   <p> The DDC is advised and guided by the
-<a href="https://www.ipcc.ch/task-group-on-data-and-scenario-support-for-impact-and-climate-analysis-tgica">
-Task Group on Data Support for Climate Change Assessments (TG-DATA)
+<a href="https://www.ipcc.ch/data/"> Task Group on Data Support for Climate Change Assessments (TG-DATA)
 </a>
 (formely the Task Group on Data and Scenario Support for Impact and Climate Analysis - TGICA).
   Both the DDC and the TG-DATA are supported by the IPCC
@@ -100,15 +99,6 @@ E-mail: <a href="mailto:lautenschlager@dkrz.de">lautenschlager@dkrz.de</a>  <br/
   discussion of the uncertainties of climate scenarios, guidance
   on their application in impacts studies, and suggestions on the
   reporting of research results. The procedures for producing full length guidance documents and brief factsheets are given here: <a href="/docs/guidelines_process_document_Oct2011.pdf">guidelines publication procedure</a> and <a href="/docs/fact_sheets_process_document_Oct2011.pdf">factsheet publication procedure</a>.</p>
-  
-  <p>Dr. Timothy Carter<br/>
-  Research Professor<br/>
-  Research Programme for Global Change<br/>
-  Finnish Environment Institute (SYKE)<br/>
-  Box 104 (Mechelininkatu 34a)<br/>
-  FIN-00251 Helsinki<br/>
-  Finland<br/>
-  </p>
   
   
 </div> 
