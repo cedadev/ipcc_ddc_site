@@ -20,7 +20,7 @@ logos: ssi12/logos/All.html
   
   <p> The DDC is a shared operation of the British Atmospheric Data Centre
   (BADC) in the United Kingdom; the World Data Center Climate at the
-  Deutsches Klimarechenzentrum (DKRZ) in Germany (WDCC / DKRZ) in Hamburg, Germany;
+  Deutsches Klimarechenzentrum in Germany (WDCC / DKRZ) in Hamburg, Germany;
   and the Socioeconomic Data and Applications Center (SEDAC) operated by
   the Center for International Earth Science Information Network (CIESIN)
   at Columbia University, New York, USA. Each of these institutions has
