@@ -37,8 +37,6 @@ format you'll have to convert the binary data locally.</p>
 
 <p>Information on both formats and the internal data structure is given 
                    <a href="INFO/formats.html" title="Information on NetCDF and GRIB">here</a>.
-<!--                   <a href="/gcm/misc/GRIBGZIP.html" title="Information on GRIB and GZIP">here</a>. -->
-<!-- MS to be replaced:                    <a href="/sim/gcm_monthly/INFO/formats.html" title="Information on NetCDF and GRIB">here</a>. -->
 </p>
 
 
@@ -76,16 +74,7 @@ observed climate for the 1961-1990 period for subcontinental world regions can b
 
 <p><b>AR5 Scenarios</b></p>
 <p>AR5 Scenarios are based on scenarios of the <a href="http://pcmdi.llnl.gov/mips/cmip5/" target="_blank">CMIP5 (Climate Model Intercomparison Project Phase 5)</a>. Details on CMIP5 Scenarios can be found in:<br />
-<em>Taylor, K.E., R.J. Stouffer, G.A. Meehl</em> (2012): An Overview of CMIP5 and the experiment design. Bull. Amer. Meteor. Soc., 93, 485-498, <a href="http://dx.doi.org/10.1175/BAMS-D-11-00094.1" target="_blank">doi:10.1175/BAMS-D-11-00094.1</a>.<br />
+<em>Taylor, K.E., R.J. Stouffer, G.A. Meehl</em> (2012): An Overview of CMIP5 and the experiment design. Bull. Amer. Meteor. Soc., 93, 485-498, <a href="http://doi.org/10.1175/BAMS-D-11-00094.1" target="_blank">doi:10.1175/BAMS-D-11-00094.1</a>.<br />
 And details on the RCP Emissions and Land Use scenarios used in AR5 are described <a href="http://sedac.ipcc-data.org/ddc/ar5_scenario_process/RCPs.html" target="_blank">here</a>.</p>
 
-<!--		<p><b>Variables requested for the Fifth IPCC-Assesemt Report</b></p>
-		<p>
-		The 14th meeting of the Task Group on Data and Scenario Support for Impact and Climate Analysis 
-		(<a href="http://www.ipcc.ch/activities/activities.shtml#tabs-4">TGICA</a>)
-		(26.2 - 28.2 2008 in St. Augustin/ Trinidad and Tobago) has approved a list of  
-		(proposed) required variables for the next climate model experiments (Fifth IPCC-Assessment Report). <br/>
-		A summary can be found &nbsp;<a href="/docs/tgica14/DOC14_AR5vars.pdf">here</a>.
-		</p>	
--->
 <!-- end of center column -->

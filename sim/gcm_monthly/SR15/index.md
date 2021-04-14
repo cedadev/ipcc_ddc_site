@@ -3,7 +3,7 @@ layout: ddc02
 title: SR1.5 GCM Data
 bodyclass: ddcsim
 banner: ssi/header/Header2012.html
-menuclass: ar5_mon
+menuclass: sr15_mon
 menu: ssi12/menu1/Menu_sim_gcmm.html
 links: ssi12/links/home.html
 logos: ssi12/logos/dkrz.html
@@ -17,7 +17,7 @@ D. Mitchell et al. (2017). Half a degree additional warming, prognosis and proje
 
 <p>HAPPI-MIP data provided through the IPCC DDC has undergone the <a target="_blank" href="http://cmip5qc.wdc-climate.de/">quality control procedure</a>, which was established for AR5. To find individual information on data, data creation and data quality for an experiment, please follow the links in the below table. In addition, the corresponding data references for citing the data in literature for each modelling group's contribution are given.</p>
 
-<p>The data is provided in <a href="/sim/gcm_monthly/INFO/formats.html">NetCDF/CF format</a>. Information on requested variables are summarised in <a target="_blank" href="/sim/gcm_monthly/INFO/HAPPI_request_diagnostics_final.pdf">HAPPI_request_diagnostics_final.pdf</a>. </p>
+<p>The data is provided in <a href="/sim/gcm_monthly/INFO/formats.html">NetCDF/CF format</a>. Information on requested variables are summarised in <a target="_blank" href="http://doi.org/10.5281/zenodo.4636412">HAPPI requested diagnostics</a>. </p>
 
 <p>For the data download from the IPCC DDC an account (free of charge) is required: Please register at the <a target="_blank" href="http://cera-www.dkrz.de/">CERA Portal</a>. How to download data is explained in the <strong><a target="_blank" href="https://cera-www.dkrz.de/WDCC/ui/cerasearch/info?site=IPCC-DDC-AR5-data">data download guide.</a></strong> </p>
 

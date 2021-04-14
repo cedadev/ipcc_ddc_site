@@ -23,16 +23,13 @@ Due to a change in the data transfer system we currently provide data
 only in GRIB format (a machine independent, self-descriptive binary format).
 If you need data in Glog_CSIRO_TMPZIP (compressed ASCII) format you'll have to convert
 the GRIB data locally. For data format conversion you can either use
-<!-- <a href="/gcm/misc/GRIBGZIP.html">grbconv</a> or the -->
 <a href="../INFO/formats.html" title="Information on GRIB">grbconv</a> or the  
-<!--<a href="http://www.mad.zmaw.de/Pingo/pingohome.html">PINGO package</a>. -->
 <a href="http://code.zmaw.de/projects/cdo" target="_blank">CDO package</a>.
 </i>
 </p>
 
 <P>Information on both <FONT COLOR="#0000FF">formats</FONT> and the
 <FONT COLOR="#0000FF">internal data structure</FONT> is given
-<!-- <A HREF="/gcm/misc/GRIBGZIP.html" title="Information on GRIB and GZIP">here</A>. -->
 <a href="../INFO/formats.html" title="Information on GRIB and GZIP">here</a>. 
 </p>
 
@@ -52,7 +49,7 @@ the GRIB data locally. For data format conversion you can either use
 <tr>
 <td ALIGN="left">Max Planck Institute f&uuml;r Meteorologie <br><b>Germany</b></td>
 <td ALIGN="center"><a href="http://www.mpimet.mpg.de/en">MPIfM</a></td>
-<td ALIGN="center"><a href="/gcm/models/tar/echam4opyc3.html">ECHAM4/OPYC3</a></td>
+<td ALIGN="center"><a target="_blank" href="http://doi.org/10.17617/2.1781494">ECHAM4 [PDF]</a> / <a target="_blank" href="http://doi.org/10.2312/WDCC/DKRZ_Report_No07">OPYC3 [PDF]</a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=MP01CI01"><b>control</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=MP01GG01"><b>ghg</b></a></td>
 <td ALIGN="center">&nbsp;</td>
@@ -77,7 +74,7 @@ the GRIB data locally. For data format conversion you can either use
 <td ALIGN="left"  ROWSPAN="2">Hadley Centre&nbsp;
            <br>for Climate Prediction and Research <br><b>UK</b></td>
 <td ALIGN="center" ROWSPAN="2"><a href="http://www.metoffice.gov.uk/climate-guide/science/science-behind-climate-change/hadley" alt="Homepage of the HCCPR">HCCPR</a></td>
-<td ALIGN="center"><a href="/gcm/models/sar/hadcm2.html">HADCM2</a></td>
+<td ALIGN="center"><a target="_blank" href="http://www.metoffice.gov.uk/research/modelling-systems/unified-model/climate-models/hadcm2">HadCM2</a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01CI01"><b>control</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01GS01"><b>ghg 1% (1)</b></a> <br>
                  <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC01GS02"><b>ghg 1% (2)</b></a> <br>
@@ -102,7 +99,7 @@ the GRIB data locally. For data format conversion you can either use
            <br>for Climate Prediction and Research <br><b>UK</b></td>
     <!td ALIGN="center"><a href="http://www.meto.gov.uk/" alt="Homepage of the HCCPR">HCCPR</a></td> 
 -->
-<td ALIGN="center"><a href="/gcm/models/sar/hadcm3.html">HADCM3</a></td>
+<td ALIGN="center"><a href="http://www.metoffice.gov.uk/research/modelling-systems/unified-model/climate-models/hadcm3">HadCM3</a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC02CI01"><b>control</b></a></td>
 <td ALIGN="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=HC02GG01"><b>ghg </b></a> </td>
 <td ALIGN="center">&nbsp;</td>

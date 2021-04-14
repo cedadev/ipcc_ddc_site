@@ -32,18 +32,6 @@ files <font color="#0000FF">one by one </font>.
 </p>
 
 
-<!--
-<P>Information on both <FONT COLOR="#0000FF">formats</FONT> and the
-<FONT COLOR="#0000FF">internal data structure</FONT> is given
-<A HREF="http://cera-www.dkrz.de/IPCC_DDC/GRIBGZIP.html" title="Information on GRIB and GZIP">here</A>.
--->
-
-<!--
-<p>The data formats available are GRIB (machine independent, selfdescriptive
-binary format, WMO standard) and GZIP (compressed ASCII format). Information
-on both <font color="#0000FF">formats</font> and the <font color="#0000FF">internal
-data structure</font> is given <a href="../GRIBGZIP.html" title="Information on GRIB and GZIP">here</a>.
--->
 
 <br>&nbsp;
 <center>

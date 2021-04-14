@@ -24,17 +24,14 @@ Due to a change in the data transfer system we currently provide data
 only in GRIB format (a machine independent, self-descriptive binary format).
 If you need data in Glog_CSIRO_TMPZIP (compressed ASCII) format you'll have to convert
 the GRIB data locally. For data format conversion you can either use
-<!-- <a href="/gcm/misc/GRIBGZIP.html">grbconv</a> -->
 <a href="../INFO/formats.html" title="Information on GRIB">grbconv</a> 
 or the
-<!-- <a href="http://www.mad.zmaw.de/Pingo/pingohome.html">PINGO package</a>. -->
 <a href="http://code.zmaw.de/projects/cdo" target="_blank">CDO package</a>.
 </i>
 </p>
 
 <P>Information on both <FONT COLOR="#0000FF">formats</FONT> and the
 <FONT COLOR="#0000FF">internal data structure</FONT> is given
-<!--<A HREF="/gcm/misc/GRIBGZIP.html" title="Information on GRIB and GZIP">here</A>. -->
 <a href="../INFO/formats.html" title="Information on GRIB and GZIP">here</a> 
 </p>
 
@@ -55,7 +52,7 @@ or the
 <tr>
 <td ALIGN="left">Max Planck Institute f&uuml;r Meteorologie <br><b>Germany</b></td>
 <td ALIGN="center"><a href="http://www.mpimet.mpg.de/en">MPIfM</a></td>
-<td ALIGN="center"><a href="/gcm/models/tar/echam4opyc3.html">ECHAM4/OPYC3</a></td>
+<td ALIGN="center"><a target="_blank" href="http://doi.org/10.17617/2.1781494">ECHAM4 [PDF]</a> / <a target="_blank" href="http://doi.org/10.2312/WDCC/DKRZ_Report_No07">OPYC3 [PDF]</a></td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
 <td ALIGN="center">&nbsp;</td>
@@ -88,7 +85,7 @@ or the
 <tr>
 <td ALIGN="left">Australia's Commonwealth Scientific
            <br>and Industrial Research Organisation <b>Australia</b><br>
-<b>Important <a href="/gcm/misc/Note_CSIRO_data.html">notice</a></b>
+<b>Important <a href="#notecsiro">notice</a></b>
      concerning the CSRIO data sets! </td>
 <td ALIGN="center"><a href="http://www.csiro.au">CSIRO</a></td>
 <td ALIGN="center"><a href="http://www.cmar.csiro.au/e-print/open/hennessy_1998a.html#ccm">CSIRO-Mk2</a></td>
@@ -195,4 +192,10 @@ or the
 <b>For download you need an user account (free of charge): Please register at the <a href="http://cera-www.dkrz.de" target="_blank">CERA Portal</a></b> </FONT> 
 </p>
 &nbsp;
+<p>
+<b><a id="notecsiro">Important note for CSIRO data:</a></b><br>
+CSIRO has provided data from SRES scenario runs to the IPCC-DDC in autumn 2001. These data are included into the DDC in January 2002. Due to an error in the model specifications provided to the IPCC DDC for all CSIRO SRES runs, the labels for model skin temperatures and model air temperatures were reversed. This error was discovered not before September 19th 2002 and the correction then was applied immediately. <br>
+As a consequence (air) temperature data sets retrieved from the archive prior to end of September 2002 will contain the skin temperature data instead of the air temperature. The results based on these data will be erroneous. The data were used in preparation of a <a href="/documents/scatter_plot_report.pdf">report</a> that depicts projected changes in seasonal surface air temperature and precipitation for three 30-year periods (2010-2039, 2040-2069 and 2070-2099) relative to the baseline period 1961-1990 in 32 sub-continental scale regions (Ruosteenoja et al., 2003). The implications of using the erroneous data in this application are described in a more detailed <a href="/syn/tar_scatter/csiro_error.html">description</a> of the errors.<br>
+H. Luthardt 13-05-05
+</p>
 <!-- end of center column -->

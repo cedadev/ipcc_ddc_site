@@ -18,7 +18,7 @@ you will be guided to the database interface which will let you
 retrieve the data files <font color="#0000ff">one by one</font>.
 </p>
 
-<p>The list of requested variables can be find <a href="/gcm/misc/List_of_AR4_variables.pdf">here</a>
+<p>The list of requested variables can be find <a target="_blank" href="https://doi.org/10.5281/zenodo.4636482">here</a>
 </p>
 
 <P>These data represent a subset of the IPCC-Mode Ouput archive run for CMIP3 by <a href="https://pcmdi.llnl.gov/ipcc/historical_details.html"> PCMDI</a>. There you
@@ -29,7 +29,6 @@ may also find the complete set of variables in monthly, daily or 3 hourly tempor
 selfdescriptive binary format, WMO standard) and GZIP (compressed
 ASCII format). Information on both <font color="#0000ff">formats</font>
 and the <font color="#0000ff">internal data structure</font> is given
-<!--<A HREF="/gcm/misc/GRIBGZIP.html">here</A>. <BR>&nbsp;  -->
 <a href="../INFO/formats.html">here</a>.
 </P>
 
@@ -134,8 +133,7 @@ a blue colored cell box. Please have a look into the <b>Quality</b> (meta-data) 
 		<td align="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_20C3M_1">run_1</a><br>
                                    <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_20C3M_2">run_2</a><br>  
                                    <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_20C3M_3">run_3</a>        </td>
-		<td align="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_SRESA2_1">run_1</a><br>
-                                   <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_SRESA2_2">run_2</a><br>
+		<td align="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_SRESA2_2">run_2</a><br>
                                    <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_SRESA2_3">run_3</a>        </td>
 		<td align="center"><a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_SRESA1B_1">run_1</a><br>
                                    <a href="http://cera-www.dkrz.de/WDCC/ui/Compact.jsp?acronym=CGCM3.1_T47_SRESA1B_2">run_2</a><br>

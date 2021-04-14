@@ -47,33 +47,6 @@ International Codes, Part B - Binary Codes (find it <a href="https://community.w
 <li><b><a href="http://code.zmaw.de/projects/cdo" title="CDO Home" target="_blank">cdos (Climate Data Operators):</a></b> Collection of operators to manipulate and analyze Climate Data files. Supported file formats include NetCDF and GRIB. A special information for the installation of cdos on windows is available <a href="http://code.zmaw.de/projects/cdo/wiki/Win32" title="CDO Win" target="_blank">here</a>.</li>
 <li><b><a href="http://www.cpc.ncep.noaa.gov/products/wesley/wgrib.html" title="WGRIB Home" target="_blank">wgrib:</a></b> Program to manipulate, inventory and decode GRIB files.</li></ul>
 
-<!-- OLD
-<p>Deutsches Klimarechenzentrum (DKRZ) provides software to process GRIB
-data provided by the IPCC DDC as</p>
-
-<p><b>GRIB converter ( <a href="/gcm/misc/info/Readme.grbconv">Readme</a> )</b></p>
-<ul>
-<li>Converts GRIB into ASCII or binary or just list the GRIB headers in short form.</li>
-<li><a title="C Source Code:grbconv.c" href="/gcm/misc/grib/grbconv.c">Source code in C</a> and the executables for <a title="Solaris Executable:grbconv.s25" href="/gcm/misc/grib/grbconv.s25">Solaris 2.5</a> as well as for <a title="DOS executable:grbconv.exe" href="/gcm/misc/grib/grbconv.exe">DOS</a>.</li></ul>
-
-<p><b>GRIB -> <a title="GrADS Homepage" href="//grads.iges.org/grads" target="_blank">GrADS</a> mapper ( <a href="/gcm/misc/info/Readme.grb2gas">Readme</a> )</b></p>
-<ul>
-<li>Scans through the GRIB file and prepares index and control file.</li>
-<li><a title="C Source Code:grb2gas.c" href="/gcm/misc/grib/grb2gas.c">Source code in C</a> and the executables for <a title="Solaris Executable:grb2gas.s25" href="/gcm/misc/grib/grb2gas.s25">Solaris 2.5</a> as well as for <a title="DOS executable:grb2gas.exe" href="/gcm/misc/grib/grb2gas.exe">DOS</a>.</li>
-<li>The GRIB -> GrADS mapper uses a <a title="IPCC DDC Code Table" href="/gcm/misc/info/TAB2vars.asc">code table</a> closely related to Code Table 2, Version 1 used for international exchange of binary data.</li></ul>
-
-
-<p><b>GZIP</b></p>
-<p>Gzip reduces the size of the named files using Lempel-Ziv coding (LZ77).
-The source code is available on most platforms. Beside UNIX-Systems a number of
-special targets like MSDOS, OS/2, VMS, Atari, Amiga, Primos are supported. The
-source code including installation hints is available for free from <a alt="Homepage of the GFDL" href="http://www.delorie.com/gnu/">The GNU Project</a>.</p>
-
-<p>The data available at IPCC DDC DKRZ are zipped with GNU ZIP Version 1.2.4. In case of trouble on Windows, please try <a alt="pkzip" href="http://www.pkware.com/download.html" target="_blank">PKZIP</a>.<p>
-
-<p>Information on how to use unzipped ASCII data can be found in a <a title="Information on GZIP" href="/gcm/misc/info/Readme.gzip">README</a>.<p>
---> 
-
 <p><b>Missing Data</b></p>
 
 <p>Missing data is indicated by the value <font color="#FF0000">-999.</font> (floating point). No single data items are indicated as missing. Either a whole monthly dataset is missing or not. </p>
