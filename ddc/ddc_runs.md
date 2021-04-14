@@ -20,7 +20,7 @@ logos: ssi12/logos/All.html
   
   <p> The DDC is a shared operation of the British Atmospheric Data Centre
   (BADC) in the United Kingdom; the World Data Center Climate at the
-  Max-Planck-Institute for Meteorology (WDCC / MPI-M) in Hamburg, Germany;
+  Deutsches Klimarechenzentrum (DKRZ) in Germany (WDCC / DKRZ) in Hamburg, Germany;
   and the Socioeconomic Data and Applications Center (SEDAC) operated by
   the Center for International Earth Science Information Network (CIESIN)
   at Columbia University, New York, USA. Each of these institutions has
@@ -65,17 +65,14 @@ logos: ssi12/logos/All.html
   Fax: +44 1235 446314<br/>
   E-mail: <a href="mailto:martin.juckes@stfc.ac.uk">martin.juckes@stfc.ac.uk</a>
   </td>
-  <td width="33%">Dr. Michael Lautenschlager,<br/>
-Dr. Martina Stockhause (WDCC DDC Coordinator) <br/>
+  <td width="33%">Dr. Martina Stockhause<br/>
 World Data Center Climate <br/>
-German Climate Computing Centre (DKRZ GmbH) <br/>
+Deutsches Klimarechenzentrum GmbH <br/>
 Bundesstrasse 45a <br/>
 D-20146 Hamburg <br/>
 Germany <br/>
-Tel: +4940 460094 118 <br/>
-Fax: +4940 460094 270 <br/>
-E-mail: <a href="mailto:lautenschlager@dkrz.de">lautenschlager@dkrz.de</a>  <br/>
-<a href="http://wdc-climate.de">Url: wdc-climate.de</a> <br/>
+Tel: +49 40 460094 433<br/>
+E-mail: <a href="mailto:stockhause@dkrz.de">stockhause@dkrz.de</a>  <br/>
   </td>
   <td width="33%">Dr. Robert S. Chen (CIESIN DDC Manager)<br/>
   Xiaoshi Xing,  (CIESIN DDC Coordinator) <br/>
