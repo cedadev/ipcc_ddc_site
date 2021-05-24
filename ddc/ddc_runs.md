@@ -89,13 +89,8 @@ E-mail: <a href="mailto:stockhause@dkrz.de">stockhause@dkrz.de</a>  <br/>
   
   <h2>Guidance Material</h2>
   
-  <p>The preparation of the guidance material and documentation
-  for the scenarios will be coordinated by Dr.Timothy Carter of
-  the Finnish Environment Institute, Helsinki, in close co-operation
-  with the DDC. It will include descriptions of the GCM experiments,
-  discussion of the uncertainties of climate scenarios, guidance
-  on their application in impacts studies, and suggestions on the
-  reporting of research results. The procedures for producing full length guidance documents and brief factsheets are given here: <a href="/docs/guidelines_process_document_Oct2011.pdf">guidelines publication procedure</a> and <a href="/docs/fact_sheets_process_document_Oct2011.pdf">factsheet publication procedure</a>.</p>
+  <p>
+The procedures for producing full length guidance documents and brief factsheets are given here: <a href="/docs/guidelines_process_document_Oct2011.pdf">guidelines publication procedure</a> and <a href="/docs/fact_sheets_process_document_Oct2011.pdf">factsheet publication procedure</a>.</p>
   
   
 </div> 
